@@ -1,0 +1,1128 @@
+--------------------------------------------------
+./run.sh: line 3: 55035 Killed                  ./mathsat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/25_stack_longer-1-O0.smt2 : 1200702 ms.
+--------------------------------------------------
+./run.sh: line 3: 60165 Killed                  ./mathsat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/25_stack_longer-2-O0.smt2 : 1200419 ms.
+--------------------------------------------------
+tcmalloc: large alloc 1382203392 bytes == 0xeb130000 @  0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680
+tcmalloc: large alloc 1382203392 bytes == 0x239318000 @  0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/25_stack_longest-1-O0.smt2 : 1201007 ms.
+--------------------------------------------------
+tcmalloc: large alloc 1382203392 bytes == 0xec19a000 @  0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680
+tcmalloc: large alloc 1382203392 bytes == 0x23a382000 @  0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/25_stack_longest-2-O0.smt2 : 1201007 ms.
+--------------------------------------------------
+./run.sh: line 3: 74409 Killed                  ./mathsat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/26_stack_cas_longer-1-O0.smt2 : 1200595 ms.
+--------------------------------------------------
+./run.sh: line 3: 79941 Killed                  ./mathsat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/26_stack_cas_longer-2-O0.smt2 : 1200442 ms.
+--------------------------------------------------
+tcmalloc: large alloc 1382203392 bytes == 0xebcd2000 @  0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680
+tcmalloc: large alloc 1382203392 bytes == 0x23c4fe000 @  0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/26_stack_cas_longest-1-O0.smt2 : 1201005 ms.
+--------------------------------------------------
+tcmalloc: large alloc 1382203392 bytes == 0xeb91c000 @  0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680
+tcmalloc: large alloc 1382203392 bytes == 0x23c148000 @  0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/26_stack_cas_longest-2-O0.smt2 : 1201006 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/28-race_reach_45-escape_racing-O0.smt2 : 5449 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/28-race_reach_46-escape_racefree-O0.smt2 : 3945 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/36_stack_cas_p0_vs_concur-O0.smt2 : 19328 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/37_stack_lock_p0_vs_concur-O0.smt2 : 18680 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/pthread-demo-datarace-1-O0.smt2 : 33146 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/pthread-demo-datarace-2-O0.smt2 : 222516 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/race-2_1-container_of-O0.smt2 : 70721 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/race-2_2-container_of-O0.smt2 : 81205 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/race-2_3-container_of-O0.smt2 : 288689 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/race-2_4-container_of-O0.smt2 : 331969 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/race-2_5-container_of-O0.smt2 : 313785 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/race-3_1-container_of-global-O0.smt2 : 59797 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/race-3_2-container_of-global-O0.smt2 : 146117 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/scull-O0.smt2 : 2675 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/singleton-O0.smt2 : 9021 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/singleton_with-uninit-problems-O0.smt2 : 4390 ms.
+--------------------------------------------------
+tcmalloc: large alloc 1382203392 bytes == 0xec58c000 @  0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array_1-1-O0.smt2 : 1201007 ms.
+--------------------------------------------------
+tcmalloc: large alloc 1382203392 bytes == 0xecc2a000 @  0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array_1-2-O0.smt2 : 1201006 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array-1-O0.smt2 : 11842 ms.
+--------------------------------------------------
+tcmalloc: large alloc 1382203392 bytes == 0xed0ca000 @  0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array_2-1-O0.smt2 : 1201006 ms.
+--------------------------------------------------
+tcmalloc: large alloc 1382203392 bytes == 0xeda26000 @  0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array_2-2-O0.smt2 : 1201006 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array-2-O0.smt2 : 13405 ms.
+--------------------------------------------------
+tcmalloc: large alloc 1382203392 bytes == 0xeb41e000 @  0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680
+tcmalloc: large alloc 2764406784 bytes == 0x1d3fb8000 @  0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array_3-1-O0.smt2 : 1201006 ms.
+--------------------------------------------------
+tcmalloc: large alloc 1382203392 bytes == 0xeb27a000 @  0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680
+tcmalloc: large alloc 2764406784 bytes == 0x1d3e14000 @  0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array_3-2-O0.smt2 : 1201007 ms.
+--------------------------------------------------
+tcmalloc: large alloc 1382203392 bytes == 0xebcb0000 @  0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680
+tcmalloc: large alloc 2764406784 bytes == 0x1d484a000 @  0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680 0x1641680
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array_4-O0.smt2 : 1201007 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/benchmark52_polynomial-O0.smt2 : 7244 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll-O0.smt2 : 935 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_unwindbound100-O0.smt2 : 1184 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_unwindbound10-O0.smt2 : 1145 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_unwindbound1-O0.smt2 : 1203 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_unwindbound20-O0.smt2 : 1182 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_unwindbound2-O0.smt2 : 1116 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_unwindbound50-O0.smt2 : 1161 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_unwindbound5-O0.smt2 : 1256 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_valuebound100-O0.smt2 : 620 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_valuebound10-O0.smt2 : 564 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_valuebound1-O0.smt2 : 656 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_valuebound20-O0.smt2 : 623 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_valuebound2-O0.smt2 : 617 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_valuebound50-O0.smt2 : 613 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_valuebound5-O0.smt2 : 598 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll-O0.smt2 : 827 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_unwindbound100-O0.smt2 : 1140 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_unwindbound10-O0.smt2 : 1246 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_unwindbound1-O0.smt2 : 1238 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_unwindbound20-O0.smt2 : 1271 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_unwindbound2-O0.smt2 : 1193 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_unwindbound50-O0.smt2 : 1270 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_unwindbound5-O0.smt2 : 1176 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_valuebound100-O0.smt2 : 653 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_valuebound10-O0.smt2 : 624 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_valuebound1-O0.smt2 : 658 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_valuebound20-O0.smt2 : 702 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_valuebound2-O0.smt2 : 680 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_valuebound50-O0.smt2 : 753 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_valuebound5-O0.smt2 : 674 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll-O0.smt2 : 624 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_unwindbound100-O0.smt2 : 750 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_unwindbound10-O0.smt2 : 699 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_unwindbound1-O0.smt2 : 849 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_unwindbound20-O0.smt2 : 747 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_unwindbound2-O0.smt2 : 675 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_unwindbound50-O0.smt2 : 607 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_unwindbound5-O0.smt2 : 578 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_valuebound100-O0.smt2 : 959 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_valuebound10-O0.smt2 : 1033 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_valuebound1-O0.smt2 : 1129 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_valuebound20-O0.smt2 : 1160 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_valuebound2-O0.smt2 : 1170 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_valuebound50-O0.smt2 : 1103 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_valuebound5-O0.smt2 : 1100 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll-O0.smt2 : 744 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_unwindbound100-O0.smt2 : 816 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_unwindbound10-O0.smt2 : 844 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_unwindbound1-O0.smt2 : 347 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_unwindbound20-O0.smt2 : 784 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_unwindbound2-O0.smt2 : 764 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_unwindbound50-O0.smt2 : 677 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_unwindbound5-O0.smt2 : 894 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_valuebound100-O0.smt2 : 858 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_valuebound10-O0.smt2 : 805 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_valuebound1-O0.smt2 : 854 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_valuebound20-O0.smt2 : 793 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_valuebound2-O0.smt2 : 790 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_valuebound50-O0.smt2 : 839 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_valuebound5-O0.smt2 : 875 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll-O0.smt2 : 598 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_unwindbound100-O0.smt2 : 601 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_unwindbound10-O0.smt2 : 661 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_unwindbound1-O0.smt2 : 301 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_unwindbound20-O0.smt2 : 670 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_unwindbound2-O0.smt2 : 277 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_unwindbound50-O0.smt2 : 423 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_unwindbound5-O0.smt2 : 568 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_valuebound100-O0.smt2 : 661 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_valuebound10-O0.smt2 : 666 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_valuebound1-O0.smt2 : 969 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_valuebound20-O0.smt2 : 751 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_valuebound2-O0.smt2 : 657 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_valuebound50-O0.smt2 : 650 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_valuebound5-O0.smt2 : 706 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll-O0.smt2 : 630 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_unwindbound100-O0.smt2 : 659 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_unwindbound10-O0.smt2 : 729 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_unwindbound1-O0.smt2 : 698 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_unwindbound20-O0.smt2 : 640 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_unwindbound2-O0.smt2 : 676 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_unwindbound50-O0.smt2 : 690 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_unwindbound5-O0.smt2 : 586 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_valuebound100-O0.smt2 : 772 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_valuebound10-O0.smt2 : 694 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_valuebound1-O0.smt2 : 531 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_valuebound20-O0.smt2 : 778 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_valuebound2-O0.smt2 : 878 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_valuebound50-O0.smt2 : 758 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_valuebound5-O0.smt2 : 761 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/eureka_01-1-O0.smt2 : 94295 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/eureka_01-2-O0.smt2 : 78770 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/eureka_05-O0.smt2 : 9745 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/gauss_sum.i.p+cfa-reducer-O0.smt2 : 1707 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/gauss_sum.i.p+lhb-reducer-O0.smt2 : 1959 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/gauss_sum.i.v+cfa-reducer-O0.smt2 : 1722 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/gauss_sum-O0.smt2 : 601 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll-O0.smt2 : 463 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_unwindbound100-O0.smt2 : 481 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_unwindbound10-O0.smt2 : 468 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_unwindbound1-O0.smt2 : 379 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_unwindbound20-O0.smt2 : 387 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_unwindbound2-O0.smt2 : 402 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_unwindbound50-O0.smt2 : 469 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_unwindbound5-O0.smt2 : 475 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_valuebound100-O0.smt2 : 468 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_valuebound10-O0.smt2 : 466 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_valuebound1-O0.smt2 : 525 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_valuebound20-O0.smt2 : 449 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_valuebound2-O0.smt2 : 396 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_valuebound50-O0.smt2 : 395 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_valuebound5-O0.smt2 : 458 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u-O0.smt2 : 780 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_unwindbound100-O0.smt2 : 774 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_unwindbound10-O0.smt2 : 813 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_unwindbound1-O0.smt2 : 838 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_unwindbound20-O0.smt2 : 794 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_unwindbound2-O0.smt2 : 794 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_unwindbound50-O0.smt2 : 858 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_unwindbound5-O0.smt2 : 809 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_valuebound100-O0.smt2 : 468 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_valuebound10-O0.smt2 : 484 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_valuebound1-O0.smt2 : 402 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_valuebound20-O0.smt2 : 475 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_valuebound2-O0.smt2 : 971 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_valuebound50-O0.smt2 : 491 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_valuebound5-O0.smt2 : 487 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll-O0.smt2 : 865 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_unwindbound100-O0.smt2 : 798 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_unwindbound10-O0.smt2 : 761 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_unwindbound1-O0.smt2 : 653 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_unwindbound20-O0.smt2 : 879 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_unwindbound2-O0.smt2 : 827 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_unwindbound50-O0.smt2 : 870 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_unwindbound5-O0.smt2 : 913 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_valuebound100-O0.smt2 : 480 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_valuebound10-O0.smt2 : 472 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_valuebound1-O0.smt2 : 424 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_valuebound20-O0.smt2 : 502 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_valuebound2-O0.smt2 : 468 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_valuebound50-O0.smt2 : 439 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_valuebound5-O0.smt2 : 421 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll-O0.smt2 : 13561 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_unwindbound100-O0.smt2 : 5552 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_unwindbound10-O0.smt2 : 5595 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_unwindbound1-O0.smt2 : 5829 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_unwindbound20-O0.smt2 : 5307 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_unwindbound2-O0.smt2 : 5622 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_unwindbound50-O0.smt2 : 6786 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_unwindbound5-O0.smt2 : 5820 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_valuebound100-O0.smt2 : 2798 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_valuebound10-O0.smt2 : 2782 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_valuebound1-O0.smt2 : 428 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_valuebound20-O0.smt2 : 2882 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_valuebound2-O0.smt2 : 685 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_valuebound50-O0.smt2 : 2878 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_valuebound5-O0.smt2 : 1893 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/half_2-O0.smt2 : 2994 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2-O0.smt2 : 21816 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound100-O0.smt2 : 106929 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound10-O0.smt2 : 183281 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound1-O0.smt2 : 3541 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound20-O0.smt2 : 163694 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound2-O0.smt2 : 1842 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound50-O0.smt2 : 103751 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound5-O0.smt2 : 295189 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_valuebound100-O0.smt2 : 24594 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_valuebound10-O0.smt2 : 22787 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_valuebound1-O0.smt2 : 1229 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_valuebound20-O0.smt2 : 22967 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_valuebound2-O0.smt2 : 21686 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_valuebound50-O0.smt2 : 23233 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_valuebound5-O0.smt2 : 23307 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll-O0.smt2 : 157725 ms.
+--------------------------------------------------
+./run.sh: line 3: 124234 Killed                  ./mathsat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound100-O0.smt2 : 1200506 ms.
+--------------------------------------------------
+./run.sh: line 3: 127633 Killed                  ./mathsat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound10-O0.smt2 : 1200586 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound1-O0.smt2 : 4816 ms.
+--------------------------------------------------
+./run.sh: line 3: 130590 Killed                  ./mathsat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound20-O0.smt2 : 1200499 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound2-O0.smt2 : 4766 ms.
+--------------------------------------------------
+./run.sh: line 3: 133438 Killed                  ./mathsat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound50-O0.smt2 : 1200646 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound5-O0.smt2 : 401781 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_valuebound100-O0.smt2 : 235063 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_valuebound10-O0.smt2 : 183573 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_valuebound1-O0.smt2 : 2226 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_valuebound20-O0.smt2 : 179172 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_valuebound2-O0.smt2 : 4606 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_valuebound50-O0.smt2 : 285512 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_valuebound5-O0.smt2 : 107520 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/heapsort-O0.smt2 : 1553 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/id_trans-O0.smt2 : 408 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/invert_string-1-O0.smt2 : 2946 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1-O0.smt2 : 512 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_unwindbound100-O0.smt2 : 517 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_unwindbound10-O0.smt2 : 530 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_unwindbound1-O0.smt2 : 463 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_unwindbound20-O0.smt2 : 445 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_unwindbound2-O0.smt2 : 503 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_unwindbound50-O0.smt2 : 535 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_unwindbound5-O0.smt2 : 524 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_valuebound100-O0.smt2 : 548 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_valuebound10-O0.smt2 : 543 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_valuebound1-O0.smt2 : 450 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_valuebound20-O0.smt2 : 507 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_valuebound2-O0.smt2 : 587 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_valuebound50-O0.smt2 : 511 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_valuebound5-O0.smt2 : 524 ms.
+--------------------------------------------------
+./run.sh: line 3: 140030 Killed                  ./mathsat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2-O0.smt2 : 1200669 ms.
+--------------------------------------------------
+./run.sh: line 3: 143753 Killed                  ./mathsat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_unwindbound100-O0.smt2 : 1200892 ms.
+--------------------------------------------------
+./run.sh: line 3: 147314 Killed                  ./mathsat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_unwindbound10-O0.smt2 : 1200794 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_unwindbound1-O0.smt2 : 1201005 ms.
+--------------------------------------------------
+./run.sh: line 3: 153881 Killed                  ./mathsat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_unwindbound20-O0.smt2 : 1200756 ms.
+--------------------------------------------------
+./run.sh: line 3: 156526 Killed                  ./mathsat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_unwindbound2-O0.smt2 : 1200764 ms.
+--------------------------------------------------
+./run.sh: line 3: 159253 Killed                  ./mathsat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_unwindbound50-O0.smt2 : 1200703 ms.
+--------------------------------------------------
+./run.sh: line 3: 162406 Killed                  ./mathsat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_unwindbound5-O0.smt2 : 1200846 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_valuebound100-O0.smt2 : 137059 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_valuebound10-O0.smt2 : 2751 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_valuebound1-O0.smt2 : 390 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_valuebound20-O0.smt2 : 6293 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_valuebound2-O0.smt2 : 1039 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_valuebound50-O0.smt2 : 39206 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_valuebound5-O0.smt2 : 1168 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/loopv3-O0.smt2 : 1402 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv-O0.smt2 : 537 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_unwindbound100-O0.smt2 : 459 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_unwindbound10-O0.smt2 : 490 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_unwindbound1-O0.smt2 : 500 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_unwindbound20-O0.smt2 : 474 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_unwindbound2-O0.smt2 : 460 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_unwindbound50-O0.smt2 : 458 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_unwindbound5-O0.smt2 : 487 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_valuebound100-O0.smt2 : 550 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_valuebound10-O0.smt2 : 656 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_valuebound1-O0.smt2 : 602 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_valuebound20-O0.smt2 : 607 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_valuebound2-O0.smt2 : 615 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_valuebound50-O0.smt2 : 554 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_valuebound5-O0.smt2 : 444 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/matrix-1-O0.smt2 : 11496 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/matrix-2-O0.smt2 : 11214 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/n.c11-O0.smt2 : 1014 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/n.c40-O0.smt2 : 40068 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/nec11-O0.smt2 : 681 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/nec40-O0.smt2 : 39316 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll-O0.smt2 : 616 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_unwindbound100-O0.smt2 : 572 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_unwindbound10-O0.smt2 : 603 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_unwindbound1-O0.smt2 : 663 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_unwindbound20-O0.smt2 : 638 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_unwindbound2-O0.smt2 : 496 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_unwindbound50-O0.smt2 : 595 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_unwindbound5-O0.smt2 : 636 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_valuebound100-O0.smt2 : 366 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_valuebound10-O0.smt2 : 356 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_valuebound1-O0.smt2 : 292 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_valuebound20-O0.smt2 : 357 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_valuebound2-O0.smt2 : 302 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_valuebound50-O0.smt2 : 290 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_valuebound5-O0.smt2 : 335 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll-O0.smt2 : 735 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_unwindbound100-O0.smt2 : 829 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_unwindbound10-O0.smt2 : 1022 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_unwindbound1-O0.smt2 : 782 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_unwindbound20-O0.smt2 : 592 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_unwindbound2-O0.smt2 : 644 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_unwindbound50-O0.smt2 : 582 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_unwindbound5-O0.smt2 : 551 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_valuebound100-O0.smt2 : 349 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_valuebound10-O0.smt2 : 441 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_valuebound1-O0.smt2 : 452 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_valuebound20-O0.smt2 : 296 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_valuebound2-O0.smt2 : 444 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_valuebound50-O0.smt2 : 457 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_valuebound5-O0.smt2 : 334 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll-O0.smt2 : 602 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_unwindbound100-O0.smt2 : 564 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_unwindbound10-O0.smt2 : 710 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_unwindbound1-O0.smt2 : 768 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_unwindbound20-O0.smt2 : 819 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_unwindbound2-O0.smt2 : 798 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_unwindbound50-O0.smt2 : 768 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_unwindbound5-O0.smt2 : 831 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_valuebound100-O0.smt2 : 435 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_valuebound10-O0.smt2 : 466 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_valuebound1-O0.smt2 : 442 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_valuebound20-O0.smt2 : 324 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_valuebound2-O0.smt2 : 339 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_valuebound50-O0.smt2 : 465 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_valuebound5-O0.smt2 : 439 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll-O0.smt2 : 725 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_unwindbound100-O0.smt2 : 464 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_unwindbound10-O0.smt2 : 473 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_unwindbound1-O0.smt2 : 405 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_unwindbound20-O0.smt2 : 474 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_unwindbound2-O0.smt2 : 456 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_unwindbound50-O0.smt2 : 372 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_unwindbound5-O0.smt2 : 397 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_valuebound100-O0.smt2 : 738 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_valuebound10-O0.smt2 : 755 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_valuebound1-O0.smt2 : 692 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_valuebound20-O0.smt2 : 726 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_valuebound2-O0.smt2 : 743 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_valuebound50-O0.smt2 : 738 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_valuebound5-O0.smt2 : 798 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll-O0.smt2 : 701 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_unwindbound100-O0.smt2 : 484 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_unwindbound10-O0.smt2 : 461 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_unwindbound1-O0.smt2 : 452 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_unwindbound20-O0.smt2 : 540 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_unwindbound2-O0.smt2 : 524 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_unwindbound50-O0.smt2 : 517 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_unwindbound5-O0.smt2 : 509 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_valuebound100-O0.smt2 : 808 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_valuebound10-O0.smt2 : 729 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_valuebound1-O0.smt2 : 604 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_valuebound20-O0.smt2 : 827 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_valuebound2-O0.smt2 : 828 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_valuebound50-O0.smt2 : 854 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_valuebound5-O0.smt2 : 708 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll-O0.smt2 : 867 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_unwindbound100-O0.smt2 : 914 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_unwindbound10-O0.smt2 : 933 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_unwindbound1-O0.smt2 : 822 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_unwindbound20-O0.smt2 : 824 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_unwindbound2-O0.smt2 : 622 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_unwindbound50-O0.smt2 : 672 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_unwindbound5-O0.smt2 : 876 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_valuebound100-O0.smt2 : 523 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_valuebound10-O0.smt2 : 545 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_valuebound1-O0.smt2 : 549 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_valuebound20-O0.smt2 : 539 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_valuebound2-O0.smt2 : 422 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_valuebound50-O0.smt2 : 431 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_valuebound5-O0.smt2 : 403 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/string-1-O0.smt2 : 675 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sum_natnum-O0.smt2 : 1556 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/veris.c_NetBSD-libc_loop-O0.smt2 : 1792 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/veris.c_sendmail_tTflag_arr_one_loop-O0.smt2 : 1675 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/verisec_NetBSD-libc_loop-O0.smt2 : 2044 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/vogal-1-O0.smt2 : 1608 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/vogal-2-O0.smt2 : 1557 ms.
