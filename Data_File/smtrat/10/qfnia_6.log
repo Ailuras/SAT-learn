@@ -1,0 +1,330 @@
+--------------------------------------------------
+./run.sh: line 3: 79440 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/4NestedWith3Variables_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 10034 ms.
+--------------------------------------------------
+./run.sh: line 3: 79751 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/aaron3_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 10034 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Ackermann01_true-termination.c_Iteration9_Loop+nonterminationTemplate_0.smt2 : 750 ms.
+--------------------------------------------------
+./run.sh: line 3: 80338 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/AliasDarteFeautrierGonnord-SAS2010-aaron3_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 10024 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/AliasDarteFeautrierGonnord-SAS2010-exmini_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 97 ms.
+--------------------------------------------------
+./run.sh: line 3: 80983 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/AliasDarteFeautrierGonnord-SAS2010-nestedLoop_true-termination.c_Iteration8_Loop+nonterminationTemplate_0.smt2 : 10029 ms.
+--------------------------------------------------
+./run.sh: line 3: 81336 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/AliasDarteFeautrierGonnord-SAS2010-nestedLoop_true-termination.c_Iteration9_Loop+nonterminationTemplate_0.smt2 : 10020 ms.
+--------------------------------------------------
+./run.sh: line 3: 81730 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/AliasDarteFeautrierGonnord-SAS2010-rsd_true-termination.c_Iteration4_Loop+nonterminationTemplate_0.smt2 : 10028 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/AliasDarteFeautrierGonnord-SAS2010-terminate_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 86 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/b.04_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 532 ms.
+--------------------------------------------------
+./run.sh: line 3: 82111 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Benghazi_nondet_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 10019 ms.
+--------------------------------------------------
+./run.sh: line 3: 82408 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/BradleyMannaSipma-ICALP2005-Fig1_true-termination.c_Iteration4_Lasso+nonterminationTemplate_0.smt2 : 10014 ms.
+--------------------------------------------------
+./run.sh: line 3: 82689 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChawdharyCookGulwaniSagivYang-ESOP2008-aaron12_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 10028 ms.
+--------------------------------------------------
+./run.sh: line 3: 83072 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChawdharyCookGulwaniSagivYang-ESOP2008-aaron12_true-termination.c_Iteration2_Loop+nonterminationTemplate_0.smt2 : 10021 ms.
+--------------------------------------------------
+./run.sh: line 3: 83358 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChawdharyCookGulwaniSagivYang-ESOP2008-aaron12_true-termination.c_Iteration3_Loop+nonterminationTemplate_0.smt2 : 10026 ms.
+--------------------------------------------------
+./run.sh: line 3: 83846 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChawdharyCookGulwaniSagivYang-ESOP2008-aaron4_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 10036 ms.
+--------------------------------------------------
+./run.sh: line 3: 84111 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex2.06_false-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 10055 ms.
+--------------------------------------------------
+./run.sh: line 3: 93426 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex2.06_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 10112 ms.
+--------------------------------------------------
+./run.sh: line 3: 118208 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex2.07_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 10059 ms.
+--------------------------------------------------
+./run.sh: line 3: 142103 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex2.11_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 10216 ms.
+--------------------------------------------------
+./run.sh: line 3: 163693 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex2.13_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 10119 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex2.19_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 44 ms.
+--------------------------------------------------
+./run.sh: line 3: 189688 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex3.01_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 10151 ms.
+--------------------------------------------------
+./run.sh: line 3: 216010 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex3.04_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 10295 ms.
+--------------------------------------------------
+./run.sh: line 3: 250939 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex3.05_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 10127 ms.
+--------------------------------------------------
+./run.sh: line 3: 278670 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex3.08_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 10087 ms.
+--------------------------------------------------
+./run.sh: line 3: 285983 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex3.09_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 10030 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex3.10_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 97 ms.
+--------------------------------------------------
+./run.sh: line 3: 292148 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex4.01_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 10286 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChooseLife_false-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 106 ms.
+--------------------------------------------------
+./run.sh: line 3: 318423 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Collatz_unknown-termination.c_Iteration4_Lasso+nonterminationTemplate_0.smt2 : 10143 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/ColonSipma-TACAS2001-Fig1_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 92 ms.
+--------------------------------------------------
+./run.sh: line 3: 337088 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Copenhagen_disj_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 10154 ms.
+--------------------------------------------------
+./run.sh: line 3: 356943 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et1_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 10087 ms.
+--------------------------------------------------
+./run.sh: line 3: 376582 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et1_true_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 10085 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et4_false-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 1631 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et4_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 1319 ms.
+--------------------------------------------------
+./run.sh: line 3: 405166 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et4_true_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 10095 ms.
+--------------------------------------------------
+./run.sh: line 3: 426784 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et4_true_true-termination.c_Iteration2_Loop+nonterminationTemplate_0.smt2 : 10066 ms.
+--------------------------------------------------
+./run.sh: line 3: 450399 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et4_true_true-termination.c_Iteration3_Loop+nonterminationTemplate_0.smt2 : 10100 ms.
+--------------------------------------------------
+./run.sh: line 3: 11665 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et4_true_true-termination.c_Iteration4_Loop+nonterminationTemplate_0.smt2 : 10126 ms.
+--------------------------------------------------
+./run.sh: line 3: 30683 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/EvenOdd01_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 10063 ms.
+--------------------------------------------------
+./run.sh: line 3: 56988 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/GCD4_true-termination.c_Iteration2_Loop+nonterminationTemplate_0.smt2 : 10087 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Gothenburg_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 974 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Gothenburg_v2_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 2037 ms.
+--------------------------------------------------
+./run.sh: line 3: 80711 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Hanoi_plus_false-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 10087 ms.
+--------------------------------------------------
+./run.sh: line 3: 101331 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Hanoi_plus_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 10132 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/HarrisLalNoriRajamani-SAS2010-Fig1_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 7412 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/HarrisLalNoriRajamani-SAS2010-Fig1_true-termination.c_Iteration2_Lasso+nonterminationTemplate_0.smt2 : 6773 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/HeizmannHoenickeLeikePodelski-ATVA2013-Fig2_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 98 ms.
+--------------------------------------------------
+./run.sh: line 3: 151823 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/LarrazOliverasRodriguez-CarbonellRubio-FMCAD2013-Fig1_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 10029 ms.
+--------------------------------------------------
+./run.sh: line 3: 173731 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/LarrazOliverasRodriguez-CarbonellRubio-FMCAD2013-Fig1_true-termination.c_Iteration3_Loop+nonterminationTemplate_0.smt2 : 10037 ms.
+--------------------------------------------------
+./run.sh: line 3: 202675 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/LarrazOliverasRodriguez-CarbonellRubio-FMCAD2013-Fig1_true-termination.c_Iteration6_Loop+nonterminationTemplate_0.smt2 : 10035 ms.
+--------------------------------------------------
+./run.sh: line 3: 232379 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/LeeJonesBen-Amram-POPL2001-Ex2_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 10087 ms.
+--------------------------------------------------
+./run.sh: line 3: 258977 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/LeeJonesBen-Amram-POPL2001-Ex2_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 10102 ms.
+--------------------------------------------------
+./run.sh: line 3: 278869 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/LeikeHeizmann-WST2014-Ex5_false-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 10050 ms.
+--------------------------------------------------
+./run.sh: line 3: 299230 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/McCarthy91_Recursion_true-termination.c_Iteration2_Loop+nonterminationTemplate_0.smt2 : 10057 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+../QF_NIA_split/QF_NIA_6//LassoRanker/McCarthy91_Recursion_true-termination.c_Iteration5_Loop+nonterminationTemplate_0.smt2 : 11007 ms.
+--------------------------------------------------
+./run.sh: line 3: 365471 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/min_rf_true-termination.c_Iteration8_Loop+nonterminationTemplate_0.smt2 : 10187 ms.
+--------------------------------------------------
+./run.sh: line 3: 385993 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/MinusBuiltIn_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 10140 ms.
+--------------------------------------------------
+./run.sh: line 3: 411430 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/MutualRecursion_1a_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 10177 ms.
+--------------------------------------------------
+./run.sh: line 3: 433547 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/MutualRecursion_1b_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 10071 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/MutualRecursion_1b_true-termination.c_Iteration3_Loop+nonterminationTemplate_0.smt2 : 3392 ms.
+--------------------------------------------------
+./run.sh: line 3:  9580 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/MutualRecursion_1b_true-termination.c_Iteration6_Loop+nonterminationTemplate_0.smt2 : 10133 ms.
+--------------------------------------------------
+./run.sh: line 3: 34942 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Mysore_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 10093 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/Parts_true-termination.c_Iteration22_Loop+nonterminationTemplate_0.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/PastaA6_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 8 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PastaB4_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 398 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PastaC7_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 75 ms.
+--------------------------------------------------
+./run.sh: line 3: 60249 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration10_Loop+nonterminationTemplate_0.smt2 : 10279 ms.
+--------------------------------------------------
+./run.sh: line 3: 85826 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration11_Loop+nonterminationTemplate_0.smt2 : 10066 ms.
+--------------------------------------------------
+./run.sh: line 3: 108686 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration12_Loop+nonterminationTemplate_0.smt2 : 10047 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration3_Loop+nonterminationTemplate_0.smt2 : 11006 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration4_Loop+nonterminationTemplate_0.smt2 : 11007 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration5_Loop+nonterminationTemplate_0.smt2 : 11007 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration6_Loop+nonterminationTemplate_0.smt2 : 11009 ms.
+--------------------------------------------------
+./run.sh: line 3: 228300 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration7_Loop+nonterminationTemplate_0.smt2 : 10131 ms.
+--------------------------------------------------
+./run.sh: line 3: 251270 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration8_Loop+nonterminationTemplate_0.smt2 : 10080 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration9_Loop+nonterminationTemplate_0.smt2 : 6 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: line 3: 284066 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration10_Loop+nonterminationTemplate_0.smt2 : 10061 ms.
+--------------------------------------------------
+./run.sh: line 3: 309911 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration11_Loop+nonterminationTemplate_0.smt2 : 10044 ms.
+--------------------------------------------------
+./run.sh: line 3: 333837 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration12_Loop+nonterminationTemplate_0.smt2 : 10060 ms.
+--------------------------------------------------
+./run.sh: line 3: 362314 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration13_Loop+nonterminationTemplate_0.smt2 : 10195 ms.
+--------------------------------------------------
+./run.sh: line 3: 389417 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration2_Loop+nonterminationTemplate_0.smt2 : 10089 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: line 3: 434383 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration3_Loop+nonterminationTemplate_0.smt2 : 17149 ms.
+--------------------------------------------------
+./run.sh: line 3:  3603 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration4_Loop+nonterminationTemplate_0.smt2 : 10091 ms.
+--------------------------------------------------
+./run.sh: line 3: 30698 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration6_Loop+nonterminationTemplate_0.smt2 : 10147 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: line 3: 61143 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration7_Loop+nonterminationTemplate_0.smt2 : 10345 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration9_Loop+nonterminationTemplate_0.smt2 : 9 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 5 ms.
+--------------------------------------------------
+./run.sh: line 3: 87941 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration2_Loop+nonterminationTemplate_0.smt2 : 10132 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration3_Loop+nonterminationTemplate_0.smt2 : 526 ms.
+--------------------------------------------------
+./run.sh: line 3: 116444 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration4_Loop+nonterminationTemplate_0.smt2 : 10047 ms.
+--------------------------------------------------
+./run.sh: line 3: 150308 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration5_Loop+nonterminationTemplate_0.smt2 : 10062 ms.
+--------------------------------------------------
+./run.sh: line 3: 182820 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration6_Loop+nonterminationTemplate_0.smt2 : 10023 ms.
+--------------------------------------------------
+./run.sh: line 3: 205951 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration7_Loop+nonterminationTemplate_0.smt2 : 10061 ms.
+--------------------------------------------------
+./run.sh: line 3: 238472 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration8_Loop+nonterminationTemplate_0.smt2 : 10047 ms.
+--------------------------------------------------
+./run.sh: line 3: 265097 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Pure3Phase_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 10016 ms.
+--------------------------------------------------
+./run.sh: line 3: 285524 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Pure3Phase_true-termination.c_Iteration4_Loop+nonterminationTemplate_0.smt2 : 10034 ms.
+--------------------------------------------------
+./run.sh: line 3: 302314 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Pure3Phase_true-termination.c_Iteration5_Loop+nonterminationTemplate_0.smt2 : 10026 ms.
+--------------------------------------------------
+./run.sh: line 3: 318594 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Pure3Phase_true-termination.c_Iteration6_Loop+nonterminationTemplate_0.smt2 : 10046 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/Pure3Phase_true-termination.c_Iteration7_Loop+nonterminationTemplate_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/Pure3Phase_true-termination.c_Iteration8_Loop+nonterminationTemplate_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/Stockholm_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 2 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/Swingers_false-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/Swingers_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 4 ms.

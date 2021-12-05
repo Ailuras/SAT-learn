@@ -1,0 +1,7 @@
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 419454 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_7//LCTES/digital-stopwatch.locals.nosummaries.smt2 : 60097 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_7//LCTES/digital-stopwatch.locals.smt2 : 1443 ms.

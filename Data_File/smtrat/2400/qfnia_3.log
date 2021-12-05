@@ -1,0 +1,1256 @@
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/25_stack_longer-1-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/25_stack_longer-2-O0.smt2 : 2401005 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/25_stack_longest-1-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/25_stack_longest-2-O0.smt2 : 2401005 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/26_stack_cas_longer-1-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/26_stack_cas_longer-2-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/26_stack_cas_longest-1-O0.smt2 : 2401005 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/26_stack_cas_longest-2-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/28-race_reach_45-escape_racing-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/28-race_reach_46-escape_racefree-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/36_stack_cas_p0_vs_concur-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/37_stack_lock_p0_vs_concur-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/pthread-demo-datarace-1-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/pthread-demo-datarace-2-O0.smt2 : 2401007 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/race-2_1-container_of-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/race-2_2-container_of-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/race-2_3-container_of-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/race-2_4-container_of-O0.smt2 : 2401005 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/race-2_5-container_of-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/race-3_1-container_of-global-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/race-3_2-container_of-global-O0.smt2 : 2401007 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 25:$i4(E332), 25:$i5(E332)]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "25:$i4(E332)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/scull-O0.smt2 : 246 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/singleton-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/singleton_with-uninit-problems-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array_1-1-O0.smt2 : 2401005 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array_1-2-O0.smt2 : 2401005 ms.
+--------------------------------------------------
+./run.sh: line 3: 387168 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array-1-O0.smt2 : 2400238 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array_2-1-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array_2-2-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+./run.sh: line 3: 399791 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array-2-O0.smt2 : 2400159 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array_3-1-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array_3-2-O0.smt2 : 2401010 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array_4-O0.smt2 : 2401010 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/benchmark52_polynomial-O0.smt2 : 492800 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll-O0.smt2 : 72008 ms.
+--------------------------------------------------
+./run.sh: line 3: 418518 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_unwindbound100-O0.smt2 : 2400077 ms.
+--------------------------------------------------
+./run.sh: line 3: 422333 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_unwindbound10-O0.smt2 : 2400066 ms.
+--------------------------------------------------
+./run.sh: line 3: 426103 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_unwindbound1-O0.smt2 : 2400088 ms.
+--------------------------------------------------
+./run.sh: line 3: 430400 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_unwindbound20-O0.smt2 : 2400073 ms.
+--------------------------------------------------
+./run.sh: line 3: 434433 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_unwindbound2-O0.smt2 : 2400079 ms.
+--------------------------------------------------
+./run.sh: line 3: 438086 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_unwindbound50-O0.smt2 : 2400099 ms.
+--------------------------------------------------
+./run.sh: line 3: 441766 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_unwindbound5-O0.smt2 : 2400071 ms.
+--------------------------------------------------
+./run.sh: line 3: 445445 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_valuebound100-O0.smt2 : 2400037 ms.
+--------------------------------------------------
+./run.sh: line 3: 448972 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_valuebound10-O0.smt2 : 2400064 ms.
+--------------------------------------------------
+./run.sh: line 3: 452542 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_valuebound1-O0.smt2 : 2400054 ms.
+--------------------------------------------------
+./run.sh: line 3: 456425 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_valuebound20-O0.smt2 : 2400064 ms.
+--------------------------------------------------
+./run.sh: line 3:  2846 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_valuebound2-O0.smt2 : 2400080 ms.
+--------------------------------------------------
+./run.sh: line 3:  6639 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_valuebound50-O0.smt2 : 2400075 ms.
+--------------------------------------------------
+./run.sh: line 3: 10327 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_valuebound5-O0.smt2 : 2400057 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll-O0.smt2 : 79936 ms.
+--------------------------------------------------
+./run.sh: line 3: 13964 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_unwindbound100-O0.smt2 : 2400132 ms.
+--------------------------------------------------
+./run.sh: line 3: 17510 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_unwindbound10-O0.smt2 : 2400112 ms.
+--------------------------------------------------
+./run.sh: line 3: 21017 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_unwindbound1-O0.smt2 : 2400095 ms.
+--------------------------------------------------
+./run.sh: line 3: 24498 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_unwindbound20-O0.smt2 : 2400095 ms.
+--------------------------------------------------
+./run.sh: line 3: 27850 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_unwindbound2-O0.smt2 : 2400100 ms.
+--------------------------------------------------
+./run.sh: line 3: 31496 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_unwindbound50-O0.smt2 : 2400167 ms.
+--------------------------------------------------
+./run.sh: line 3: 34876 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_unwindbound5-O0.smt2 : 2400114 ms.
+--------------------------------------------------
+./run.sh: line 3: 38382 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_valuebound100-O0.smt2 : 2400140 ms.
+--------------------------------------------------
+./run.sh: line 3: 41904 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_valuebound10-O0.smt2 : 2400114 ms.
+--------------------------------------------------
+./run.sh: line 3: 45191 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_valuebound1-O0.smt2 : 2400124 ms.
+--------------------------------------------------
+./run.sh: line 3: 49088 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_valuebound20-O0.smt2 : 2400159 ms.
+--------------------------------------------------
+./run.sh: line 3: 52392 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_valuebound2-O0.smt2 : 2400149 ms.
+--------------------------------------------------
+./run.sh: line 3: 55570 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_valuebound50-O0.smt2 : 2400116 ms.
+--------------------------------------------------
+./run.sh: line 3: 58834 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_valuebound5-O0.smt2 : 2400113 ms.
+--------------------------------------------------
+./run.sh: line 3: 62309 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll-O0.smt2 : 2400067 ms.
+--------------------------------------------------
+./run.sh: line 3: 65716 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_unwindbound100-O0.smt2 : 2400062 ms.
+--------------------------------------------------
+./run.sh: line 3: 72773 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_unwindbound10-O0.smt2 : 2400066 ms.
+--------------------------------------------------
+./run.sh: line 3: 78461 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_unwindbound1-O0.smt2 : 2400062 ms.
+--------------------------------------------------
+./run.sh: line 3: 84102 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_unwindbound20-O0.smt2 : 2400071 ms.
+--------------------------------------------------
+./run.sh: line 3: 89237 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_unwindbound2-O0.smt2 : 2400092 ms.
+--------------------------------------------------
+./run.sh: line 3: 94650 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_unwindbound50-O0.smt2 : 2400056 ms.
+--------------------------------------------------
+./run.sh: line 3: 100275 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_unwindbound5-O0.smt2 : 2400128 ms.
+--------------------------------------------------
+./run.sh: line 3: 106160 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_valuebound100-O0.smt2 : 2400062 ms.
+--------------------------------------------------
+./run.sh: line 3: 111406 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_valuebound10-O0.smt2 : 2400057 ms.
+--------------------------------------------------
+./run.sh: line 3: 116906 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_valuebound1-O0.smt2 : 2400083 ms.
+--------------------------------------------------
+./run.sh: line 3: 122308 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_valuebound20-O0.smt2 : 2400054 ms.
+--------------------------------------------------
+./run.sh: line 3: 128033 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_valuebound2-O0.smt2 : 2400097 ms.
+--------------------------------------------------
+./run.sh: line 3: 133387 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_valuebound50-O0.smt2 : 2400150 ms.
+--------------------------------------------------
+./run.sh: line 3: 138502 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_valuebound5-O0.smt2 : 2400096 ms.
+--------------------------------------------------
+./run.sh: line 3: 143753 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll-O0.smt2 : 2400125 ms.
+--------------------------------------------------
+./run.sh: line 3: 149024 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_unwindbound100-O0.smt2 : 2400139 ms.
+--------------------------------------------------
+./run.sh: line 3: 154104 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_unwindbound10-O0.smt2 : 2400057 ms.
+--------------------------------------------------
+./run.sh: line 3: 159559 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_unwindbound1-O0.smt2 : 2400062 ms.
+--------------------------------------------------
+./run.sh: line 3: 164401 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_unwindbound20-O0.smt2 : 2400074 ms.
+--------------------------------------------------
+./run.sh: line 3: 168996 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_unwindbound2-O0.smt2 : 2400049 ms.
+--------------------------------------------------
+./run.sh: line 3: 173412 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_unwindbound50-O0.smt2 : 2400065 ms.
+--------------------------------------------------
+./run.sh: line 3: 178082 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_unwindbound5-O0.smt2 : 2400058 ms.
+--------------------------------------------------
+./run.sh: line 3: 183013 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_valuebound100-O0.smt2 : 2400081 ms.
+--------------------------------------------------
+./run.sh: line 3: 190723 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_valuebound10-O0.smt2 : 2400050 ms.
+--------------------------------------------------
+./run.sh: line 3: 207291 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_valuebound1-O0.smt2 : 2400140 ms.
+--------------------------------------------------
+./run.sh: line 3: 223155 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_valuebound20-O0.smt2 : 2400080 ms.
+--------------------------------------------------
+./run.sh: line 3: 239223 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_valuebound2-O0.smt2 : 2400044 ms.
+--------------------------------------------------
+./run.sh: line 3: 253586 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_valuebound50-O0.smt2 : 2400050 ms.
+--------------------------------------------------
+./run.sh: line 3: 266776 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_valuebound5-O0.smt2 : 2400038 ms.
+--------------------------------------------------
+./run.sh: line 3: 279093 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll-O0.smt2 : 2400046 ms.
+--------------------------------------------------
+./run.sh: line 3: 291220 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_unwindbound100-O0.smt2 : 2400064 ms.
+--------------------------------------------------
+./run.sh: line 3: 302684 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_unwindbound10-O0.smt2 : 2400053 ms.
+--------------------------------------------------
+./run.sh: line 3: 314189 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_unwindbound1-O0.smt2 : 2400053 ms.
+--------------------------------------------------
+./run.sh: line 3: 325463 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_unwindbound20-O0.smt2 : 2400058 ms.
+--------------------------------------------------
+./run.sh: line 3: 336063 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_unwindbound2-O0.smt2 : 2400070 ms.
+--------------------------------------------------
+./run.sh: line 3: 345752 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_unwindbound50-O0.smt2 : 2400085 ms.
+--------------------------------------------------
+./run.sh: line 3: 354265 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_unwindbound5-O0.smt2 : 2400052 ms.
+--------------------------------------------------
+./run.sh: line 3: 361242 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_valuebound100-O0.smt2 : 2400055 ms.
+--------------------------------------------------
+./run.sh: line 3: 366832 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_valuebound10-O0.smt2 : 2400039 ms.
+--------------------------------------------------
+./run.sh: line 3: 372310 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_valuebound1-O0.smt2 : 2400052 ms.
+--------------------------------------------------
+./run.sh: line 3: 377191 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_valuebound20-O0.smt2 : 2400060 ms.
+--------------------------------------------------
+./run.sh: line 3: 381281 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_valuebound2-O0.smt2 : 2400051 ms.
+--------------------------------------------------
+./run.sh: line 3: 384805 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_valuebound50-O0.smt2 : 2400059 ms.
+--------------------------------------------------
+./run.sh: line 3: 388539 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_valuebound5-O0.smt2 : 2400057 ms.
+--------------------------------------------------
+./run.sh: line 3: 392285 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll-O0.smt2 : 2400071 ms.
+--------------------------------------------------
+./run.sh: line 3: 396086 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_unwindbound100-O0.smt2 : 2400060 ms.
+--------------------------------------------------
+./run.sh: line 3: 399586 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_unwindbound10-O0.smt2 : 2400100 ms.
+--------------------------------------------------
+./run.sh: line 3: 403114 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_unwindbound1-O0.smt2 : 2400118 ms.
+--------------------------------------------------
+./run.sh: line 3: 406707 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_unwindbound20-O0.smt2 : 2400091 ms.
+--------------------------------------------------
+./run.sh: line 3: 410108 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_unwindbound2-O0.smt2 : 2400081 ms.
+--------------------------------------------------
+./run.sh: line 3: 413623 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_unwindbound50-O0.smt2 : 2400092 ms.
+--------------------------------------------------
+./run.sh: line 3: 417152 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_unwindbound5-O0.smt2 : 2400081 ms.
+--------------------------------------------------
+./run.sh: line 3: 420670 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_valuebound100-O0.smt2 : 2400068 ms.
+--------------------------------------------------
+./run.sh: line 3: 424043 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_valuebound10-O0.smt2 : 2400055 ms.
+--------------------------------------------------
+./run.sh: line 3: 427394 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_valuebound1-O0.smt2 : 2400081 ms.
+--------------------------------------------------
+./run.sh: line 3: 430660 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_valuebound20-O0.smt2 : 2400059 ms.
+--------------------------------------------------
+./run.sh: line 3: 433949 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_valuebound2-O0.smt2 : 2400065 ms.
+--------------------------------------------------
+./run.sh: line 3: 437060 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_valuebound50-O0.smt2 : 2400055 ms.
+--------------------------------------------------
+./run.sh: line 3: 440103 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_valuebound5-O0.smt2 : 2400056 ms.
+--------------------------------------------------
+./run.sh: line 3: 443228 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/eureka_01-1-O0.smt2 : 2400954 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/eureka_01-2-O0.smt2 : 2401007 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/eureka_05-O0.smt2 : 2401008 ms.
+--------------------------------------------------
+./run.sh: line 3: 451877 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/gauss_sum.i.p+cfa-reducer-O0.smt2 : 2400081 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/gauss_sum.i.p+lhb-reducer-O0.smt2 : 165825 ms.
+--------------------------------------------------
+./run.sh: line 3: 454741 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/gauss_sum.i.v+cfa-reducer-O0.smt2 : 2400072 ms.
+--------------------------------------------------
+./run.sh: line 3: 457390 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/gauss_sum-O0.smt2 : 2400035 ms.
+--------------------------------------------------
+./run.sh: line 3:  2280 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll-O0.smt2 : 2400073 ms.
+--------------------------------------------------
+./run.sh: line 3:  4891 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_unwindbound100-O0.smt2 : 2400060 ms.
+--------------------------------------------------
+./run.sh: line 3:  7451 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_unwindbound10-O0.smt2 : 2400043 ms.
+--------------------------------------------------
+./run.sh: line 3:  9999 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_unwindbound1-O0.smt2 : 2400092 ms.
+--------------------------------------------------
+./run.sh: line 3: 12200 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_unwindbound20-O0.smt2 : 2400058 ms.
+--------------------------------------------------
+./run.sh: line 3: 14470 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_unwindbound2-O0.smt2 : 2400093 ms.
+--------------------------------------------------
+./run.sh: line 3: 16615 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_unwindbound50-O0.smt2 : 2400076 ms.
+--------------------------------------------------
+./run.sh: line 3: 18846 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_unwindbound5-O0.smt2 : 2400066 ms.
+--------------------------------------------------
+./run.sh: line 3: 21095 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_valuebound100-O0.smt2 : 2400079 ms.
+--------------------------------------------------
+./run.sh: line 3: 23238 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_valuebound10-O0.smt2 : 2400033 ms.
+--------------------------------------------------
+./run.sh: line 3: 25281 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_valuebound1-O0.smt2 : 2400040 ms.
+--------------------------------------------------
+./run.sh: line 3: 27423 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_valuebound20-O0.smt2 : 2400053 ms.
+--------------------------------------------------
+./run.sh: line 3: 29452 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_valuebound2-O0.smt2 : 2400042 ms.
+--------------------------------------------------
+./run.sh: line 3: 31456 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_valuebound50-O0.smt2 : 2400082 ms.
+--------------------------------------------------
+./run.sh: line 3: 33451 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_valuebound5-O0.smt2 : 2400099 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u-O0.smt2 : 170517 ms.
+--------------------------------------------------
+./run.sh: line 3: 35469 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_unwindbound100-O0.smt2 : 2400056 ms.
+--------------------------------------------------
+./run.sh: line 3: 37338 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_unwindbound10-O0.smt2 : 2400043 ms.
+--------------------------------------------------
+./run.sh: line 3: 39320 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_unwindbound1-O0.smt2 : 2400051 ms.
+--------------------------------------------------
+./run.sh: line 3: 41062 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_unwindbound20-O0.smt2 : 2400083 ms.
+--------------------------------------------------
+./run.sh: line 3: 42891 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_unwindbound2-O0.smt2 : 2400056 ms.
+--------------------------------------------------
+./run.sh: line 3: 44526 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_unwindbound50-O0.smt2 : 2400079 ms.
+--------------------------------------------------
+./run.sh: line 3: 46080 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_unwindbound5-O0.smt2 : 2400053 ms.
+--------------------------------------------------
+./run.sh: line 3: 47694 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_valuebound100-O0.smt2 : 2400048 ms.
+--------------------------------------------------
+./run.sh: line 3: 49192 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_valuebound10-O0.smt2 : 2400054 ms.
+--------------------------------------------------
+./run.sh: line 3: 50706 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_valuebound1-O0.smt2 : 2400054 ms.
+--------------------------------------------------
+./run.sh: line 3: 52148 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_valuebound20-O0.smt2 : 2400069 ms.
+--------------------------------------------------
+./run.sh: line 3: 53664 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_valuebound2-O0.smt2 : 2400071 ms.
+--------------------------------------------------
+./run.sh: line 3: 54984 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_valuebound50-O0.smt2 : 2400058 ms.
+--------------------------------------------------
+./run.sh: line 3: 56277 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_valuebound5-O0.smt2 : 2400079 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll-O0.smt2 : 296305 ms.
+--------------------------------------------------
+./run.sh: line 3: 57775 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_unwindbound100-O0.smt2 : 2400051 ms.
+--------------------------------------------------
+./run.sh: line 3: 59075 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_unwindbound10-O0.smt2 : 2400045 ms.
+--------------------------------------------------
+./run.sh: line 3: 60415 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_unwindbound1-O0.smt2 : 2400047 ms.
+--------------------------------------------------
+./run.sh: line 3: 61866 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_unwindbound20-O0.smt2 : 2400030 ms.
+--------------------------------------------------
+./run.sh: line 3: 63123 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_unwindbound2-O0.smt2 : 2400053 ms.
+--------------------------------------------------
+./run.sh: line 3: 64392 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_unwindbound50-O0.smt2 : 2400048 ms.
+--------------------------------------------------
+./run.sh: line 3: 65843 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_unwindbound5-O0.smt2 : 2400039 ms.
+--------------------------------------------------
+./run.sh: line 3: 67117 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_valuebound100-O0.smt2 : 2400036 ms.
+--------------------------------------------------
+./run.sh: line 3: 68558 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_valuebound10-O0.smt2 : 2400054 ms.
+--------------------------------------------------
+./run.sh: line 3: 69720 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_valuebound1-O0.smt2 : 2400034 ms.
+--------------------------------------------------
+./run.sh: line 3: 70912 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_valuebound20-O0.smt2 : 2400045 ms.
+--------------------------------------------------
+./run.sh: line 3: 72095 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_valuebound2-O0.smt2 : 2400058 ms.
+--------------------------------------------------
+./run.sh: line 3: 73207 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_valuebound50-O0.smt2 : 2400030 ms.
+--------------------------------------------------
+./run.sh: line 3: 74381 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_valuebound5-O0.smt2 : 2400039 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll-O0.smt2 : 301830 ms.
+--------------------------------------------------
+./run.sh: line 3: 75616 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_unwindbound100-O0.smt2 : 2400095 ms.
+--------------------------------------------------
+./run.sh: line 3: 76958 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_unwindbound10-O0.smt2 : 2400062 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_unwindbound1-O0.smt2 : 2401008 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_unwindbound20-O0.smt2 : 2401013 ms.
+--------------------------------------------------
+./run.sh: line 3: 30062 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_unwindbound2-O0.smt2 : 2400527 ms.
+--------------------------------------------------
+./run.sh: line 3: 156230 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_unwindbound50-O0.smt2 : 2400241 ms.
+--------------------------------------------------
+./run.sh: line 3: 211575 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_unwindbound5-O0.smt2 : 2400618 ms.
+--------------------------------------------------
+./run.sh: line 3: 237328 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_valuebound100-O0.smt2 : 2400412 ms.
+--------------------------------------------------
+./run.sh: line 3: 262473 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_valuebound10-O0.smt2 : 2400684 ms.
+--------------------------------------------------
+./run.sh: line 3: 285379 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_valuebound1-O0.smt2 : 2400336 ms.
+--------------------------------------------------
+./run.sh: line 3: 306193 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_valuebound20-O0.smt2 : 2400304 ms.
+--------------------------------------------------
+./run.sh: line 3: 323989 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_valuebound2-O0.smt2 : 2400556 ms.
+--------------------------------------------------
+./run.sh: line 3: 336952 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_valuebound50-O0.smt2 : 2400389 ms.
+--------------------------------------------------
+./run.sh: line 3: 346210 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_valuebound5-O0.smt2 : 2400572 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i0(E1168), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i0(E1168)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/half_2-O0.smt2 : 397 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i15(E796), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i15(E796)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2-O0.smt2 : 453 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i18(E1654), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i18(E1654)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound100-O0.smt2 : 1291 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i18(E1654), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i18(E1654)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound10-O0.smt2 : 1321 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i18(E437), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i18(E437)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound1-O0.smt2 : 114 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i18(E1654), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i18(E1654)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound20-O0.smt2 : 1115 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i18(E437), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i18(E437)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound2-O0.smt2 : 88 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i18(E1654), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i18(E1654)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound50-O0.smt2 : 1110 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i18(E1654), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i18(E1654)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound5-O0.smt2 : 1042 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i19(E820), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i19(E820)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_valuebound100-O0.smt2 : 424 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i19(E820), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i19(E820)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_valuebound10-O0.smt2 : 362 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i19(E316), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i19(E316)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_valuebound1-O0.smt2 : 70 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i19(E820), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i19(E820)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_valuebound20-O0.smt2 : 472 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i19(E820), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i19(E820)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_valuebound2-O0.smt2 : 443 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i19(E820), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i19(E820)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_valuebound50-O0.smt2 : 359 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i19(E820), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i19(E820)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_valuebound5-O0.smt2 : 516 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i22(E839), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i22(E839)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll-O0.smt2 : 382 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i25(E1719), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i25(E1719)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound100-O0.smt2 : 1302 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i25(E1719), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i25(E1719)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound10-O0.smt2 : 1220 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i25(E470), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i25(E470)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound1-O0.smt2 : 119 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i25(E1719), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i25(E1719)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound20-O0.smt2 : 1274 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i25(E470), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i25(E470)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound2-O0.smt2 : 120 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i25(E1719), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i25(E1719)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound50-O0.smt2 : 1328 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i25(E1719), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i25(E1719)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound5-O0.smt2 : 1343 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i30(E887), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i30(E887)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_valuebound100-O0.smt2 : 461 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i30(E887), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i30(E887)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_valuebound10-O0.smt2 : 522 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i30(E369), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i30(E369)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_valuebound1-O0.smt2 : 109 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i30(E887), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i30(E887)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_valuebound20-O0.smt2 : 500 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i30(E369), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i30(E369)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_valuebound2-O0.smt2 : 110 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i30(E887), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i30(E887)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_valuebound50-O0.smt2 : 573 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i30(E887), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i30(E887)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_valuebound5-O0.smt2 : 462 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i2(E25), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i2(E25)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/heapsort-O0.smt2 : 1278 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i5(E75), 4]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i5(E75)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/id_trans-O0.smt2 : 40 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/invert_string-1-O0.smt2 : 2401007 ms.
+--------------------------------------------------
+./run.sh: line 3: 372800 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1-O0.smt2 : 2400714 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_unwindbound100-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+./run.sh: line 3: 392136 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_unwindbound10-O0.smt2 : 2400469 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_unwindbound1-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+./run.sh: line 3: 409599 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_unwindbound20-O0.smt2 : 2400496 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_unwindbound2-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+./run.sh: line 3: 427097 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_unwindbound50-O0.smt2 : 2400537 ms.
+--------------------------------------------------
+./run.sh: line 3: 435340 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_unwindbound5-O0.smt2 : 2400469 ms.
+--------------------------------------------------
+./run.sh: line 3: 444036 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_valuebound100-O0.smt2 : 2400550 ms.
+--------------------------------------------------
+./run.sh: line 3: 451308 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_valuebound10-O0.smt2 : 2400243 ms.
+--------------------------------------------------
+./run.sh: line 3: 458486 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_valuebound1-O0.smt2 : 2400216 ms.
+--------------------------------------------------
+./run.sh: line 3:  8293 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_valuebound20-O0.smt2 : 2400240 ms.
+--------------------------------------------------
+./run.sh: line 3: 14654 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_valuebound2-O0.smt2 : 2400310 ms.
+--------------------------------------------------
+./run.sh: line 3: 21055 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_valuebound50-O0.smt2 : 2400207 ms.
+--------------------------------------------------
+./run.sh: line 3: 27086 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_valuebound5-O0.smt2 : 2400435 ms.
+--------------------------------------------------
+./run.sh: line 3: 32885 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2-O0.smt2 : 2400489 ms.
+--------------------------------------------------
+./run.sh: line 3: 38470 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_unwindbound100-O0.smt2 : 2400908 ms.
+--------------------------------------------------
+./run.sh: line 3: 44202 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_unwindbound10-O0.smt2 : 2400494 ms.
+--------------------------------------------------
+./run.sh: line 3: 53842 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_unwindbound1-O0.smt2 : 2400542 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_unwindbound20-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_unwindbound2-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+./run.sh: line 3: 80897 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_unwindbound50-O0.smt2 : 2400214 ms.
+--------------------------------------------------
+./run.sh: line 3: 88996 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_unwindbound5-O0.smt2 : 2400974 ms.
+--------------------------------------------------
+./run.sh: line 3: 98417 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_valuebound100-O0.smt2 : 2400493 ms.
+--------------------------------------------------
+./run.sh: line 3: 106184 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_valuebound10-O0.smt2 : 2400769 ms.
+--------------------------------------------------
+./run.sh: line 3: 112930 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_valuebound1-O0.smt2 : 2400555 ms.
+--------------------------------------------------
+./run.sh: line 3: 155107 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_valuebound20-O0.smt2 : 2400700 ms.
+--------------------------------------------------
+./run.sh: line 3: 210807 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_valuebound2-O0.smt2 : 2400790 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_valuebound50-O0.smt2 : 2401007 ms.
+--------------------------------------------------
+./run.sh: line 3: 275285 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_valuebound5-O0.smt2 : 2400555 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i0(E632), 4]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i0(E632)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/loopv3-O0.smt2 : 186 ms.
+--------------------------------------------------
+./run.sh: line 3: 292562 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv-O0.smt2 : 2400302 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_unwindbound100-O0.smt2 : 1911628 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_unwindbound10-O0.smt2 : 1935158 ms.
+--------------------------------------------------
+./run.sh: line 3: 331713 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_unwindbound1-O0.smt2 : 2400612 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_unwindbound20-O0.smt2 : 1880521 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_unwindbound2-O0.smt2 : 1799512 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_unwindbound50-O0.smt2 : 1794618 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_unwindbound5-O0.smt2 : 1776125 ms.
+--------------------------------------------------
+./run.sh: line 3: 365402 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_valuebound100-O0.smt2 : 2400473 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_valuebound10-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+./run.sh: line 3: 393241 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_valuebound1-O0.smt2 : 2400532 ms.
+--------------------------------------------------
+./run.sh: line 3: 403430 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_valuebound20-O0.smt2 : 2400240 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_valuebound2-O0.smt2 : 2401007 ms.
+--------------------------------------------------
+./run.sh: line 3: 419560 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_valuebound50-O0.smt2 : 2400296 ms.
+--------------------------------------------------
+./run.sh: line 3: 428543 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_valuebound5-O0.smt2 : 2400945 ms.
+--------------------------------------------------
+./run.sh: line 3: 436945 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/matrix-1-O0.smt2 : 2400593 ms.
+--------------------------------------------------
+./run.sh: line 3: 442805 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/matrix-2-O0.smt2 : 2400691 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/n.c11-O0.smt2 : 739196 ms.
+--------------------------------------------------
+./run.sh: line 3: 450339 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/n.c40-O0.smt2 : 2400967 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/nec11-O0.smt2 : 79620 ms.
+--------------------------------------------------
+./run.sh: line 3: 456368 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/nec40-O0.smt2 : 2400789 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll-O0.smt2 : 50288 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_unwindbound100-O0.smt2 : 1365201 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_unwindbound10-O0.smt2 : 1347272 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_unwindbound1-O0.smt2 : 1323792 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_unwindbound20-O0.smt2 : 1295424 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_unwindbound2-O0.smt2 : 1305789 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_unwindbound50-O0.smt2 : 1320852 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_unwindbound5-O0.smt2 : 1283496 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_valuebound100-O0.smt2 : 323696 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_valuebound10-O0.smt2 : 319306 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_valuebound1-O0.smt2 : 316029 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_valuebound20-O0.smt2 : 321021 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_valuebound2-O0.smt2 : 325300 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_valuebound50-O0.smt2 : 323391 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_valuebound5-O0.smt2 : 316436 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll-O0.smt2 : 50436 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_unwindbound100-O0.smt2 : 31746 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_unwindbound10-O0.smt2 : 33527 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_unwindbound1-O0.smt2 : 35240 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_unwindbound20-O0.smt2 : 33732 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_unwindbound2-O0.smt2 : 38311 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_unwindbound50-O0.smt2 : 35208 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_unwindbound5-O0.smt2 : 36476 ms.
+--------------------------------------------------
+./run.sh: line 3: 33662 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_valuebound100-O0.smt2 : 2400181 ms.
+--------------------------------------------------
+./run.sh: line 3: 38939 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_valuebound10-O0.smt2 : 2400180 ms.
+--------------------------------------------------
+./run.sh: line 3: 43888 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_valuebound1-O0.smt2 : 2400251 ms.
+--------------------------------------------------
+./run.sh: line 3: 48718 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_valuebound20-O0.smt2 : 2400202 ms.
+--------------------------------------------------
+./run.sh: line 3: 54323 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_valuebound2-O0.smt2 : 2400162 ms.
+--------------------------------------------------
+./run.sh: line 3: 60275 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_valuebound50-O0.smt2 : 2400175 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_valuebound5-O0.smt2 : 2401007 ms.
+--------------------------------------------------
+./run.sh: line 3: 70245 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll-O0.smt2 : 2400326 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_unwindbound100-O0.smt2 : 27975 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_unwindbound10-O0.smt2 : 26774 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_unwindbound1-O0.smt2 : 25196 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_unwindbound20-O0.smt2 : 27437 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_unwindbound2-O0.smt2 : 26227 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_unwindbound50-O0.smt2 : 26888 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_unwindbound5-O0.smt2 : 30902 ms.
+--------------------------------------------------
+./run.sh: line 3: 74872 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_valuebound100-O0.smt2 : 2400306 ms.
+--------------------------------------------------
+./run.sh: line 3: 79745 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_valuebound10-O0.smt2 : 2400282 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_valuebound1-O0.smt2 : 2401007 ms.
+--------------------------------------------------
+./run.sh: line 3: 111954 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_valuebound20-O0.smt2 : 2400405 ms.
+--------------------------------------------------
+./run.sh: line 3: 115808 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_valuebound2-O0.smt2 : 2400184 ms.
+--------------------------------------------------
+./run.sh: line 3: 119967 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_valuebound50-O0.smt2 : 2400268 ms.
+--------------------------------------------------
+./run.sh: line 3: 123997 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_valuebound5-O0.smt2 : 2400289 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll-O0.smt2 : 2401005 ms.
+--------------------------------------------------
+./run.sh: line 3: 131001 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_unwindbound100-O0.smt2 : 2400278 ms.
+--------------------------------------------------
+./run.sh: line 3: 134627 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_unwindbound10-O0.smt2 : 2400102 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_unwindbound1-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_unwindbound20-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_unwindbound2-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_unwindbound50-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_unwindbound5-O0.smt2 : 2401005 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_valuebound100-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_valuebound10-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_valuebound1-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_valuebound20-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_valuebound2-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_valuebound50-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_valuebound5-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll-O0.smt2 : 2401010 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_unwindbound100-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_unwindbound10-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_unwindbound1-O0.smt2 : 2401005 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_unwindbound20-O0.smt2 : 2401008 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_unwindbound2-O0.smt2 : 2401007 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_unwindbound50-O0.smt2 : 2401009 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_unwindbound5-O0.smt2 : 2401007 ms.
+--------------------------------------------------
+./run.sh: line 3: 429073 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_valuebound100-O0.smt2 : 2400690 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_valuebound10-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_valuebound1-O0.smt2 : 2401008 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_valuebound20-O0.smt2 : 2401008 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_valuebound2-O0.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_valuebound50-O0.smt2 : 2401005 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_valuebound5-O0.smt2 : 2401007 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll-O0.smt2 : 2401009 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_unwindbound100-O0.smt2 : 28295 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_unwindbound10-O0.smt2 : 26759 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_unwindbound1-O0.smt2 : 28259 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_unwindbound20-O0.smt2 : 30226 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_unwindbound2-O0.smt2 : 33501 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_unwindbound50-O0.smt2 : 27767 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_unwindbound5-O0.smt2 : 33826 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_valuebound100-O0.smt2 : 2401008 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_valuebound10-O0.smt2 : 2401008 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_valuebound1-O0.smt2 : 2401013 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_valuebound20-O0.smt2 : 2401008 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_valuebound2-O0.smt2 : 2401009 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_valuebound50-O0.smt2 : 2401009 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_valuebound5-O0.smt2 : 2401008 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/string-1-O0.smt2 : 377315 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "div" with arguments [2: 0:$i10(E305), 2]:
+	Arithmetic: Invalid operator "div".
+	Bitvector: Invalid operator "div".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "0:$i10(E305)".
+	Uninterpreted: Invalid operator "div".
+(unknown)
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sum_natnum-O0.smt2 : 156 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/veris.c_NetBSD-libc_loop-O0.smt2 : 2401008 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/veris.c_sendmail_tTflag_arr_one_loop-O0.smt2 : 593572 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/verisec_NetBSD-libc_loop-O0.smt2 : 2401008 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/vogal-1-O0.smt2 : 1271385 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/vogal-2-O0.smt2 : 1570941 ms.

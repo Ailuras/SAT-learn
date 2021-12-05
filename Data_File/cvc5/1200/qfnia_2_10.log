@@ -1,0 +1,1779 @@
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 348070 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsKey.jar-obl-11__p31832_safety_0.smt2 : 1200433 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsKey.jar-obl-11__p31836_safety_0.smt2 : 26391 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 356519 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsKey.jar-obl-11__p31837_safety_0.smt2 : 1200107 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsKey.jar-obl-11__p31840_safety_0.smt2 : 1705 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsKey.jar-obl-11__p31841_safety_0.smt2 : 11975 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 363893 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsKey.jar-obl-11__p31842_safety_0.smt2 : 1200080 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 369842 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsKey.jar-obl-11__p31844_edge_closing_0.smt2 : 1200124 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 375026 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsKey.jar-obl-11__p31845_edge_closing_0.smt2 : 1200150 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 379834 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsKey.jar-obl-11__p31846_edge_closing_0.smt2 : 1200127 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsKey.jar-obl-11__terminationS_0_0.smt2 : 6118 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsKey.jar-obl-11__terminationS_1_0.smt2 : 7582 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsKey.jar-obl-11__terminationS_2_0.smt2 : 4214 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsKey.jar-obl-11__terminationS_3_0.smt2 : 6996 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsKey.jar-obl-11__term_unfeasibility_2_0.smt2 : 2055 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p300_safety_0.smt2 : 42047 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p301_safety_0.smt2 : 67380 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p311_safety_0.smt2 : 100950 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p313_safety_0.smt2 : 8997 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p314_safety_0.smt2 : 449418 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p316_safety_0.smt2 : 1707 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p317_safety_0.smt2 : 1201006 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31857_terminationG_0.smt2 : 15327 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31858_terminationG_0.smt2 : 103466 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31859_terminationG_0.smt2 : 315980 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31868_safety_0.smt2 : 6433 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31870_safety_0.smt2 : 28812 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31875_safety_0.smt2 : 45979 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 394345 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31876_safety_0.smt2 : 1200199 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 398538 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31880_safety_0.smt2 : 1200100 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31881_safety_0.smt2 : 68783 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31887_safety_0.smt2 : 1201005 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31888_safety_0.smt2 : 69966 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 407324 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31890_safety_0.smt2 : 1200095 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31891_safety_0.smt2 : 582885 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31894_safety_0.smt2 : 7718 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 414892 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31895_safety_0.smt2 : 1200058 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 418734 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31896_safety_0.smt2 : 1200080 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31899_safety_0.smt2 : 10799 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 422789 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31900_safety_0.smt2 : 1200084 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 427116 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31901_safety_0.smt2 : 1200102 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31903_safety_0.smt2 : 48402 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 431782 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31904_safety_0.smt2 : 1200088 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31906_safety_0.smt2 : 42304 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31907_safety_0.smt2 : 39994 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31912_safety_0.smt2 : 2420 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31917_safety_0.smt2 : 3136 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 435854 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31920_safety_0.smt2 : 1200094 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31924_safety_0.smt2 : 13124 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 440566 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31925_safety_0.smt2 : 1200261 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31927_safety_0.smt2 : 49815 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31928_safety_0.smt2 : 5202 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31932_safety_0.smt2 : 2862 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 444688 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31933_safety_0.smt2 : 1200204 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31934_safety_0.smt2 : 4473 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31935_safety_0.smt2 : 94426 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 448931 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31936_safety_0.smt2 : 1200073 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 452218 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31939_safety_0.smt2 : 1200061 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31940_safety_0.smt2 : 2348 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31941_safety_0.smt2 : 1201006 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31943_safety_0.smt2 : 30542 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31944_safety_0.smt2 : 45708 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31945_safety_0.smt2 : 3835 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31946_safety_0.smt2 : 12861 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4:  2491 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31947_safety_0.smt2 : 1200225 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4:  6041 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31952_safety_0.smt2 : 1200108 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4:  9362 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31957_safety_0.smt2 : 1200083 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 12650 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31960_safety_0.smt2 : 1200140 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 15806 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31965_safety_0.smt2 : 1200079 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 18803 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31969_safety_0.smt2 : 1200134 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 21951 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31970_safety_0.smt2 : 1200361 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 25274 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31973_safety_0.smt2 : 1200082 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31976_safety_0.smt2 : 1167 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31977_safety_0.smt2 : 1201006 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31978_safety_0.smt2 : 335153 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31979_safety_0.smt2 : 3079 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31980_safety_0.smt2 : 7560 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 31528 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31981_safety_0.smt2 : 1200273 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 34987 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31982_safety_0.smt2 : 1200178 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31983_safety_0.smt2 : 22446 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 37367 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31984_safety_0.smt2 : 1200087 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31985_safety_0.smt2 : 5563 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31986_safety_0.smt2 : 94353 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31987_safety_0.smt2 : 117649 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31992_safety_0.smt2 : 5833 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31997_safety_0.smt2 : 4669 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p31999_safety_0.smt2 : 1296 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p319_safety_0.smt2 : 628558 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32000_safety_0.smt2 : 9900 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 42479 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32004_safety_0.smt2 : 1200074 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32005_safety_0.smt2 : 95150 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32007_safety_0.smt2 : 1267 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32008_safety_0.smt2 : 58223 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32011_safety_0.smt2 : 2149 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32012_safety_0.smt2 : 84376 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32013_safety_0.smt2 : 1201006 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32015_safety_0.smt2 : 5422 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32016_safety_0.smt2 : 4022 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32019_terminationG_0.smt2 : 45595 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32020_terminationG_0.smt2 : 82866 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32021_terminationG_0.smt2 : 377482 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32031_safety_0.smt2 : 51595 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32032_safety_0.smt2 : 2475 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32037_safety_0.smt2 : 941 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32038_safety_0.smt2 : 1201009 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32042_safety_0.smt2 : 5825 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 58997 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32043_safety_0.smt2 : 1200087 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32049_safety_0.smt2 : 1201013 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32050_safety_0.smt2 : 1201008 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 71351 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32053_safety_0.smt2 : 1200084 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32056_safety_0.smt2 : 369843 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32057_safety_0.smt2 : 73930 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32058_safety_0.smt2 : 140755 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32061_safety_0.smt2 : 27262 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 79255 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32062_safety_0.smt2 : 1200062 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 83326 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32063_safety_0.smt2 : 1200166 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32064_safety_0.smt2 : 4895 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32065_safety_0.smt2 : 31197 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32066_safety_0.smt2 : 75509 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32067_safety_0.smt2 : 3836 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32068_safety_0.smt2 : 17317 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 87761 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32069_safety_0.smt2 : 1200097 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 92327 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32074_safety_0.smt2 : 1200086 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32079_safety_0.smt2 : 44494 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32085_safety_0.smt2 : 7716 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32086_safety_0.smt2 : 754134 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32088_safety_0.smt2 : 47501 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32089_safety_0.smt2 : 1201006 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32093_safety_0.smt2 : 11399 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32094_safety_0.smt2 : 235528 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32098_safety_0.smt2 : 13845 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 104860 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32099_safety_0.smt2 : 1200123 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p320_safety_0.smt2 : 3605 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32102_safety_0.smt2 : 671506 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32103_safety_0.smt2 : 81182 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 110217 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32104_safety_0.smt2 : 1200082 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 113659 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32107_safety_0.smt2 : 1200081 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32108_safety_0.smt2 : 17900 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 117561 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32109_safety_0.smt2 : 1200101 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32110_safety_0.smt2 : 5219 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32111_safety_0.smt2 : 14533 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32112_safety_0.smt2 : 288293 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32113_safety_0.smt2 : 5253 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32114_safety_0.smt2 : 23712 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32115_safety_0.smt2 : 181965 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32120_safety_0.smt2 : 1676 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 178531 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32124_safety_0.smt2 : 1200082 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32125_safety_0.smt2 : 497907 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32129_safety_0.smt2 : 29887 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 212978 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32130_safety_0.smt2 : 1200093 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32133_safety_0.smt2 : 4814 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32134_safety_0.smt2 : 1201007 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 252779 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32135_safety_0.smt2 : 1200390 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32139_safety_0.smt2 : 10832 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 267154 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32140_safety_0.smt2 : 1200090 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32144_safety_0.smt2 : 21664 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 276713 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32145_safety_0.smt2 : 1200092 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 286265 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32149_safety_0.smt2 : 1200076 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 293926 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32150_safety_0.smt2 : 1200216 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32153_safety_0.smt2 : 2410 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 301602 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32154_safety_0.smt2 : 1200096 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 309599 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32155_safety_0.smt2 : 1200253 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 317852 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32156_safety_0.smt2 : 1200096 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 324762 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32157_safety_0.smt2 : 1200535 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 331291 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32158_safety_0.smt2 : 1200308 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32162_safety_0.smt2 : 1545 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32166_safety_0.smt2 : 1428 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 337439 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32167_safety_0.smt2 : 1200090 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32169_safety_0.smt2 : 1842 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32170_safety_0.smt2 : 71972 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 342966 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32171_safety_0.smt2 : 1200070 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32172_safety_0.smt2 : 12328 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32173_safety_0.smt2 : 126694 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32174_safety_0.smt2 : 1142 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32175_safety_0.smt2 : 109944 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 348230 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32176_safety_0.smt2 : 1200083 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32180_safety_0.smt2 : 1460 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32185_safety_0.smt2 : 71642 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 352575 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32186_safety_0.smt2 : 1200250 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32190_safety_0.smt2 : 3839 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 355893 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32191_safety_0.smt2 : 1200081 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32194_safety_0.smt2 : 2203 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 359364 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32195_safety_0.smt2 : 1200088 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 363017 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32196_safety_0.smt2 : 1200088 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32199_terminationG_0.smt2 : 31358 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 371650 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32200_terminationG_0.smt2 : 1200377 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32201_terminationG_0.smt2 : 308224 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32211_safety_0.smt2 : 33142 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 380319 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32212_safety_0.smt2 : 1200382 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32213_safety_0.smt2 : 2182 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32219_safety_0.smt2 : 36116 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32220_safety_0.smt2 : 775322 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 389006 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32223_safety_0.smt2 : 1200252 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 394246 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32231_safety_0.smt2 : 1200245 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32232_safety_0.smt2 : 19488 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32233_safety_0.smt2 : 1201006 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32238_safety_0.smt2 : 2023 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32239_safety_0.smt2 : 3005 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 404213 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32240_safety_0.smt2 : 1200219 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32241_safety_0.smt2 : 1879 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32242_safety_0.smt2 : 13520 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 407840 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32243_safety_0.smt2 : 1200130 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32245_safety_0.smt2 : 41560 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32246_safety_0.smt2 : 192525 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32247_safety_0.smt2 : 5537 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32248_safety_0.smt2 : 25473 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32249_safety_0.smt2 : 97230 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32253_safety_0.smt2 : 599 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 412629 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32254_safety_0.smt2 : 1200280 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32258_safety_0.smt2 : 2855 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32259_safety_0.smt2 : 142889 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32263_safety_0.smt2 : 1201007 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32264_safety_0.smt2 : 35473 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32268_safety_0.smt2 : 33141 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32269_safety_0.smt2 : 97809 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32275_safety_0.smt2 : 41323 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 423494 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32276_safety_0.smt2 : 1200080 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32277_safety_0.smt2 : 6499 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 428042 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32278_safety_0.smt2 : 1200103 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32279_safety_0.smt2 : 1201007 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32282_safety_0.smt2 : 74717 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32283_safety_0.smt2 : 1201007 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 439838 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32284_safety_0.smt2 : 1200100 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32285_safety_0.smt2 : 3760 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32286_safety_0.smt2 : 11296 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32287_safety_0.smt2 : 48095 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 442767 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32288_safety_0.smt2 : 1200152 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32289_safety_0.smt2 : 29606 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 445542 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32290_safety_0.smt2 : 1200108 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 448480 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32295_safety_0.smt2 : 1200098 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 451448 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32299_safety_0.smt2 : 1200119 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p322_safety_0.smt2 : 438610 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32300_safety_0.smt2 : 4117 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32305_safety_0.smt2 : 54442 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 455656 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32308_safety_0.smt2 : 1200067 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 458554 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32309_safety_0.smt2 : 1200094 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4:  3960 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32310_safety_0.smt2 : 1200118 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32312_safety_0.smt2 : 1380 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32313_safety_0.smt2 : 13078 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32315_safety_0.smt2 : 1482 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4:  6875 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32316_safety_0.smt2 : 1200085 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32317_safety_0.smt2 : 4177 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32318_safety_0.smt2 : 470067 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 11280 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32319_safety_0.smt2 : 1200105 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32320_safety_0.smt2 : 3201 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32321_safety_0.smt2 : 27282 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32322_safety_0.smt2 : 85565 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32331_safety_0.smt2 : 314522 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 15269 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32332_safety_0.smt2 : 1200442 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32333_safety_0.smt2 : 7428 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 18010 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32334_safety_0.smt2 : 1200222 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32335_safety_0.smt2 : 330373 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32339_safety_0.smt2 : 45546 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32340_safety_0.smt2 : 120238 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 22627 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32345_safety_0.smt2 : 1200180 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32346_safety_0.smt2 : 75676 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 25428 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32347_safety_0.smt2 : 1200103 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32354_safety_0.smt2 : 1201006 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32355_safety_0.smt2 : 15837 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32359_safety_0.smt2 : 1769 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 31348 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32360_safety_0.smt2 : 1200237 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 34213 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32363_safety_0.smt2 : 1200248 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32364_safety_0.smt2 : 71256 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 37061 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32365_safety_0.smt2 : 1200191 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32368_terminationG_0.smt2 : 13288 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32369_terminationG_0.smt2 : 76672 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32370_terminationG_0.smt2 : 288049 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32381_safety_0.smt2 : 3394 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32382_safety_0.smt2 : 2936 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 40347 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32386_safety_0.smt2 : 1200075 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 42561 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32387_safety_0.smt2 : 1200089 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 45097 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32392_safety_0.smt2 : 1200089 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32396_safety_0.smt2 : 5299 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 47388 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32397_safety_0.smt2 : 1200085 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p323_safety_0.smt2 : 1201009 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32401_safety_0.smt2 : 1819 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32402_safety_0.smt2 : 274077 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32407_safety_0.smt2 : 3670 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 53806 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32408_safety_0.smt2 : 1200268 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 56781 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32409_safety_0.smt2 : 1200299 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32410_safety_0.smt2 : 2161 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 59561 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32411_safety_0.smt2 : 1200259 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32412_safety_0.smt2 : 126093 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32413_safety_0.smt2 : 3217 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32414_safety_0.smt2 : 4848 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32415_safety_0.smt2 : 1201006 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32416_safety_0.smt2 : 3063 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32417_safety_0.smt2 : 14544 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32418_safety_0.smt2 : 97824 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32425_safety_0.smt2 : 57791 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32427_safety_0.smt2 : 887 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32433_safety_0.smt2 : 89943 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32437_safety_0.smt2 : 97763 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 65930 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32438_safety_0.smt2 : 1200092 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32442_safety_0.smt2 : 76042 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32443_safety_0.smt2 : 1201008 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32448_safety_0.smt2 : 9434 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 70813 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32449_safety_0.smt2 : 1200094 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 73047 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32450_safety_0.smt2 : 1200163 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32451_safety_0.smt2 : 130519 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32452_safety_0.smt2 : 56991 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 75521 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32453_safety_0.smt2 : 1200143 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 78244 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32454_safety_0.smt2 : 1200187 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 80394 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32455_safety_0.smt2 : 1200182 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32456_safety_0.smt2 : 1201065 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32457_safety_0.smt2 : 13790 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32458_safety_0.smt2 : 12695 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 98041 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32459_safety_0.smt2 : 1200435 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32463_safety_0.smt2 : 1032 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32468_safety_0.smt2 : 15391 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32471_safety_0.smt2 : 9117 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 110323 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32472_safety_0.smt2 : 1200213 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32474_safety_0.smt2 : 2790 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 112644 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32475_safety_0.smt2 : 1200347 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32477_safety_0.smt2 : 11290 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32478_safety_0.smt2 : 18396 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32480_safety_0.smt2 : 14617 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 114629 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32481_safety_0.smt2 : 1200239 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32482_safety_0.smt2 : 17283 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32483_safety_0.smt2 : 45388 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 116636 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32485_safety_0.smt2 : 1200169 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32486_safety_0.smt2 : 53334 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 118884 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32487_safety_0.smt2 : 1200094 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32488_safety_0.smt2 : 8627 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 120748 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32489_safety_0.smt2 : 1200103 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 123034 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32490_safety_0.smt2 : 1200082 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32497_safety_0.smt2 : 217 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32498_safety_0.smt2 : 1703 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p324_safety_0.smt2 : 13896 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32503_safety_0.smt2 : 374 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32504_safety_0.smt2 : 1336 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32508_safety_0.smt2 : 6526 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 124781 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32509_safety_0.smt2 : 1200137 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32511_safety_0.smt2 : 1098 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32512_safety_0.smt2 : 29791 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32513_safety_0.smt2 : 1016 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32514_safety_0.smt2 : 99819 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 126853 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32515_safety_0.smt2 : 1200116 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32519_safety_0.smt2 : 26324 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32520_safety_0.smt2 : 1201005 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 130350 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32521_safety_0.smt2 : 1200086 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32522_safety_0.smt2 : 26880 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32523_safety_0.smt2 : 1197698 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32526_safety_0.smt2 : 2352 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 133918 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32527_safety_0.smt2 : 1200135 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 135672 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32528_safety_0.smt2 : 1200119 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32537_safety_0.smt2 : 971 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32538_safety_0.smt2 : 79670 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32541_safety_0.smt2 : 15441 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32542_safety_0.smt2 : 1201008 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32543_safety_0.smt2 : 103901 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32546_safety_0.smt2 : 5 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+cvc5 interrupted by timeout.
+./run.sh: line 4: 172184 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32547_safety_0.smt2 : 1200206 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 368826 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32548_safety_0.smt2 : 1200097 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32551_terminationG_0.smt2 : 21464 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32552_terminationG_0.smt2 : 89641 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32553_terminationG_0.smt2 : 582098 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32563_safety_0.smt2 : 10671 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32565_safety_0.smt2 : 5131 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32571_safety_0.smt2 : 16351 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 371575 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32572_safety_0.smt2 : 1200454 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 373478 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32574_safety_0.smt2 : 1200668 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 375236 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32575_safety_0.smt2 : 1200359 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32579_safety_0.smt2 : 14395 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32580_safety_0.smt2 : 186935 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32584_safety_0.smt2 : 10724 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 376969 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32585_safety_0.smt2 : 1200430 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32590_safety_0.smt2 : 900 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32591_safety_0.smt2 : 418185 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 379245 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32592_safety_0.smt2 : 1200070 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32593_safety_0.smt2 : 1209 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32594_safety_0.smt2 : 20709 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 380970 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32595_safety_0.smt2 : 1200581 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32596_safety_0.smt2 : 2597 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32597_safety_0.smt2 : 11470 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32598_safety_0.smt2 : 38082 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 382754 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p325_safety_0.smt2 : 1200379 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32600_safety_0.smt2 : 24885 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 384383 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32601_safety_0.smt2 : 1200122 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32608_safety_0.smt2 : 55821 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 386228 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32611_safety_0.smt2 : 1200159 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32615_safety_0.smt2 : 864877 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32616_safety_0.smt2 : 229155 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32619_safety_0.smt2 : 2769 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32621_safety_0.smt2 : 14167 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32622_safety_0.smt2 : 3169 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32626_safety_0.smt2 : 9794 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32627_safety_0.smt2 : 228056 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32628_safety_0.smt2 : 3423 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32629_safety_0.smt2 : 6425 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32630_safety_0.smt2 : 1201006 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32633_safety_0.smt2 : 2445 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32634_safety_0.smt2 : 156545 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 391139 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32635_safety_0.smt2 : 1200460 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32636_safety_0.smt2 : 2728 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32637_safety_0.smt2 : 124979 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32638_safety_0.smt2 : 48863 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32639_safety_0.smt2 : 2737 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32640_safety_0.smt2 : 12631 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32641_safety_0.smt2 : 116620 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32651_safety_0.smt2 : 28293 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32653_safety_0.smt2 : 1651 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32654_safety_0.smt2 : 651477 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 394011 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32658_safety_0.smt2 : 1200072 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32659_safety_0.smt2 : 779988 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32661_safety_0.smt2 : 1430 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 397003 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32662_safety_0.smt2 : 1200309 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32663_safety_0.smt2 : 20987 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32664_safety_0.smt2 : 10425 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 398359 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32665_safety_0.smt2 : 1200092 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32669_safety_0.smt2 : 13585 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32670_safety_0.smt2 : 126611 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32673_safety_0.smt2 : 1445 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 400026 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32674_safety_0.smt2 : 1200845 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 401683 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32675_safety_0.smt2 : 1200069 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32676_safety_0.smt2 : 4739 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32677_safety_0.smt2 : 10822 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 403107 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32678_safety_0.smt2 : 1200089 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32686_safety_0.smt2 : 2263 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32687_safety_0.smt2 : 1201006 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32688_safety_0.smt2 : 762537 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32690_safety_0.smt2 : 13265 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32691_safety_0.smt2 : 437947 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 408008 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32695_safety_0.smt2 : 1200205 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32696_safety_0.smt2 : 1201005 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 411405 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p326_safety_0.smt2 : 1200317 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32701_safety_0.smt2 : 1743 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32705_safety_0.smt2 : 27125 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 412586 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32706_safety_0.smt2 : 1200336 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32709_safety_0.smt2 : 11659 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 414200 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32710_safety_0.smt2 : 1200403 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 415751 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32711_safety_0.smt2 : 1200086 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32714_safety_0.smt2 : 4196 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 417161 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32715_safety_0.smt2 : 1200091 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 418900 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32716_safety_0.smt2 : 1200283 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32719_terminationG_0.smt2 : 29602 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32720_terminationG_0.smt2 : 54506 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32721_terminationG_0.smt2 : 268773 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32732_safety_0.smt2 : 1343 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32733_safety_0.smt2 : 1525 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32737_safety_0.smt2 : 1860 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32742_safety_0.smt2 : 7340 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 420776 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32743_safety_0.smt2 : 1200093 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32746_safety_0.smt2 : 278413 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32747_safety_0.smt2 : 2891 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32748_safety_0.smt2 : 374271 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 423148 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32752_safety_0.smt2 : 1200544 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32753_safety_0.smt2 : 20929 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 424468 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32756_safety_0.smt2 : 1200066 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32757_safety_0.smt2 : 90965 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 426043 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32758_safety_0.smt2 : 1200074 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32761_safety_0.smt2 : 639 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32762_safety_0.smt2 : 5855 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 427608 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32763_safety_0.smt2 : 1200078 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32764_safety_0.smt2 : 2522 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32765_safety_0.smt2 : 12667 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 429024 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32766_safety_0.smt2 : 1200065 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p32767_safety_0.smt2 : 2364 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p327_safety_0.smt2 : 1184 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 430158 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p329_safety_0.smt2 : 1200090 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 431561 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p331_safety_0.smt2 : 1200309 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p332_safety_0.smt2 : 6195 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 432906 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p333_safety_0.smt2 : 1200618 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 434604 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p334_safety_0.smt2 : 1200503 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p335_safety_0.smt2 : 5882 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p336_safety_0.smt2 : 388245 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p338_safety_0.smt2 : 75623 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p348_safety_0.smt2 : 36125 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p350_safety_0.smt2 : 3860 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p351_safety_0.smt2 : 11252 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 436947 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p355_safety_0.smt2 : 1200110 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p356_safety_0.smt2 : 196364 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p358_safety_0.smt2 : 9019 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p359_safety_0.smt2 : 133233 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p363_safety_0.smt2 : 74286 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p364_safety_0.smt2 : 23567 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p365_safety_0.smt2 : 6769 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p366_safety_0.smt2 : 3115 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 438618 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p367_safety_0.smt2 : 1200527 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p370_safety_0.smt2 : 1974 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 439781 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p371_safety_0.smt2 : 1200411 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p372_safety_0.smt2 : 59172 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 441079 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p373_safety_0.smt2 : 1200097 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 442181 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p374_safety_0.smt2 : 1200101 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 443468 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p375_safety_0.smt2 : 1200087 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p376_safety_0.smt2 : 3163 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p377_safety_0.smt2 : 22949 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p378_safety_0.smt2 : 50928 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p383_safety_0.smt2 : 12412 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p387_safety_0.smt2 : 61626 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p388_safety_0.smt2 : 238449 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p392_safety_0.smt2 : 4006 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 444832 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p393_safety_0.smt2 : 1200466 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p396_safety_0.smt2 : 1316 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p397_safety_0.smt2 : 2499 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 446147 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p398_safety_0.smt2 : 1200290 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p407_safety_0.smt2 : 1029 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p410_safety_0.smt2 : 1872 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p413_safety_0.smt2 : 1201017 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p414_safety_0.smt2 : 25064 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p415_safety_0.smt2 : 12660 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p419_safety_0.smt2 : 27917 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p420_safety_0.smt2 : 88909 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p423_safety_0.smt2 : 2059 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 449089 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p424_safety_0.smt2 : 1200286 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p425_safety_0.smt2 : 7299 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 450221 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p429_safety_0.smt2 : 1200686 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 88650 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p430_safety_0.smt2 : 1200355 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p433_safety_0.smt2 : 145552 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p434_safety_0.smt2 : 6453 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 341801 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p435_safety_0.smt2 : 1200098 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p438_terminationG_0.smt2 : 25516 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p439_terminationG_0.smt2 : 125316 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p440_terminationG_0.smt2 : 257677 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 360517 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p442_edge_closing_0.smt2 : 1200098 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 370713 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p443_edge_closing_0.smt2 : 1200689 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 380323 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__p444_edge_closing_0.smt2 : 1200128 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__terminationS_0_0.smt2 : 9236 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__terminationS_1_0.smt2 : 4589 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__terminationS_2_0.smt2 : 5125 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__terminationS_3_0.smt2 : 4639 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateContainsValue.jar-obl-11__term_unfeasibility_2_0.smt2 : 1427 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 386972 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateGet.jar-obl-11__p1001_safety_0.smt2 : 1200594 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateGet.jar-obl-11__p1105_safety_0.smt2 : 1785 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateGet.jar-obl-11__p1247_safety_0.smt2 : 2185 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateGet.jar-obl-11__p1252_safety_0.smt2 : 2143 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateGet.jar-obl-11__p1414_safety_0.smt2 : 24250 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateGet.jar-obl-11__p469_safety_0.smt2 : 639 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateGet.jar-obl-11__p607_safety_0.smt2 : 16760 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 388211 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateGet.jar-obl-11__p771_safety_0.smt2 : 1200539 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_10//20170427-VeryMax/ITS/From_AProVE_2014__juHashMapCreateGet.jar-obl-11__p807_safety_0.smt2 : 2195 ms.

@@ -6,44 +6,47 @@ Number of variables: 349742
 Number of clauses: 1904159
 sat
 real sat
-../SAT_split/QF_NIA_9//mcm/03.smt2 : 1036823 ms.
+../SAT_split/QF_NIA_9//mcm/03.smt2 : 475559 ms.
 --------------------------------------------------
 Number of variables: 448235
 Number of clauses: 2378792
 unsat in 2 bits.
 Number of variables: 578301
 Number of clauses: 3129694
-../SAT_split/QF_NIA_9//mcm/05.smt2 : 1201090 ms.
+unsat in 4 bits.
+Number of variables: 886831
+Number of clauses: 4941388
+../SAT_split/QF_NIA_9//mcm/05.smt2 : 1201135 ms.
 --------------------------------------------------
 Number of variables: 64149
 Number of clauses: 334558
 sat
 real sat
-../SAT_split/QF_NIA_9//mcm/06.smt2 : 849 ms.
+../SAT_split/QF_NIA_9//mcm/06.smt2 : 636 ms.
 --------------------------------------------------
 Number of variables: 216597
 Number of clauses: 1134992
 sat
 real sat
-../SAT_split/QF_NIA_9//mcm/07.smt2 : 49038 ms.
+../SAT_split/QF_NIA_9//mcm/07.smt2 : 35427 ms.
 --------------------------------------------------
 Number of variables: 428080
 Number of clauses: 2208678
 sat
 real sat
-../SAT_split/QF_NIA_9//mcm/104.smt2 : 63544 ms.
+../SAT_split/QF_NIA_9//mcm/104.smt2 : 51981 ms.
 --------------------------------------------------
 Number of variables: 226948
 Number of clauses: 1174570
 sat
 real sat
-../SAT_split/QF_NIA_9//mcm/107.smt2 : 2162 ms.
+../SAT_split/QF_NIA_9//mcm/107.smt2 : 1337 ms.
 --------------------------------------------------
 Number of variables: 264436
 Number of clauses: 1368021
 sat
 real sat
-../SAT_split/QF_NIA_9//mcm/109.smt2 : 2386 ms.
+../SAT_split/QF_NIA_9//mcm/109.smt2 : 1511 ms.
 --------------------------------------------------
 Number of variables: 242537
 Number of clauses: 1280046
@@ -52,37 +55,37 @@ Number of variables: 306235
 Number of clauses: 1675436
 sat
 real sat
-../SAT_split/QF_NIA_9//mcm/10.smt2 : 658665 ms.
+../SAT_split/QF_NIA_9//mcm/10.smt2 : 495894 ms.
 --------------------------------------------------
 Number of variables: 182799
 Number of clauses: 956838
 sat
 real sat
-../SAT_split/QF_NIA_9//mcm/113.smt2 : 8028 ms.
+../SAT_split/QF_NIA_9//mcm/113.smt2 : 4956 ms.
 --------------------------------------------------
 Number of variables: 395935
 Number of clauses: 2041878
 sat
 real sat
-../SAT_split/QF_NIA_9//mcm/115.smt2 : 5862 ms.
+../SAT_split/QF_NIA_9//mcm/115.smt2 : 3955 ms.
 --------------------------------------------------
 Number of variables: 232361
 Number of clauses: 1203231
 sat
 real sat
-../SAT_split/QF_NIA_9//mcm/117.smt2 : 9022 ms.
+../SAT_split/QF_NIA_9//mcm/117.smt2 : 5179 ms.
 --------------------------------------------------
 Number of variables: 249994
 Number of clauses: 1298840
 sat
 real sat
-../SAT_split/QF_NIA_9//mcm/118.smt2 : 13182 ms.
+../SAT_split/QF_NIA_9//mcm/118.smt2 : 9210 ms.
 --------------------------------------------------
 Number of variables: 1094920
 Number of clauses: 5759054
 sat
 real sat
-../SAT_split/QF_NIA_9//mcm/123.smt2 : 264896 ms.
+../SAT_split/QF_NIA_9//mcm/123.smt2 : 166669 ms.
 --------------------------------------------------
 Number of variables: 92185
 Number of clauses: 478503
@@ -91,14 +94,14 @@ Number of variables: 113362
 Number of clauses: 622636
 sat
 real sat
-../SAT_split/QF_NIA_9//mcm/12.smt2 : 20656 ms.
+../SAT_split/QF_NIA_9//mcm/12.smt2 : 14146 ms.
 --------------------------------------------------
 Number of variables: 1252277
 Number of clauses: 6570764
 unsat in 2 bits.
 Number of variables: 1543386
 Number of clauses: 8495687
-../SAT_split/QF_NIA_9//mcm/139.smt2 : 1201064 ms.
+../SAT_split/QF_NIA_9//mcm/139.smt2 : 1201225 ms.
 --------------------------------------------------
 Number of variables: 345089
 Number of clauses: 1813612
@@ -107,7 +110,7 @@ Number of variables: 452132
 Number of clauses: 2433287
 sat
 real sat
-../SAT_split/QF_NIA_9//mcm/13.smt2 : 194921 ms.
+../SAT_split/QF_NIA_9//mcm/13.smt2 : 98463 ms.
 --------------------------------------------------
 Number of variables: 202945
 Number of clauses: 1066299
@@ -119,7 +122,7 @@ Number of variables: 389810
 Number of clauses: 2241472
 sat
 real sat
-../SAT_split/QF_NIA_9//mcm/14.smt2 : 316785 ms.
+../SAT_split/QF_NIA_9//mcm/14.smt2 : 283892 ms.
 --------------------------------------------------
 Number of variables: 825603
 Number of clauses: 4298814
@@ -128,11 +131,11 @@ Number of variables: 1009598
 Number of clauses: 5529209
 sat
 real sat
-../SAT_split/QF_NIA_9//mcm/152.smt2 : 380158 ms.
+../SAT_split/QF_NIA_9//mcm/152.smt2 : 368305 ms.
 --------------------------------------------------
 Number of variables: 1427036
 Number of clauses: 7475771
-../SAT_split/QF_NIA_9//mcm/156.smt2 : 1201064 ms.
+../SAT_split/QF_NIA_9//mcm/156.smt2 : 1201078 ms.
 --------------------------------------------------
 Number of variables: 253367
 Number of clauses: 1341466
@@ -144,37 +147,37 @@ Number of variables: 482633
 Number of clauses: 2736460
 sat
 real sat
-../SAT_split/QF_NIA_9//mcm/15.smt2 : 547499 ms.
+../SAT_split/QF_NIA_9//mcm/15.smt2 : 596381 ms.
 --------------------------------------------------
 Number of variables: 672402
 Number of clauses: 3436236
 sat
 real sat
-../SAT_split/QF_NIA_9//mcm/162.smt2 : 7200 ms.
+../SAT_split/QF_NIA_9//mcm/162.smt2 : 6250 ms.
 --------------------------------------------------
 Number of variables: 686760
 Number of clauses: 3505206
 sat
 real sat
-../SAT_split/QF_NIA_9//mcm/164.smt2 : 4871 ms.
+../SAT_split/QF_NIA_9//mcm/164.smt2 : 4594 ms.
 --------------------------------------------------
 Number of variables: 635001
 Number of clauses: 3253524
 sat
 real sat
-../SAT_split/QF_NIA_9//mcm/166.smt2 : 11819 ms.
+../SAT_split/QF_NIA_9//mcm/166.smt2 : 9302 ms.
 --------------------------------------------------
 Number of variables: 662681
 Number of clauses: 3386230
 sat
 real sat
-../SAT_split/QF_NIA_9//mcm/170.smt2 : 5872 ms.
+../SAT_split/QF_NIA_9//mcm/170.smt2 : 4618 ms.
 --------------------------------------------------
 Number of variables: 1665481
 Number of clauses: 8453278
 sat
 real sat
-../SAT_split/QF_NIA_9//mcm/177.smt2 : 752411 ms.
+../SAT_split/QF_NIA_9//mcm/177.smt2 : 623347 ms.
 --------------------------------------------------
 Number of variables: 448235
 Number of clauses: 2378792
@@ -184,7 +187,7 @@ Number of clauses: 3129694
 unsat in 4 bits.
 Number of variables: 886831
 Number of clauses: 4941388
-../SAT_split/QF_NIA_9//mcm/26.smt2 : 1201051 ms.
+../SAT_split/QF_NIA_9//mcm/26.smt2 : 1201129 ms.
 --------------------------------------------------
 Number of variables: 337982
 Number of clauses: 1793212
@@ -193,7 +196,7 @@ Number of variables: 436092
 Number of clauses: 2359310
 sat
 real sat
-../SAT_split/QF_NIA_9//mcm/41.smt2 : 222583 ms.
+../SAT_split/QF_NIA_9//mcm/41.smt2 : 177259 ms.
 --------------------------------------------------
 Number of variables: 205727
 Number of clauses: 1081872
@@ -202,10 +205,10 @@ Number of variables: 257557
 Number of clauses: 1415170
 sat
 real sat
-../SAT_split/QF_NIA_9//mcm/43.smt2 : 149627 ms.
+../SAT_split/QF_NIA_9//mcm/43.smt2 : 118065 ms.
 --------------------------------------------------
 Number of variables: 97096
 Number of clauses: 506181
 sat
 real sat
-../SAT_split/QF_NIA_9//mcm/45.smt2 : 3624 ms.
+../SAT_split/QF_NIA_9//mcm/45.smt2 : 2803 ms.

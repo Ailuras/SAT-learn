@@ -1,0 +1,1633 @@
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 414789 Aborted                 $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p12007_edge_closing_0.smt2 : 10030 ms.
+--------------------------------------------------
+./run.sh: line 4: 415946 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p12008_edge_closing_0.smt2 : 10045 ms.
+--------------------------------------------------
+./run.sh: line 4: 416789 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__p12009_edge_closing_0.smt2 : 10024 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__terminationS_2_0.smt2 : 5145 ms.
+--------------------------------------------------
+./run.sh: line 4: 418362 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__term_unfeasibility_1_0.smt2 : 10024 ms.
+--------------------------------------------------
+./run.sh: line 4: 420128 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__s1-striped.t2_fixed__term_unfeasibility_2_0.smt2 : 10022 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 421478 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__s3-work.t2_fixed__term_unfeasibility_2_0.smt2 : 10062 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__p21285_terminationG_0.smt2 : 11007 ms.
+--------------------------------------------------
+./run.sh: line 4: 423313 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__p21287_terminationG_0.smt2 : 10030 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 423958 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__p21288_terminationG_0.smt2 : 10060 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 424791 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__p21291_terminationG_0.smt2 : 10059 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 425805 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__p21292_terminationG_0.smt2 : 10067 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 426762 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__p21293_terminationG_0.smt2 : 10066 ms.
+--------------------------------------------------
+./run.sh: line 4: 427418 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__p21296_terminationG_0.smt2 : 10021 ms.
+--------------------------------------------------
+./run.sh: line 4: 428077 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__p21297_terminationG_0.smt2 : 10021 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 428671 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__p21298_terminationG_0.smt2 : 10065 ms.
+--------------------------------------------------
+./run.sh: line 4: 429343 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__p21301_terminationG_0.smt2 : 10017 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 430192 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__p21302_terminationG_0.smt2 : 10053 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 431042 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__p21303_terminationG_0.smt2 : 10051 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__p21305_terminationG_0.smt2 : 11006 ms.
+--------------------------------------------------
+./run.sh: line 4: 432387 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__p21307_terminationG_0.smt2 : 10022 ms.
+--------------------------------------------------
+./run.sh: line 4: 433056 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__p21308_terminationG_0.smt2 : 10025 ms.
+--------------------------------------------------
+./run.sh: line 4: 433694 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__p21311_terminationG_0.smt2 : 10014 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__p21312_terminationG_0.smt2 : 11006 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 435538 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__p21313_terminationG_0.smt2 : 10048 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 436192 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__terminationQ_0_0.smt2 : 10043 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 436951 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__terminationQ_1_0.smt2 : 10020 ms.
+--------------------------------------------------
+./run.sh: line 4: 437650 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__terminationQ_2_0.smt2 : 10018 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 438261 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__terminationQ_3_0.smt2 : 10052 ms.
+--------------------------------------------------
+./run.sh: line 4: 439008 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__terminationS_1_0.smt2 : 10017 ms.
+--------------------------------------------------
+./run.sh: line 4: 439699 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__terminationS_2_0.smt2 : 10019 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__terminationS_3_0.smt2 : 4590 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__terminationS_4_0.smt2 : 6150 ms.
+--------------------------------------------------
+./run.sh: line 4: 441038 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__terminationS_5_0.smt2 : 10014 ms.
+--------------------------------------------------
+./run.sh: line 4: 441648 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__terminationS_6_0.smt2 : 10016 ms.
+--------------------------------------------------
+./run.sh: line 4: 442464 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__terminationS_7_0.smt2 : 10018 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__term_unfeasibility_0_0.smt2 : 2923 ms.
+--------------------------------------------------
+./run.sh: line 4: 443571 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__term_unfeasibility_1_0.smt2 : 10017 ms.
+--------------------------------------------------
+./run.sh: line 4: 444255 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__sas2.t2__term_unfeasibility_2_0.smt2 : 10015 ms.
+--------------------------------------------------
+./run.sh: line 4: 444845 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__select.t2_fixed__p21324_terminationG_0.smt2 : 10018 ms.
+--------------------------------------------------
+./run.sh: line 4: 445418 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__select.t2_fixed__p21325_terminationG_0.smt2 : 10020 ms.
+--------------------------------------------------
+./run.sh: line 4: 446003 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__select.t2_fixed__p21326_terminationG_0.smt2 : 10018 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 446648 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__select.t2_fixed__p21329_terminationG_0.smt2 : 10056 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 447492 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__select.t2_fixed__p21330_terminationG_0.smt2 : 10055 ms.
+--------------------------------------------------
+./run.sh: line 4: 448216 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__select.t2_fixed__p21331_terminationG_0.smt2 : 10030 ms.
+--------------------------------------------------
+./run.sh: line 4: 448838 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__select.t2_fixed__p21335_edge_closing_0.smt2 : 10015 ms.
+--------------------------------------------------
+./run.sh: line 4: 449466 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__select.t2_fixed__p21336_edge_closing_0.smt2 : 10019 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 450082 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__select.t2_fixed__term_unfeasibility_0_0.smt2 : 10052 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 450770 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__select.t2_fixed__term_unfeasibility_1_0.smt2 : 10018 ms.
+--------------------------------------------------
+./run.sh: line 4: 451459 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__select.t2_fixed__term_unfeasibility_2_0.smt2 : 10016 ms.
+--------------------------------------------------
+./run.sh: line 4: 451983 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__select.t2_fixed__term_unfeasibility_3_0.smt2 : 10016 ms.
+--------------------------------------------------
+./run.sh: line 4: 452659 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__select.t2__p21345_terminationG_0.smt2 : 10021 ms.
+--------------------------------------------------
+./run.sh: line 4: 453323 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__select.t2__p21346_terminationG_0.smt2 : 10021 ms.
+--------------------------------------------------
+./run.sh: line 4: 453931 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__select.t2__p21398_edge_closing_0.smt2 : 10014 ms.
+--------------------------------------------------
+./run.sh: line 4: 454520 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__select.t2__p21400_edge_closing_0.smt2 : 10021 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 455181 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__select.t2__term_unfeasibility_0_0.smt2 : 10040 ms.
+--------------------------------------------------
+./run.sh: line 4: 455834 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__select.t2__term_unfeasibility_1_0.smt2 : 10014 ms.
+--------------------------------------------------
+./run.sh: line 4: 456500 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__select.t2__term_unfeasibility_2_0.smt2 : 10013 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 457310 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__select.t2__term_unfeasibility_3_0.smt2 : 10051 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__simple.t2__p21460_terminationG_0.smt2 : 47 ms.
+--------------------------------------------------
+./run.sh: line 4: 457830 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__simple.t2__p21461_terminationG_0.smt2 : 10014 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 458465 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__simple.t2__p21462_terminationG_0.smt2 : 10049 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__simple.t2__p21465_terminationG_0.smt2 : 72 ms.
+--------------------------------------------------
+./run.sh: line 4:  1488 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__simple.t2__p21466_terminationG_0.smt2 : 10012 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4:  2170 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__simple.t2__p21467_terminationG_0.smt2 : 10048 ms.
+--------------------------------------------------
+./run.sh: line 4:  2894 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21507_terminationG_0.smt2 : 10014 ms.
+--------------------------------------------------
+./run.sh: line 4:  3502 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21508_terminationG_0.smt2 : 10016 ms.
+--------------------------------------------------
+./run.sh: line 4:  4139 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21509_terminationG_0.smt2 : 10024 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4:  4781 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21512_terminationG_0.smt2 : 10052 ms.
+--------------------------------------------------
+./run.sh: line 4:  5459 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21513_terminationG_0.smt2 : 10018 ms.
+--------------------------------------------------
+./run.sh: line 4:  6176 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21514_terminationG_0.smt2 : 10017 ms.
+--------------------------------------------------
+./run.sh: line 4:  6805 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21517_terminationG_0.smt2 : 10015 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4:  7438 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21518_terminationG_0.smt2 : 10054 ms.
+--------------------------------------------------
+./run.sh: line 4:  8012 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21519_terminationG_0.smt2 : 10035 ms.
+--------------------------------------------------
+./run.sh: line 4:  8674 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21522_terminationG_0.smt2 : 10021 ms.
+--------------------------------------------------
+./run.sh: line 4:  9332 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21523_terminationG_0.smt2 : 10024 ms.
+--------------------------------------------------
+./run.sh: line 4: 10090 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21524_terminationG_0.smt2 : 10024 ms.
+--------------------------------------------------
+./run.sh: line 4: 10816 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21526_terminationG_0.smt2 : 10023 ms.
+--------------------------------------------------
+./run.sh: line 4: 11435 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21528_terminationG_0.smt2 : 10022 ms.
+--------------------------------------------------
+./run.sh: line 4: 12042 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21529_terminationG_0.smt2 : 10029 ms.
+--------------------------------------------------
+./run.sh: line 4: 12677 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21532_terminationG_0.smt2 : 10024 ms.
+--------------------------------------------------
+./run.sh: line 4: 13301 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21533_terminationG_0.smt2 : 10026 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 13930 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21534_terminationG_0.smt2 : 10066 ms.
+--------------------------------------------------
+./run.sh: line 4: 14616 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21537_terminationG_0.smt2 : 10023 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 15387 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21538_terminationG_0.smt2 : 10049 ms.
+--------------------------------------------------
+./run.sh: line 4: 16006 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21539_terminationG_0.smt2 : 10024 ms.
+--------------------------------------------------
+./run.sh: line 4: 16764 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21542_terminationG_0.smt2 : 10020 ms.
+--------------------------------------------------
+./run.sh: line 4: 17555 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21543_terminationG_0.smt2 : 10025 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 18246 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21544_terminationG_0.smt2 : 10050 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 18929 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21547_terminationG_0.smt2 : 10023 ms.
+--------------------------------------------------
+./run.sh: line 4: 19689 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21548_terminationG_0.smt2 : 10023 ms.
+--------------------------------------------------
+./run.sh: line 4: 20299 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21549_terminationG_0.smt2 : 10024 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 20900 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21552_terminationG_0.smt2 : 10056 ms.
+--------------------------------------------------
+./run.sh: line 4: 21508 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21553_terminationG_0.smt2 : 10025 ms.
+--------------------------------------------------
+./run.sh: line 4: 22101 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21554_terminationG_0.smt2 : 10029 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21557_terminationG_0.smt2 : 11006 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 23429 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21558_terminationG_0.smt2 : 10061 ms.
+--------------------------------------------------
+./run.sh: line 4: 24076 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21559_terminationG_0.smt2 : 10027 ms.
+--------------------------------------------------
+./run.sh: line 4: 24703 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21562_terminationG_0.smt2 : 10022 ms.
+--------------------------------------------------
+./run.sh: line 4: 25381 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21563_terminationG_0.smt2 : 10025 ms.
+--------------------------------------------------
+./run.sh: line 4: 26052 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21564_terminationG_0.smt2 : 10028 ms.
+--------------------------------------------------
+./run.sh: line 4: 26687 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21567_terminationG_0.smt2 : 10016 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 27299 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21568_terminationG_0.smt2 : 10050 ms.
+--------------------------------------------------
+./run.sh: line 4: 27908 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21569_terminationG_0.smt2 : 10026 ms.
+--------------------------------------------------
+./run.sh: line 4: 28504 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21572_terminationG_0.smt2 : 10021 ms.
+--------------------------------------------------
+./run.sh: line 4: 29119 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21573_terminationG_0.smt2 : 10024 ms.
+--------------------------------------------------
+./run.sh: line 4: 29689 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21574_terminationG_0.smt2 : 10026 ms.
+--------------------------------------------------
+./run.sh: line 4: 30334 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21577_terminationG_0.smt2 : 10023 ms.
+--------------------------------------------------
+./run.sh: line 4: 30985 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21578_terminationG_0.smt2 : 10030 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 31658 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21579_terminationG_0.smt2 : 10062 ms.
+--------------------------------------------------
+./run.sh: line 4: 32311 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21582_terminationG_0.smt2 : 10020 ms.
+--------------------------------------------------
+./run.sh: line 4: 32869 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21583_terminationG_0.smt2 : 10020 ms.
+--------------------------------------------------
+./run.sh: line 4: 33471 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21584_terminationG_0.smt2 : 10025 ms.
+--------------------------------------------------
+./run.sh: line 4: 34082 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21587_terminationG_0.smt2 : 10020 ms.
+--------------------------------------------------
+./run.sh: line 4: 34760 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21588_terminationG_0.smt2 : 10018 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 35434 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21589_terminationG_0.smt2 : 10065 ms.
+--------------------------------------------------
+./run.sh: line 4: 36018 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21592_terminationG_0.smt2 : 10017 ms.
+--------------------------------------------------
+./run.sh: line 4: 36732 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21593_terminationG_0.smt2 : 10025 ms.
+--------------------------------------------------
+./run.sh: line 4: 37374 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21594_terminationG_0.smt2 : 10022 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 38051 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21597_terminationG_0.smt2 : 10051 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 38659 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21598_terminationG_0.smt2 : 10061 ms.
+--------------------------------------------------
+./run.sh: line 4: 39314 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21599_terminationG_0.smt2 : 10025 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 39990 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21602_terminationG_0.smt2 : 10055 ms.
+--------------------------------------------------
+./run.sh: line 4: 40593 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21603_terminationG_0.smt2 : 10026 ms.
+--------------------------------------------------
+./run.sh: line 4: 41133 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21604_terminationG_0.smt2 : 10027 ms.
+--------------------------------------------------
+./run.sh: line 4: 41707 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21607_terminationG_0.smt2 : 10022 ms.
+--------------------------------------------------
+./run.sh: line 4: 42367 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21608_terminationG_0.smt2 : 10024 ms.
+--------------------------------------------------
+./run.sh: line 4: 42970 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21609_terminationG_0.smt2 : 10024 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 43498 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21612_terminationG_0.smt2 : 10057 ms.
+--------------------------------------------------
+./run.sh: line 4: 44038 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21613_terminationG_0.smt2 : 10026 ms.
+--------------------------------------------------
+./run.sh: line 4: 44625 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21614_terminationG_0.smt2 : 10028 ms.
+--------------------------------------------------
+./run.sh: line 4: 45139 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21617_terminationG_0.smt2 : 10022 ms.
+--------------------------------------------------
+./run.sh: line 4: 45814 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21618_terminationG_0.smt2 : 10025 ms.
+--------------------------------------------------
+./run.sh: line 4: 46476 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21619_terminationG_0.smt2 : 10028 ms.
+--------------------------------------------------
+./run.sh: line 4: 47104 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21622_terminationG_0.smt2 : 10022 ms.
+--------------------------------------------------
+./run.sh: line 4: 47727 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21623_terminationG_0.smt2 : 10027 ms.
+--------------------------------------------------
+./run.sh: line 4: 48285 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21624_terminationG_0.smt2 : 10032 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 48860 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21627_terminationG_0.smt2 : 10046 ms.
+--------------------------------------------------
+./run.sh: line 4: 49425 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21628_terminationG_0.smt2 : 10021 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 50001 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21629_terminationG_0.smt2 : 10029 ms.
+--------------------------------------------------
+./run.sh: line 4: 50592 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21632_terminationG_0.smt2 : 10024 ms.
+--------------------------------------------------
+./run.sh: line 4: 51213 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21633_terminationG_0.smt2 : 10027 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 51801 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21634_terminationG_0.smt2 : 10061 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 52306 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21637_terminationG_0.smt2 : 10055 ms.
+--------------------------------------------------
+./run.sh: line 4: 52879 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21638_terminationG_0.smt2 : 10023 ms.
+--------------------------------------------------
+./run.sh: line 4: 53422 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21639_terminationG_0.smt2 : 10023 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21642_terminationG_0.smt2 : 11006 ms.
+--------------------------------------------------
+./run.sh: line 4: 54680 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21643_terminationG_0.smt2 : 10020 ms.
+--------------------------------------------------
+./run.sh: line 4: 55233 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21644_terminationG_0.smt2 : 10021 ms.
+--------------------------------------------------
+./run.sh: line 4: 55728 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21647_terminationG_0.smt2 : 10019 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 56228 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21648_terminationG_0.smt2 : 10062 ms.
+--------------------------------------------------
+./run.sh: line 4: 56754 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21649_terminationG_0.smt2 : 10026 ms.
+--------------------------------------------------
+./run.sh: line 4: 57218 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21652_terminationG_0.smt2 : 10020 ms.
+--------------------------------------------------
+./run.sh: line 4: 57751 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21653_terminationG_0.smt2 : 10022 ms.
+--------------------------------------------------
+./run.sh: line 4: 58286 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21654_terminationG_0.smt2 : 10024 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 58768 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21657_terminationG_0.smt2 : 10051 ms.
+--------------------------------------------------
+./run.sh: line 4: 59262 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21658_terminationG_0.smt2 : 10017 ms.
+--------------------------------------------------
+./run.sh: line 4: 59818 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21659_terminationG_0.smt2 : 10031 ms.
+--------------------------------------------------
+./run.sh: line 4: 60318 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21662_terminationG_0.smt2 : 10020 ms.
+--------------------------------------------------
+./run.sh: line 4: 60886 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21663_terminationG_0.smt2 : 10026 ms.
+--------------------------------------------------
+./run.sh: line 4: 61423 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21664_terminationG_0.smt2 : 10022 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 61959 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21668_terminationG_0.smt2 : 10022 ms.
+--------------------------------------------------
+./run.sh: line 4: 62473 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21669_terminationG_0.smt2 : 10021 ms.
+--------------------------------------------------
+./run.sh: line 4: 63207 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21670_terminationG_0.smt2 : 10023 ms.
+--------------------------------------------------
+./run.sh: line 4: 63774 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21673_terminationG_0.smt2 : 10018 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 64388 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21674_terminationG_0.smt2 : 10066 ms.
+--------------------------------------------------
+./run.sh: line 4: 64988 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21675_terminationG_0.smt2 : 10028 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21679_safety_0.smt2 : 664 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21680_safety_0.smt2 : 687 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21681_safety_0.smt2 : 5793 ms.
+--------------------------------------------------
+./run.sh: line 4: 65869 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21688_safety_0.smt2 : 10017 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21689_safety_0.smt2 : 657 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21690_safety_0.smt2 : 1708 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21693_safety_0.smt2 : 1525 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21699_safety_0.smt2 : 3076 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21701_safety_0.smt2 : 2799 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21702_safety_0.smt2 : 5268 ms.
+--------------------------------------------------
+./run.sh: line 4: 67325 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21705_safety_0.smt2 : 10024 ms.
+--------------------------------------------------
+./run.sh: line 4: 67887 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21712_safety_0.smt2 : 10015 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21714_safety_0.smt2 : 2571 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21719_safety_0.smt2 : 562 ms.
+--------------------------------------------------
+./run.sh: line 4: 68657 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21721_safety_0.smt2 : 10023 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21722_safety_0.smt2 : 849 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21723_safety_0.smt2 : 3167 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21725_safety_0.smt2 : 2793 ms.
+--------------------------------------------------
+./run.sh: line 4: 69467 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21726_safety_0.smt2 : 10018 ms.
+--------------------------------------------------
+./run.sh: line 4: 70069 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21729_safety_0.smt2 : 10020 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21733_safety_0.smt2 : 4587 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21735_safety_0.smt2 : 4132 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21738_safety_0.smt2 : 2230 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21742_safety_0.smt2 : 3095 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21744_safety_0.smt2 : 3766 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21749_safety_0.smt2 : 1137 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21751_safety_0.smt2 : 1084 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21753_safety_0.smt2 : 7742 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21755_safety_0.smt2 : 1484 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21756_safety_0.smt2 : 7624 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21758_safety_0.smt2 : 2044 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21760_safety_0.smt2 : 1844 ms.
+--------------------------------------------------
+./run.sh: line 4: 72827 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21762_safety_0.smt2 : 10020 ms.
+--------------------------------------------------
+./run.sh: line 4: 73385 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21764_safety_0.smt2 : 10016 ms.
+--------------------------------------------------
+./run.sh: line 4: 73868 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21765_safety_0.smt2 : 10021 ms.
+--------------------------------------------------
+./run.sh: line 4: 74449 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21771_safety_0.smt2 : 10020 ms.
+--------------------------------------------------
+./run.sh: line 4: 74972 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21778_safety_0.smt2 : 10014 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21780_safety_0.smt2 : 3777 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21782_safety_0.smt2 : 1770 ms.
+--------------------------------------------------
+./run.sh: line 4: 75833 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21783_safety_0.smt2 : 10015 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21784_safety_0.smt2 : 3381 ms.
+--------------------------------------------------
+./run.sh: line 4: 76544 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21785_safety_0.smt2 : 10014 ms.
+--------------------------------------------------
+./run.sh: line 4: 77128 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21786_safety_0.smt2 : 10022 ms.
+--------------------------------------------------
+./run.sh: line 4: 77797 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21789_edge_closing_0.smt2 : 10023 ms.
+--------------------------------------------------
+./run.sh: line 4: 78411 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21790_edge_closing_0.smt2 : 10032 ms.
+--------------------------------------------------
+./run.sh: line 4: 79011 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-filtered.t2__p21791_edge_closing_0.smt2 : 10032 ms.
+--------------------------------------------------
+./run.sh: line 4: 79576 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2_fixed__p21801_terminationG_0.smt2 : 10039 ms.
+--------------------------------------------------
+./run.sh: line 4: 80162 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2_fixed__p21802_terminationG_0.smt2 : 10057 ms.
+--------------------------------------------------
+./run.sh: line 4: 80688 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2_fixed__p21803_terminationG_0.smt2 : 10061 ms.
+--------------------------------------------------
+./run.sh: line 4: 81217 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2_fixed__p21812_safety_0.smt2 : 10015 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2_fixed__p21815_safety_0.smt2 : 8139 ms.
+--------------------------------------------------
+./run.sh: line 4: 82352 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2_fixed__p21821_safety_0.smt2 : 10017 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2_fixed__p21823_safety_0.smt2 : 2100 ms.
+--------------------------------------------------
+./run.sh: line 4: 82972 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2_fixed__p21824_safety_0.smt2 : 10019 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2_fixed__p21826_safety_0.smt2 : 1506 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2_fixed__p21831_safety_0.smt2 : 1063 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2_fixed__p21832_safety_0.smt2 : 4190 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2_fixed__p21835_safety_0.smt2 : 830 ms.
+--------------------------------------------------
+./run.sh: line 4: 83980 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2_fixed__p21836_safety_0.smt2 : 10019 ms.
+--------------------------------------------------
+./run.sh: line 4: 84514 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2_fixed__p21837_safety_0.smt2 : 10021 ms.
+--------------------------------------------------
+./run.sh: line 4: 85037 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2_fixed__p21842_safety_0.smt2 : 10020 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2_fixed__p21845_safety_0.smt2 : 1495 ms.
+--------------------------------------------------
+./run.sh: line 4: 85683 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2_fixed__p21846_safety_0.smt2 : 10017 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2_fixed__p21847_safety_0.smt2 : 7166 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2_fixed__p21851_safety_0.smt2 : 1032 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2_fixed__p21852_safety_0.smt2 : 9271 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 87405 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2_fixed__p21855_safety_0.smt2 : 10054 ms.
+--------------------------------------------------
+./run.sh: line 4: 87981 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2_fixed__p21858_safety_0.smt2 : 10016 ms.
+--------------------------------------------------
+./run.sh: line 4: 88553 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2_fixed__p21861_safety_0.smt2 : 10015 ms.
+--------------------------------------------------
+./run.sh: line 4: 89100 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2_fixed__p21863_edge_closing_0.smt2 : 10030 ms.
+--------------------------------------------------
+./run.sh: line 4: 89619 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2_fixed__p21864_edge_closing_0.smt2 : 10024 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 90107 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2_fixed__p21865_edge_closing_0.smt2 : 10060 ms.
+--------------------------------------------------
+./run.sh: line 4: 90655 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21877_terminationG_0.smt2 : 10030 ms.
+--------------------------------------------------
+./run.sh: line 4: 91204 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21878_terminationG_0.smt2 : 10024 ms.
+--------------------------------------------------
+./run.sh: line 4: 91692 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21879_terminationG_0.smt2 : 10030 ms.
+--------------------------------------------------
+./run.sh: line 4: 92158 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21882_terminationG_0.smt2 : 10021 ms.
+--------------------------------------------------
+./run.sh: line 4: 92624 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21883_terminationG_0.smt2 : 10032 ms.
+--------------------------------------------------
+./run.sh: line 4: 93072 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21884_terminationG_0.smt2 : 10033 ms.
+--------------------------------------------------
+./run.sh: line 4: 93605 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21887_terminationG_0.smt2 : 10026 ms.
+--------------------------------------------------
+./run.sh: line 4: 94307 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21888_terminationG_0.smt2 : 10033 ms.
+--------------------------------------------------
+./run.sh: line 4: 94803 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21889_terminationG_0.smt2 : 10032 ms.
+--------------------------------------------------
+./run.sh: line 4: 95354 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21892_terminationG_0.smt2 : 10029 ms.
+--------------------------------------------------
+./run.sh: line 4: 95874 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21893_terminationG_0.smt2 : 10028 ms.
+--------------------------------------------------
+./run.sh: line 4: 96417 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21894_terminationG_0.smt2 : 10034 ms.
+--------------------------------------------------
+./run.sh: line 4: 96933 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21897_terminationG_0.smt2 : 10031 ms.
+--------------------------------------------------
+./run.sh: line 4: 97470 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21898_terminationG_0.smt2 : 10040 ms.
+--------------------------------------------------
+./run.sh: line 4: 98131 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21899_terminationG_0.smt2 : 10030 ms.
+--------------------------------------------------
+./run.sh: line 4: 98668 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21903_terminationG_0.smt2 : 10027 ms.
+--------------------------------------------------
+./run.sh: line 4: 99127 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21904_terminationG_0.smt2 : 10031 ms.
+--------------------------------------------------
+./run.sh: line 4: 99565 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21905_terminationG_0.smt2 : 10032 ms.
+--------------------------------------------------
+./run.sh: line 4: 100042 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21908_terminationG_0.smt2 : 10029 ms.
+--------------------------------------------------
+./run.sh: line 4: 100543 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21909_terminationG_0.smt2 : 10039 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 101117 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21910_terminationG_0.smt2 : 10072 ms.
+--------------------------------------------------
+./run.sh: line 4: 101667 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21913_terminationG_0.smt2 : 10035 ms.
+--------------------------------------------------
+./run.sh: line 4: 102142 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21914_terminationG_0.smt2 : 10030 ms.
+--------------------------------------------------
+./run.sh: line 4: 102639 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21915_terminationG_0.smt2 : 10033 ms.
+--------------------------------------------------
+./run.sh: line 4: 103225 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21918_terminationG_0.smt2 : 10029 ms.
+--------------------------------------------------
+./run.sh: line 4: 103769 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21919_terminationG_0.smt2 : 10032 ms.
+--------------------------------------------------
+./run.sh: line 4: 104319 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21920_terminationG_0.smt2 : 10036 ms.
+--------------------------------------------------
+./run.sh: line 4: 104903 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21923_terminationG_0.smt2 : 10024 ms.
+--------------------------------------------------
+./run.sh: line 4: 105380 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21924_terminationG_0.smt2 : 10036 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 105854 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21925_terminationG_0.smt2 : 10061 ms.
+--------------------------------------------------
+./run.sh: line 4: 106437 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21928_terminationG_0.smt2 : 10028 ms.
+--------------------------------------------------
+./run.sh: line 4: 106971 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21929_terminationG_0.smt2 : 10024 ms.
+--------------------------------------------------
+./run.sh: line 4: 107500 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21930_terminationG_0.smt2 : 10025 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 108011 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21933_terminationG_0.smt2 : 10060 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 108493 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21934_terminationG_0.smt2 : 10065 ms.
+--------------------------------------------------
+./run.sh: line 4: 108968 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21935_terminationG_0.smt2 : 10022 ms.
+--------------------------------------------------
+./run.sh: line 4: 109541 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21938_terminationG_0.smt2 : 10023 ms.
+--------------------------------------------------
+./run.sh: line 4: 110079 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21939_terminationG_0.smt2 : 10024 ms.
+--------------------------------------------------
+./run.sh: line 4: 110631 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21940_terminationG_0.smt2 : 10027 ms.
+--------------------------------------------------
+./run.sh: line 4: 111107 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21943_terminationG_0.smt2 : 10030 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 111588 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21944_terminationG_0.smt2 : 10074 ms.
+--------------------------------------------------
+./run.sh: line 4: 112105 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21945_terminationG_0.smt2 : 10031 ms.
+--------------------------------------------------
+./run.sh: line 4: 112556 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21948_terminationG_0.smt2 : 10022 ms.
+--------------------------------------------------
+./run.sh: line 4: 113091 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21949_terminationG_0.smt2 : 10028 ms.
+--------------------------------------------------
+./run.sh: line 4: 113530 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21950_terminationG_0.smt2 : 10032 ms.
+--------------------------------------------------
+./run.sh: line 4: 114015 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21953_terminationG_0.smt2 : 10029 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 114563 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21954_terminationG_0.smt2 : 10065 ms.
+--------------------------------------------------
+./run.sh: line 4: 115075 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21955_terminationG_0.smt2 : 10024 ms.
+--------------------------------------------------
+./run.sh: line 4: 115571 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21958_terminationG_0.smt2 : 10023 ms.
+--------------------------------------------------
+./run.sh: line 4: 116078 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21959_terminationG_0.smt2 : 10023 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 116612 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21960_terminationG_0.smt2 : 10044 ms.
+--------------------------------------------------
+./run.sh: line 4: 117078 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21963_terminationG_0.smt2 : 10022 ms.
+--------------------------------------------------
+./run.sh: line 4: 117551 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21964_terminationG_0.smt2 : 10030 ms.
+--------------------------------------------------
+./run.sh: line 4: 118056 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21965_terminationG_0.smt2 : 10030 ms.
+--------------------------------------------------
+./run.sh: line 4: 118599 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21968_terminationG_0.smt2 : 10021 ms.
+--------------------------------------------------
+./run.sh: line 4: 119093 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21969_terminationG_0.smt2 : 10033 ms.
+--------------------------------------------------
+./run.sh: line 4: 119556 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21970_terminationG_0.smt2 : 10030 ms.
+--------------------------------------------------
+./run.sh: line 4: 120041 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21973_terminationG_0.smt2 : 10021 ms.
+--------------------------------------------------
+./run.sh: line 4: 120559 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21974_terminationG_0.smt2 : 10026 ms.
+--------------------------------------------------
+./run.sh: line 4: 121130 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21975_terminationG_0.smt2 : 10035 ms.
+--------------------------------------------------
+./run.sh: line 4: 121745 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21978_terminationG_0.smt2 : 10024 ms.
+--------------------------------------------------
+./run.sh: line 4: 122246 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21979_terminationG_0.smt2 : 10033 ms.
+--------------------------------------------------
+./run.sh: line 4: 122737 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21980_terminationG_0.smt2 : 10034 ms.
+--------------------------------------------------
+./run.sh: line 4: 123185 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21983_terminationG_0.smt2 : 10027 ms.
+--------------------------------------------------
+./run.sh: line 4: 123632 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21984_terminationG_0.smt2 : 10031 ms.
+--------------------------------------------------
+./run.sh: line 4: 124092 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21985_terminationG_0.smt2 : 10033 ms.
+--------------------------------------------------
+./run.sh: line 4: 124598 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21988_terminationG_0.smt2 : 10025 ms.
+--------------------------------------------------
+./run.sh: line 4: 125079 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21989_terminationG_0.smt2 : 10031 ms.
+--------------------------------------------------
+./run.sh: line 4: 125602 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21990_terminationG_0.smt2 : 10034 ms.
+--------------------------------------------------
+./run.sh: line 4: 126170 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21993_terminationG_0.smt2 : 10028 ms.
+--------------------------------------------------
+./run.sh: line 4: 126609 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21994_terminationG_0.smt2 : 10026 ms.
+--------------------------------------------------
+./run.sh: line 4: 127131 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21995_terminationG_0.smt2 : 10027 ms.
+--------------------------------------------------
+./run.sh: line 4: 127656 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21998_terminationG_0.smt2 : 10027 ms.
+--------------------------------------------------
+./run.sh: line 4: 128148 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p21999_terminationG_0.smt2 : 10034 ms.
+--------------------------------------------------
+./run.sh: line 4: 128616 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22000_terminationG_0.smt2 : 10027 ms.
+--------------------------------------------------
+./run.sh: line 4: 129126 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22003_terminationG_0.smt2 : 10021 ms.
+--------------------------------------------------
+./run.sh: line 4: 129673 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22004_terminationG_0.smt2 : 10024 ms.
+--------------------------------------------------
+./run.sh: line 4: 130169 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22005_terminationG_0.smt2 : 10025 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22013_safety_0.smt2 : 8627 ms.
+--------------------------------------------------
+./run.sh: line 4: 131097 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22016_safety_0.smt2 : 10017 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22020_safety_0.smt2 : 383 ms.
+--------------------------------------------------
+./run.sh: line 4: 131585 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22027_safety_0.smt2 : 10016 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22035_safety_0.smt2 : 7766 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 132470 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22037_safety_0.smt2 : 10051 ms.
+--------------------------------------------------
+./run.sh: line 4: 133029 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22038_safety_0.smt2 : 10017 ms.
+--------------------------------------------------
+./run.sh: line 4: 133541 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22039_safety_0.smt2 : 10014 ms.
+--------------------------------------------------
+./run.sh: line 4: 134091 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22040_safety_0.smt2 : 10019 ms.
+--------------------------------------------------
+./run.sh: line 4: 134504 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22041_safety_0.smt2 : 10023 ms.
+--------------------------------------------------
+./run.sh: line 4: 135031 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22044_safety_0.smt2 : 10016 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22048_safety_0.smt2 : 247 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22050_safety_0.smt2 : 2314 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22055_safety_0.smt2 : 9305 ms.
+--------------------------------------------------
+./run.sh: line 4: 136138 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22056_safety_0.smt2 : 10016 ms.
+--------------------------------------------------
+./run.sh: line 4: 136612 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22057_safety_0.smt2 : 10017 ms.
+--------------------------------------------------
+./run.sh: line 4: 137139 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22058_safety_0.smt2 : 10019 ms.
+--------------------------------------------------
+./run.sh: line 4: 137600 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22059_safety_0.smt2 : 10022 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22063_safety_0.smt2 : 450 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22065_safety_0.smt2 : 480 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22067_safety_0.smt2 : 1377 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22080_safety_0.smt2 : 1847 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 138335 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22084_safety_0.smt2 : 10047 ms.
+--------------------------------------------------
+./run.sh: line 4: 138754 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22088_safety_0.smt2 : 10016 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22092_safety_0.smt2 : 9435 ms.
+--------------------------------------------------
+./run.sh: line 4: 139794 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22093_safety_0.smt2 : 10016 ms.
+--------------------------------------------------
+./run.sh: line 4: 140320 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22099_safety_0.smt2 : 10017 ms.
+--------------------------------------------------
+./run.sh: line 4: 140727 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22103_safety_0.smt2 : 10021 ms.
+--------------------------------------------------
+./run.sh: line 4: 141246 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22104_safety_0.smt2 : 10016 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22108_safety_0.smt2 : 1996 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22109_safety_0.smt2 : 286 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22112_safety_0.smt2 : 2088 ms.
+--------------------------------------------------
+./run.sh: line 4: 141966 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22113_safety_0.smt2 : 10013 ms.
+--------------------------------------------------
+./run.sh: line 4: 142437 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22114_safety_0.smt2 : 10014 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 142876 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22115_safety_0.smt2 : 10022 ms.
+--------------------------------------------------
+./run.sh: line 4: 143329 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22118_edge_closing_0.smt2 : 10046 ms.
+--------------------------------------------------
+./run.sh: line 4: 143763 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22119_edge_closing_0.smt2 : 10032 ms.
+--------------------------------------------------
+./run.sh: line 4: 144197 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3-new.t2__p22120_edge_closing_0.smt2 : 10022 ms.
+--------------------------------------------------
+./run.sh: line 4: 144725 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__p22133_terminationG_0.smt2 : 10034 ms.
+--------------------------------------------------
+./run.sh: line 4: 145214 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__p22134_terminationG_0.smt2 : 10034 ms.
+--------------------------------------------------
+./run.sh: line 4: 145654 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__p22135_terminationG_0.smt2 : 10056 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__p22141_safety_0.smt2 : 866 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__p22143_safety_0.smt2 : 500 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__p22145_safety_0.smt2 : 563 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__p22146_safety_0.smt2 : 1862 ms.
+--------------------------------------------------
+./run.sh: line 4: 146242 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__p22147_safety_0.smt2 : 10014 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 146684 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__p22154_safety_0.smt2 : 10052 ms.
+--------------------------------------------------
+./run.sh: line 4: 147093 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__p22159_safety_0.smt2 : 10020 ms.
+--------------------------------------------------
+./run.sh: line 4: 147465 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__p22160_safety_0.smt2 : 10018 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__p22162_safety_0.smt2 : 728 ms.
+--------------------------------------------------
+./run.sh: line 4: 147943 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__p22163_safety_0.smt2 : 10015 ms.
+--------------------------------------------------
+./run.sh: line 4: 148369 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__p22165_safety_0.smt2 : 10017 ms.
+--------------------------------------------------
+./run.sh: line 4: 148813 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__p22166_safety_0.smt2 : 10021 ms.
+--------------------------------------------------
+./run.sh: line 4: 149174 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__p22168_edge_closing_0.smt2 : 10030 ms.
+--------------------------------------------------
+./run.sh: line 4: 149580 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__p22169_edge_closing_0.smt2 : 10029 ms.
+--------------------------------------------------
+./run.sh: line 4: 149980 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__p22170_edge_closing_0.smt2 : 10029 ms.
+--------------------------------------------------
+./run.sh: line 4: 150570 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationQ_0_0.smt2 : 10042 ms.
+--------------------------------------------------
+./run.sh: line 4: 150991 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_10_0.smt2 : 10032 ms.
+--------------------------------------------------
+./run.sh: line 4: 151372 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_1_0.smt2 : 10027 ms.
+--------------------------------------------------
+./run.sh: line 4: 151832 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_11_0.smt2 : 10038 ms.
+--------------------------------------------------
+./run.sh: line 4: 152317 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_12_0.smt2 : 10029 ms.
+--------------------------------------------------
+./run.sh: line 4: 152750 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_13_0.smt2 : 10033 ms.
+--------------------------------------------------
+./run.sh: line 4: 153240 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_14_0.smt2 : 10034 ms.
+--------------------------------------------------
+./run.sh: line 4: 153633 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_15_0.smt2 : 10024 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 154004 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_16_0.smt2 : 10065 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 154461 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_17_0.smt2 : 10060 ms.
+--------------------------------------------------
+./run.sh: line 4: 154868 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_18_0.smt2 : 10022 ms.
+--------------------------------------------------
+./run.sh: line 4: 155179 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_19_0.smt2 : 10025 ms.
+--------------------------------------------------
+./run.sh: line 4: 155532 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_20_0.smt2 : 10027 ms.
+--------------------------------------------------
+./run.sh: line 4: 155885 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_21_0.smt2 : 10024 ms.
+--------------------------------------------------
+./run.sh: line 4: 156276 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_22_0.smt2 : 10028 ms.
+--------------------------------------------------
+./run.sh: line 4: 156768 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_23_0.smt2 : 10030 ms.
+--------------------------------------------------
+./run.sh: line 4: 157172 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_24_0.smt2 : 10037 ms.
+--------------------------------------------------
+./run.sh: line 4: 157479 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_25_0.smt2 : 10039 ms.
+--------------------------------------------------
+./run.sh: line 4: 157872 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_26_0.smt2 : 10038 ms.
+--------------------------------------------------
+./run.sh: line 4: 158216 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_27_0.smt2 : 10027 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 158535 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_28_0.smt2 : 10072 ms.
+--------------------------------------------------
+./run.sh: line 4: 158859 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_29_0.smt2 : 10025 ms.
+--------------------------------------------------
+./run.sh: line 4: 159235 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_30_0.smt2 : 10026 ms.
+--------------------------------------------------
+./run.sh: line 4: 159522 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_31_0.smt2 : 10027 ms.
+--------------------------------------------------
+./run.sh: line 4: 159833 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_32_0.smt2 : 10021 ms.
+--------------------------------------------------
+./run.sh: line 4: 160108 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_33_0.smt2 : 10020 ms.
+--------------------------------------------------
+./run.sh: line 4: 160423 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_34_0.smt2 : 10028 ms.
+--------------------------------------------------
+./run.sh: line 4: 160723 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_35_0.smt2 : 10028 ms.
+--------------------------------------------------
+./run.sh: line 4: 161047 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_36_0.smt2 : 10025 ms.
+--------------------------------------------------
+./run.sh: line 4: 161372 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_37_0.smt2 : 10020 ms.
+--------------------------------------------------
+./run.sh: line 4: 161767 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_38_0.smt2 : 10032 ms.
+--------------------------------------------------
+./run.sh: line 4: 162211 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_39_0.smt2 : 10022 ms.
+--------------------------------------------------
+./run.sh: line 4: 162684 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_4_0.smt2 : 10022 ms.
+--------------------------------------------------
+./run.sh: line 4: 162995 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_5_0.smt2 : 10021 ms.
+--------------------------------------------------
+./run.sh: line 4: 163355 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_6_0.smt2 : 10018 ms.
+--------------------------------------------------
+./run.sh: line 4: 163651 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_7_0.smt2 : 10020 ms.
+--------------------------------------------------
+./run.sh: line 4: 163946 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_8_0.smt2 : 10021 ms.
+--------------------------------------------------
+./run.sh: line 4: 164308 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__terminationS_9_0.smt2 : 10018 ms.
+--------------------------------------------------
+./run.sh: line 4: 164591 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2_fixed__term_unfeasibility_2_0.smt2 : 10018 ms.
+--------------------------------------------------
+./run.sh: line 4: 164825 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22183_terminationG_0.smt2 : 10019 ms.
+--------------------------------------------------
+./run.sh: line 4: 165106 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22184_terminationG_0.smt2 : 10022 ms.
+--------------------------------------------------
+./run.sh: line 4: 165403 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22185_terminationG_0.smt2 : 10021 ms.
+--------------------------------------------------
+./run.sh: line 4: 165743 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22188_terminationG_0.smt2 : 10015 ms.
+--------------------------------------------------
+./run.sh: line 4: 165996 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22189_terminationG_0.smt2 : 10022 ms.
+--------------------------------------------------
+./run.sh: line 4: 166250 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22190_terminationG_0.smt2 : 10022 ms.
+--------------------------------------------------
+./run.sh: line 4: 166494 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22193_terminationG_0.smt2 : 10018 ms.
+--------------------------------------------------
+./run.sh: line 4: 166766 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22194_terminationG_0.smt2 : 10021 ms.
+--------------------------------------------------
+./run.sh: line 4: 167032 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22195_terminationG_0.smt2 : 10021 ms.
+--------------------------------------------------
+./run.sh: line 4: 167313 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22200_terminationG_0.smt2 : 10024 ms.
+--------------------------------------------------
+./run.sh: line 4: 167569 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22201_terminationG_0.smt2 : 10026 ms.
+--------------------------------------------------
+./run.sh: line 4: 167804 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22202_terminationG_0.smt2 : 10019 ms.
+--------------------------------------------------
+./run.sh: line 4: 168022 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22205_terminationG_0.smt2 : 10021 ms.
+--------------------------------------------------
+./run.sh: line 4: 168274 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22206_terminationG_0.smt2 : 10019 ms.
+--------------------------------------------------
+./run.sh: line 4: 168524 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22207_terminationG_0.smt2 : 10022 ms.
+--------------------------------------------------
+./run.sh: line 4: 168815 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22210_terminationG_0.smt2 : 10018 ms.
+--------------------------------------------------
+./run.sh: line 4: 169179 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22211_terminationG_0.smt2 : 10024 ms.
+--------------------------------------------------
+./run.sh: line 4: 169406 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22212_terminationG_0.smt2 : 10024 ms.
+--------------------------------------------------
+./run.sh: line 4: 169668 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22216_terminationG_0.smt2 : 10018 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 169962 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22217_terminationG_0.smt2 : 10058 ms.
+--------------------------------------------------
+./run.sh: line 4: 170196 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22218_terminationG_0.smt2 : 10022 ms.
+--------------------------------------------------
+./run.sh: line 4: 170466 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22221_terminationG_0.smt2 : 10018 ms.
+--------------------------------------------------
+./run.sh: line 4: 170726 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22222_terminationG_0.smt2 : 10022 ms.
+--------------------------------------------------
+./run.sh: line 4: 171010 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22223_terminationG_0.smt2 : 10020 ms.
+--------------------------------------------------
+./run.sh: line 4: 171289 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22226_terminationG_0.smt2 : 10023 ms.
+--------------------------------------------------
+./run.sh: line 4: 171532 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22227_terminationG_0.smt2 : 10024 ms.
+--------------------------------------------------
+./run.sh: line 4: 171842 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22228_terminationG_0.smt2 : 10024 ms.
+--------------------------------------------------
+./run.sh: line 4: 172191 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22231_terminationG_0.smt2 : 10017 ms.
+--------------------------------------------------
+./run.sh: line 4: 172441 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22232_terminationG_0.smt2 : 10025 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 172672 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22233_terminationG_0.smt2 : 10055 ms.
+--------------------------------------------------
+./run.sh: line 4: 172929 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22238_terminationG_0.smt2 : 10021 ms.
+--------------------------------------------------
+./run.sh: line 4: 173222 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22239_terminationG_0.smt2 : 10025 ms.
+--------------------------------------------------
+./run.sh: line 4: 173455 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22240_terminationG_0.smt2 : 10019 ms.
+--------------------------------------------------
+./run.sh: line 4: 173709 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22243_terminationG_0.smt2 : 10019 ms.
+--------------------------------------------------
+./run.sh: line 4: 173994 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22244_terminationG_0.smt2 : 10023 ms.
+--------------------------------------------------
+./run.sh: line 4: 174233 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22245_terminationG_0.smt2 : 10017 ms.
+--------------------------------------------------
+./run.sh: line 4: 174448 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22248_terminationG_0.smt2 : 10019 ms.
+--------------------------------------------------
+./run.sh: line 4: 174752 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22249_terminationG_0.smt2 : 10026 ms.
+--------------------------------------------------
+./run.sh: line 4: 175011 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22250_terminationG_0.smt2 : 10026 ms.
+--------------------------------------------------
+./run.sh: line 4: 175267 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22253_terminationG_0.smt2 : 10018 ms.
+--------------------------------------------------
+./run.sh: line 4: 175543 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22254_terminationG_0.smt2 : 10027 ms.
+--------------------------------------------------
+./run.sh: line 4: 175798 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22255_terminationG_0.smt2 : 10031 ms.
+--------------------------------------------------
+./run.sh: line 4: 176066 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22261_terminationG_0.smt2 : 10019 ms.
+--------------------------------------------------
+./run.sh: line 4: 176277 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22262_terminationG_0.smt2 : 10025 ms.
+--------------------------------------------------
+./run.sh: line 4: 176565 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22263_terminationG_0.smt2 : 10021 ms.
+--------------------------------------------------
+./run.sh: line 4: 176802 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22266_terminationG_0.smt2 : 10020 ms.
+--------------------------------------------------
+./run.sh: line 4: 177107 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22267_terminationG_0.smt2 : 10025 ms.
+--------------------------------------------------
+./run.sh: line 4: 177360 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22268_terminationG_0.smt2 : 10025 ms.
+--------------------------------------------------
+./run.sh: line 4: 177731 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22273_terminationG_0.smt2 : 10016 ms.
+--------------------------------------------------
+./run.sh: line 4: 177968 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22274_terminationG_0.smt2 : 10018 ms.
+--------------------------------------------------
+./run.sh: line 4: 178249 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22275_terminationG_0.smt2 : 10020 ms.
+--------------------------------------------------
+./run.sh: line 4: 178416 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22278_terminationG_0.smt2 : 10018 ms.
+--------------------------------------------------
+./run.sh: line 4: 178654 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22279_terminationG_0.smt2 : 10023 ms.
+--------------------------------------------------
+./run.sh: line 4: 178859 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22280_terminationG_0.smt2 : 10017 ms.
+--------------------------------------------------
+./run.sh: line 4: 179087 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22283_terminationG_0.smt2 : 10019 ms.
+--------------------------------------------------
+./run.sh: line 4: 179290 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22284_terminationG_0.smt2 : 10024 ms.
+--------------------------------------------------
+./run.sh: line 4: 179520 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22285_terminationG_0.smt2 : 10023 ms.
+--------------------------------------------------
+./run.sh: line 4: 179737 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22288_terminationG_0.smt2 : 10023 ms.
+--------------------------------------------------
+./run.sh: line 4: 179905 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22289_terminationG_0.smt2 : 10028 ms.
+--------------------------------------------------
+./run.sh: line 4: 180111 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22290_terminationG_0.smt2 : 10021 ms.
+--------------------------------------------------
+./run.sh: line 4: 180374 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22294_terminationG_0.smt2 : 10016 ms.
+--------------------------------------------------
+./run.sh: line 4: 180550 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22295_terminationG_0.smt2 : 10024 ms.
+--------------------------------------------------
+./run.sh: line 4: 180804 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22296_terminationG_0.smt2 : 10020 ms.
+--------------------------------------------------
+./run.sh: line 4: 180991 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22301_terminationG_0.smt2 : 10016 ms.
+--------------------------------------------------
+./run.sh: line 4: 181167 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22302_terminationG_0.smt2 : 10024 ms.
+--------------------------------------------------
+./run.sh: line 4: 181352 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22303_terminationG_0.smt2 : 10017 ms.
+--------------------------------------------------
+./run.sh: line 4: 181582 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22306_terminationG_0.smt2 : 10017 ms.
+--------------------------------------------------
+./run.sh: line 4: 181802 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22307_terminationG_0.smt2 : 10024 ms.
+--------------------------------------------------
+./run.sh: line 4: 182070 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22308_terminationG_0.smt2 : 10020 ms.
+--------------------------------------------------
+./run.sh: line 4: 182277 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22311_terminationG_0.smt2 : 10022 ms.
+--------------------------------------------------
+./run.sh: line 4: 182458 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22312_terminationG_0.smt2 : 10024 ms.
+--------------------------------------------------
+./run.sh: line 4: 182663 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22313_terminationG_0.smt2 : 10020 ms.
+--------------------------------------------------
+./run.sh: line 4: 182912 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22316_terminationG_0.smt2 : 10020 ms.
+--------------------------------------------------
+./run.sh: line 4: 183141 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22317_terminationG_0.smt2 : 10025 ms.
+--------------------------------------------------
+./run.sh: line 4: 183369 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22318_terminationG_0.smt2 : 10020 ms.
+--------------------------------------------------
+./run.sh: line 4: 183539 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22325_safety_0.smt2 : 10015 ms.
+--------------------------------------------------
+./run.sh: line 4: 183679 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22334_safety_0.smt2 : 10015 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22336_safety_0.smt2 : 5887 ms.
+--------------------------------------------------
+./run.sh: line 4: 183920 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22337_safety_0.smt2 : 10013 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22339_safety_0.smt2 : 3404 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22341_safety_0.smt2 : 5609 ms.
+--------------------------------------------------
+./run.sh: line 4: 184343 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22345_safety_0.smt2 : 10014 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22347_safety_0.smt2 : 3944 ms.
+--------------------------------------------------
+./run.sh: line 4: 184576 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22348_safety_0.smt2 : 10012 ms.
+--------------------------------------------------
+./run.sh: line 4: 184718 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22350_safety_0.smt2 : 10014 ms.
+--------------------------------------------------
+./run.sh: line 4: 184929 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22351_safety_0.smt2 : 10018 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22353_safety_0.smt2 : 9330 ms.
+--------------------------------------------------
+./run.sh: line 4: 185275 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22354_safety_0.smt2 : 10012 ms.
+--------------------------------------------------
+./run.sh: line 4: 185467 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22357_safety_0.smt2 : 10014 ms.
+--------------------------------------------------
+./run.sh: line 4: 185664 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22361_safety_0.smt2 : 10013 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22363_safety_0.smt2 : 450 ms.
+--------------------------------------------------
+./run.sh: line 4: 185829 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22365_safety_0.smt2 : 10012 ms.
+--------------------------------------------------
+./run.sh: line 4: 186042 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22366_safety_0.smt2 : 10013 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22367_safety_0.smt2 : 7574 ms.
+--------------------------------------------------
+./run.sh: line 4: 186424 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22368_safety_0.smt2 : 10016 ms.
+--------------------------------------------------
+./run.sh: line 4: 186652 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22369_safety_0.smt2 : 10018 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22377_safety_0.smt2 : 3414 ms.
+--------------------------------------------------
+./run.sh: line 4: 186887 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22380_safety_0.smt2 : 10014 ms.
+--------------------------------------------------
+./run.sh: line 4: 187098 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22384_safety_0.smt2 : 10014 ms.
+--------------------------------------------------
+./run.sh: line 4: 187280 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22389_safety_0.smt2 : 10013 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22393_safety_0.smt2 : 581 ms.
+--------------------------------------------------
+./run.sh: line 4: 187501 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22395_safety_0.smt2 : 10015 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22397_safety_0.smt2 : 5314 ms.
+--------------------------------------------------
+./run.sh: line 4: 187802 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22398_safety_0.smt2 : 10016 ms.
+--------------------------------------------------
+./run.sh: line 4: 187958 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22399_safety_0.smt2 : 10015 ms.
+--------------------------------------------------
+./run.sh: line 4: 188117 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22400_safety_0.smt2 : 10018 ms.
+--------------------------------------------------
+./run.sh: line 4: 188333 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22401_safety_0.smt2 : 10036 ms.
+--------------------------------------------------
+./run.sh: line 4: 188501 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22404_edge_closing_0.smt2 : 10052 ms.
+--------------------------------------------------
+./run.sh: line 4: 188698 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22405_edge_closing_0.smt2 : 10052 ms.
+--------------------------------------------------
+./run.sh: line 4: 188899 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_2_33//20170427-VeryMax/ITS/From_T2__slayer-3.t2__p22406_edge_closing_0.smt2 : 10043 ms.

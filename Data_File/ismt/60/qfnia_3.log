@@ -1,71 +1,63 @@
 --------------------------------------------------
-Number of variables: 535313
-Number of clauses: 2234978
+Number of variables: 1698956
+Number of clauses: 8021843
 unsat in 2 bits.
-../SAT_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array-2-O0.smt2 : 61148 ms.
---------------------------------------------------
-Number of variables: 113310
-Number of clauses: 442683
-unsat in 2 bits.
-Number of variables: 155412
-Number of clauses: 656575
-../SAT_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound1-O0.smt2 : 61035 ms.
---------------------------------------------------
-Number of variables: 113310
-Number of clauses: 442683
-unsat in 2 bits.
-Number of variables: 155412
-Number of clauses: 656575
-unsat in 4 bits.
-Number of variables: 240048
-Number of clauses: 1087095
-../SAT_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound2-O0.smt2 : 61058 ms.
---------------------------------------------------
-Number of variables: 91474
-Number of clauses: 350298
-unsat in 2 bits.
-Number of variables: 122428
-Number of clauses: 510016
-../SAT_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound1-O0.smt2 : 61043 ms.
---------------------------------------------------
-Number of variables: 91474
-Number of clauses: 350298
-unsat in 2 bits.
-Number of variables: 122428
-Number of clauses: 510016
-unsat in 4 bits.
-Number of variables: 185632
-Number of clauses: 837660
-../SAT_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound2-O0.smt2 : 61047 ms.
---------------------------------------------------
-Number of variables: 41589
-Number of clauses: 164228
-unsat in 2 bits.
-Number of variables: 60497
-Number of clauses: 254158
-unsat in 4 bits.
-Number of variables: 98313
-Number of clauses: 434018
-unsat in 8 bits.
-Number of variables: 173945
-Number of clauses: 793738
-unsat in 16 bits.
-Number of variables: 325215
-Number of clauses: 1513199
-unsat in 32 bits.
-Number of variables: 628127
-Number of clauses: 2953423
-unsat in 64 bits.
-../SAT_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/id_trans-O0.smt2 : 9263 ms.
---------------------------------------------------
-Number of variables: 70062
-Number of clauses: 284437
-unsat in 2 bits.
-Number of variables: 103578
-Number of clauses: 446297
-unsat in 4 bits.
-Number of variables: 170610
-Number of clauses: 770021
+Number of variables: 1831703
+Number of clauses: 8673122
 sat
 real sat
-../SAT_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/nec11-O0.smt2 : 4656 ms.
+../SAT_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array-2-O0.smt2 : 41206 ms.
+--------------------------------------------------
+Number of variables: 228129
+Number of clauses: 1022072
+unsat in 2 bits.
+Number of variables: 254703
+Number of clauses: 1156622
+sat
+real sat
+../SAT_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound1-O0.smt2 : 5898 ms.
+--------------------------------------------------
+Number of variables: 228129
+Number of clauses: 1022072
+unsat in 2 bits.
+Number of variables: 254703
+Number of clauses: 1156622
+sat
+real sat
+../SAT_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound2-O0.smt2 : 6863 ms.
+--------------------------------------------------
+Number of variables: 150296
+Number of clauses: 654136
+unsat in 2 bits.
+Number of variables: 171886
+Number of clauses: 764788
+sat
+real sat
+../SAT_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound1-O0.smt2 : 4211 ms.
+--------------------------------------------------
+Number of variables: 150296
+Number of clauses: 654136
+unsat in 2 bits.
+Number of variables: 171886
+Number of clauses: 764788
+unsat in 4 bits.
+Number of variables: 185686
+Number of clauses: 837882
+sat
+real sat
+../SAT_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound2-O0.smt2 : 11839 ms.
+--------------------------------------------------
+Number of variables: 111888
+Number of clauses: 508976
+unsat in 2 bits.
+Number of variables: 121748
+Number of clauses: 554248
+sat
+real sat
+../SAT_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/id_trans-O0.smt2 : 1636 ms.
+--------------------------------------------------
+Number of variables: 200142
+Number of clauses: 925141
+sat
+real sat
+../SAT_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/nec11-O0.smt2 : 1308 ms.

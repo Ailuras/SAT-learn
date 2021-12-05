@@ -1,0 +1,726 @@
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_9//mcm/01.smt2 : 1151694 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 355745 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/02.smt2 : 1200197 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+../QF_NIA_split/QF_NIA_9//mcm/03.smt2 : 1201005 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 369161 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/04.smt2 : 1200339 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 374540 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/05.smt2 : 1200125 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_9//mcm/06.smt2 : 10575 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 379383 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/07.smt2 : 1200176 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 383833 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/08.smt2 : 1200206 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 387885 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/09.smt2 : 1200181 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 393562 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/100.smt2 : 1200238 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_9//mcm/101.smt2 : 1142790 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 401788 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/102.smt2 : 1200285 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 405906 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/103.smt2 : 1200113 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 410706 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/104.smt2 : 1200215 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_9//mcm/105.smt2 : 1201006 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 419664 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/106.smt2 : 1200110 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_9//mcm/107.smt2 : 1087041 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 427866 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/108.smt2 : 1200178 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_9//mcm/109.smt2 : 417883 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 433366 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/10.smt2 : 1200392 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 437261 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/110.smt2 : 1200221 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 442119 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/111.smt2 : 1200203 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 446083 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/112.smt2 : 1200261 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_9//mcm/113.smt2 : 88833 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 450008 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/114.smt2 : 1200071 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 453423 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/115.smt2 : 1200247 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 457039 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/116.smt2 : 1200083 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_9//mcm/117.smt2 : 282561 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4:  3984 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/118.smt2 : 1200063 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4:  7827 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/119.smt2 : 1200091 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 10800 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/11.smt2 : 1200349 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 14276 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/120.smt2 : 1200395 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 17140 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/121.smt2 : 1200088 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_9//mcm/122.smt2 : 1201006 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 23174 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/123.smt2 : 1200081 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 26665 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/124.smt2 : 1200121 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 29220 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/125.smt2 : 1200087 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 32364 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/126.smt2 : 1200081 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 35397 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/127.smt2 : 1200083 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 37901 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/128.smt2 : 1200514 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 40905 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/129.smt2 : 1200087 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_9//mcm/12.smt2 : 32394 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 43865 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/130.smt2 : 1200082 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 47222 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/131.smt2 : 1200144 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 53546 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/132.smt2 : 1200372 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 58190 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/133.smt2 : 1200376 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 62595 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/134.smt2 : 1200075 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 66130 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/135.smt2 : 1200485 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 70500 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/136.smt2 : 1200240 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 75034 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/137.smt2 : 1200082 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 80313 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/138.smt2 : 1200084 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 84609 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/139.smt2 : 1200306 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_9//mcm/13.smt2 : 390422 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 89822 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/140.smt2 : 1200095 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 94732 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/141.smt2 : 1200081 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 99044 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/142.smt2 : 1200087 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 103075 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/143.smt2 : 1200090 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 106927 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/144.smt2 : 1200484 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 110055 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/145.smt2 : 1200085 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 113483 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/146.smt2 : 1200082 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 117298 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/147.smt2 : 1200322 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 162535 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/148.smt2 : 1200088 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 192390 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/149.smt2 : 1200088 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_9//mcm/14.smt2 : 163495 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 216211 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/150.smt2 : 1200103 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 235903 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/151.smt2 : 1200089 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 255787 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/152.smt2 : 1200111 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 268911 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/153.smt2 : 1200452 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 278382 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/154.smt2 : 1200088 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 287435 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/155.smt2 : 1200103 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 295234 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/156.smt2 : 1200118 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 302728 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/157.smt2 : 1200095 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 310792 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/158.smt2 : 1200356 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 319024 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/159.smt2 : 1200108 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_9//mcm/15.smt2 : 1183411 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 332392 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/160.smt2 : 1200090 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 338309 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/161.smt2 : 1200115 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 343393 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/162.smt2 : 1200200 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 347749 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/163.smt2 : 1200466 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 352062 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/164.smt2 : 1200148 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 355417 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/165.smt2 : 1200112 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 358830 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/166.smt2 : 1200137 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 362287 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/167.smt2 : 1200203 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 365532 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/168.smt2 : 1200147 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 378102 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/169.smt2 : 1200252 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 381896 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/16.smt2 : 1200108 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 387672 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/170.smt2 : 1200130 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 393552 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/171.smt2 : 1200101 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 398214 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/172.smt2 : 1200167 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_9//mcm/173.smt2 : 1201006 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 407088 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/174.smt2 : 1200137 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 411122 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/175.smt2 : 1200158 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 415789 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/176.smt2 : 1200161 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 419811 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/177.smt2 : 1200237 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 424129 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/178.smt2 : 1200210 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 428857 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/179.smt2 : 1200142 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 432759 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/17.smt2 : 1200220 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 437133 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/180.smt2 : 1200247 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 440186 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/181.smt2 : 1200221 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_9//mcm/182.smt2 : 1201007 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 445689 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/183.smt2 : 1200382 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 448653 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/184.smt2 : 1200289 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 451564 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/185.smt2 : 1200641 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_9//mcm/186.smt2 : 1201006 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 457597 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/18.smt2 : 1200190 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4:  2974 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/19.smt2 : 1200247 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4:  5827 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/20.smt2 : 1200198 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4:  8806 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/21.smt2 : 1200431 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 11913 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/22.smt2 : 1200350 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 14946 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/23.smt2 : 1200137 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 17560 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/24.smt2 : 1200761 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 20505 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/25.smt2 : 1200347 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 23862 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/26.smt2 : 1200127 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 26721 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/27.smt2 : 1200144 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 29638 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/28.smt2 : 1200329 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 32497 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/29.smt2 : 1200321 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 35171 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/30.smt2 : 1200275 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 37741 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/31.smt2 : 1200260 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 40285 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/32.smt2 : 1200229 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 42504 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/33.smt2 : 1200455 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 45055 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/34.smt2 : 1200289 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 47358 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/35.smt2 : 1200132 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 50561 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/36.smt2 : 1200156 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 53295 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/37.smt2 : 1200105 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 56158 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/38.smt2 : 1200160 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 58727 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/39.smt2 : 1200086 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 61639 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/40.smt2 : 1200142 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_9//mcm/41.smt2 : 1201005 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 66744 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/42.smt2 : 1200109 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 69394 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/43.smt2 : 1200337 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 71357 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/44.smt2 : 1200284 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_9//mcm/45.smt2 : 56132 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 73549 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/46.smt2 : 1200112 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_9//mcm/47.smt2 : 1201006 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 78496 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/48.smt2 : 1200146 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 80630 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/49.smt2 : 1200203 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_9//mcm/50.smt2 : 1201006 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_9//mcm/51.smt2 : 1105944 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 110386 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/52.smt2 : 1200106 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 112697 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/53.smt2 : 1200175 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 114618 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/54.smt2 : 1200117 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 116538 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/55.smt2 : 1200086 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 118668 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/56.smt2 : 1200093 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 120414 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/57.smt2 : 1200121 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 122813 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/58.smt2 : 1200248 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_9//mcm/59.smt2 : 1201006 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 126399 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/60.smt2 : 1200192 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 128365 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/61.smt2 : 1200644 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 129962 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/62.smt2 : 1200163 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 131700 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/63.smt2 : 1200129 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 133428 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/64.smt2 : 1200108 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 135190 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/65.smt2 : 1200162 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 136866 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/66.smt2 : 1200193 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 138523 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/67.smt2 : 1200793 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 368195 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/68.smt2 : 1200654 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 369708 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/69.smt2 : 1200878 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 371483 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/70.smt2 : 1200114 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 373418 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/71.smt2 : 1200868 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 375157 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/72.smt2 : 1200637 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 376631 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/73.smt2 : 1200665 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 378276 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/74.smt2 : 1200199 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_9//mcm/75.smt2 : 1201006 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 381668 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/76.smt2 : 1200116 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 383407 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/77.smt2 : 1200722 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 385079 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/78.smt2 : 1200488 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 386645 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/79.smt2 : 1200630 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_9//mcm/80.smt2 : 1201009 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 389518 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/81.smt2 : 1200122 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 391207 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/82.smt2 : 1200919 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 392966 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/83.smt2 : 1200174 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 394524 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/84.smt2 : 1200187 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_9//mcm/85.smt2 : 1201006 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+../QF_NIA_split/QF_NIA_9//mcm/86.smt2 : 1201007 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+../QF_NIA_split/QF_NIA_9//mcm/87.smt2 : 1201006 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 400603 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/88.smt2 : 1200109 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 402237 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/89.smt2 : 1200579 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 403882 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/90.smt2 : 1200796 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 405460 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/91.smt2 : 1200811 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+../QF_NIA_split/QF_NIA_9//mcm/92.smt2 : 1201006 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 408615 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/93.smt2 : 1200220 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+../QF_NIA_split/QF_NIA_9//mcm/94.smt2 : 1201009 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 411917 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/95.smt2 : 1200742 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 413217 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/96.smt2 : 1200478 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_9//mcm/97.smt2 : 1201005 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 416186 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/98.smt2 : 1200985 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 417899 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_9//mcm/99.smt2 : 1200254 ms.

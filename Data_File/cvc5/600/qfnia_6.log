@@ -1,0 +1,329 @@
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 48409 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_6//LassoRanker/4NestedWith3Variables_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 600319 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 52612 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_6//LassoRanker/aaron3_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 600066 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Ackermann01_true-termination.c_Iteration9_Loop+nonterminationTemplate_0.smt2 : 42 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 54565 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_6//LassoRanker/AliasDarteFeautrierGonnord-SAS2010-aaron3_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 600074 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/AliasDarteFeautrierGonnord-SAS2010-exmini_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 44 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/AliasDarteFeautrierGonnord-SAS2010-nestedLoop_true-termination.c_Iteration8_Loop+nonterminationTemplate_0.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/AliasDarteFeautrierGonnord-SAS2010-nestedLoop_true-termination.c_Iteration9_Loop+nonterminationTemplate_0.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/AliasDarteFeautrierGonnord-SAS2010-rsd_true-termination.c_Iteration4_Loop+nonterminationTemplate_0.smt2 : 619 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/AliasDarteFeautrierGonnord-SAS2010-terminate_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/b.04_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Benghazi_nondet_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 158 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/BradleyMannaSipma-ICALP2005-Fig1_true-termination.c_Iteration4_Lasso+nonterminationTemplate_0.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChawdharyCookGulwaniSagivYang-ESOP2008-aaron12_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 122 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChawdharyCookGulwaniSagivYang-ESOP2008-aaron12_true-termination.c_Iteration2_Loop+nonterminationTemplate_0.smt2 : 132 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChawdharyCookGulwaniSagivYang-ESOP2008-aaron12_true-termination.c_Iteration3_Loop+nonterminationTemplate_0.smt2 : 129 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChawdharyCookGulwaniSagivYang-ESOP2008-aaron4_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 36012 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 57681 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex2.06_false-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 600060 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 59706 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex2.06_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 600058 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex2.07_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 66 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex2.11_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 601007 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex2.13_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 68 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex2.19_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex3.01_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 446 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 63694 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex3.04_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 600083 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex3.05_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 48 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex3.08_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 384 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex3.09_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 82 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex3.10_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex4.01_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 1442 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChooseLife_false-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Collatz_unknown-termination.c_Iteration4_Lasso+nonterminationTemplate_0.smt2 : 1718 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/ColonSipma-TACAS2001-Fig1_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 47 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Copenhagen_disj_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 85 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et1_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 139 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et1_true_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 132 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et4_false-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 49 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et4_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 47 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et4_true_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 96 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et4_true_true-termination.c_Iteration2_Loop+nonterminationTemplate_0.smt2 : 121 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et4_true_true-termination.c_Iteration3_Loop+nonterminationTemplate_0.smt2 : 90 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et4_true_true-termination.c_Iteration4_Loop+nonterminationTemplate_0.smt2 : 96 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/EvenOdd01_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 34 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/GCD4_true-termination.c_Iteration2_Loop+nonterminationTemplate_0.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Gothenburg_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 40 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Gothenburg_v2_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 42 ms.
+--------------------------------------------------
+unknown
+../QF_NIA_split/QF_NIA_6//LassoRanker/Hanoi_plus_false-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 2846 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+cvc5 interrupted by SIGTERM.
+../QF_NIA_split/QF_NIA_6//LassoRanker/Hanoi_plus_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 601007 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/HarrisLalNoriRajamani-SAS2010-Fig1_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/HarrisLalNoriRajamani-SAS2010-Fig1_true-termination.c_Iteration2_Lasso+nonterminationTemplate_0.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/HeizmannHoenickeLeikePodelski-ATVA2013-Fig2_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/LarrazOliverasRodriguez-CarbonellRubio-FMCAD2013-Fig1_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 110 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/LarrazOliverasRodriguez-CarbonellRubio-FMCAD2013-Fig1_true-termination.c_Iteration3_Loop+nonterminationTemplate_0.smt2 : 86 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/LarrazOliverasRodriguez-CarbonellRubio-FMCAD2013-Fig1_true-termination.c_Iteration6_Loop+nonterminationTemplate_0.smt2 : 106 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/LeeJonesBen-Amram-POPL2001-Ex2_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 62 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_6//LassoRanker/LeeJonesBen-Amram-POPL2001-Ex2_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 107 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/LeikeHeizmann-WST2014-Ex5_false-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 55 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/McCarthy91_Recursion_true-termination.c_Iteration2_Loop+nonterminationTemplate_0.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/McCarthy91_Recursion_true-termination.c_Iteration5_Loop+nonterminationTemplate_0.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/min_rf_true-termination.c_Iteration8_Loop+nonterminationTemplate_0.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/MinusBuiltIn_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/MutualRecursion_1a_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/MutualRecursion_1b_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 34 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/MutualRecursion_1b_true-termination.c_Iteration3_Loop+nonterminationTemplate_0.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/MutualRecursion_1b_true-termination.c_Iteration6_Loop+nonterminationTemplate_0.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Mysore_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 106 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Parts_true-termination.c_Iteration22_Loop+nonterminationTemplate_0.smt2 : 46 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PastaA6_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PastaB4_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 40 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PastaC7_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration10_Loop+nonterminationTemplate_0.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration11_Loop+nonterminationTemplate_0.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration12_Loop+nonterminationTemplate_0.smt2 : 44 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration3_Loop+nonterminationTemplate_0.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration4_Loop+nonterminationTemplate_0.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration5_Loop+nonterminationTemplate_0.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration6_Loop+nonterminationTemplate_0.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration7_Loop+nonterminationTemplate_0.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration8_Loop+nonterminationTemplate_0.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration9_Loop+nonterminationTemplate_0.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration10_Loop+nonterminationTemplate_0.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration11_Loop+nonterminationTemplate_0.smt2 : 46 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration12_Loop+nonterminationTemplate_0.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration13_Loop+nonterminationTemplate_0.smt2 : 44 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration2_Loop+nonterminationTemplate_0.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration3_Loop+nonterminationTemplate_0.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration4_Loop+nonterminationTemplate_0.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration6_Loop+nonterminationTemplate_0.smt2 : 44 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration7_Loop+nonterminationTemplate_0.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration9_Loop+nonterminationTemplate_0.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 51 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration2_Loop+nonterminationTemplate_0.smt2 : 48 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration3_Loop+nonterminationTemplate_0.smt2 : 55 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration4_Loop+nonterminationTemplate_0.smt2 : 49 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration5_Loop+nonterminationTemplate_0.smt2 : 51 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration6_Loop+nonterminationTemplate_0.smt2 : 51 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration7_Loop+nonterminationTemplate_0.smt2 : 51 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration8_Loop+nonterminationTemplate_0.smt2 : 51 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Pure3Phase_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 165 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Pure3Phase_true-termination.c_Iteration4_Loop+nonterminationTemplate_0.smt2 : 113 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Pure3Phase_true-termination.c_Iteration5_Loop+nonterminationTemplate_0.smt2 : 131 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 67813 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Pure3Phase_true-termination.c_Iteration6_Loop+nonterminationTemplate_0.smt2 : 600128 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 69882 Killed                  $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Pure3Phase_true-termination.c_Iteration7_Loop+nonterminationTemplate_0.smt2 : 600083 ms.
+--------------------------------------------------
+cvc5 interrupted by timeout.
+./run.sh: line 4: 72066 Aborted                 (core dumped) $cvc5 -L smt2.6 --tlimit=$time_t --no-incremental --no-type-checking --no-interactive $1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Pure3Phase_true-termination.c_Iteration8_Loop+nonterminationTemplate_0.smt2 : 600059 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Stockholm_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Swingers_false-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 57 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Swingers_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 39 ms.
