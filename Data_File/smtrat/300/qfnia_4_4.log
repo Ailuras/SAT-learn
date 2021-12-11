@@ -20067,6 +20067,3 @@ sat
 --------------------------------------------------
 sat
 ../QF_NIA_split/QF_NIA_4_4//AProVE/aproveSMT9213593160977601280.smt2 : 70 ms.
---------------------------------------------------
-ERROR smtrat.parser: Parsing error at 2:./run.sh: line 3: 163817 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
-../QF_NIA_split/QF_NIA_4_4//run.sh : 300791 ms.
