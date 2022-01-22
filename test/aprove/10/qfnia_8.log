@@ -1,0 +1,1156 @@
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /tmp/hs_err_pid139705.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-0Awwcv.smt2 : 1425 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid141857.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-0BB4ks.smt2 : 778 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+Exception in thread "main" java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at aprove.Strategies.Abortions.TimeRefresher.<clinit>(TimeRefresher.java:15)
+	at aprove.Strategies.Abortions.TrackThread.start(TrackThread.java:76)
+	at aprove.Strategies.Abortions.TrackerFactory.customThread(TrackerFactory.java:24)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.start(ProblemExecutor.java:106)
+	at aprove.CommandLineInterface.Generic.GenericMain.runProblem(GenericMain.java:120)
+	at aprove.CommandLineInterface.Generic.GenericMain.doMain(GenericMain.java:35)
+	at aprove.DiophantineSolver.DiophantineMain.main(DiophantineMain.java:15)
+	at aprove.Main.main(Main.java:64)
+Exception in thread "Problem executor thread" java.lang.NoClassDefFoundError: Could not initialize class aprove.Strategies.Abortions.TimeRefresher
+	at aprove.Strategies.Abortions.TrackProcess.start(TrackProcess.java:45)
+	at aprove.Strategies.Abortions.TrackerFactory.process(TrackerFactory.java:39)
+	at aprove.Framework.PropositionalLogic.SATCheckers.MiniSATFileChecker.solve(MiniSATFileChecker.java:285)
+	at aprove.Framework.PropositionalLogic.SATCheckers.MiniSATFileChecker.solve(MiniSATFileChecker.java:191)
+	at aprove.Framework.PropositionalLogic.SATCheckers.MiniSATFileChecker.solve(MiniSATFileChecker.java:140)
+	at aprove.Framework.Algebra.Polynomials.SatSearch.SatSearch.search(SatSearch.java:265)
+	at aprove.Framework.Algebra.Polynomials.SatSearch.SatSearch.search(SatSearch.java:226)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:112)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_8//leipzig/term-0Hb4yp.smt2 : 2550 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid152428.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-0iwxZS.smt2 : 1498 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+../QF_NIA_split/QF_NIA_8//leipzig/term-3qaBfW.smt2 : 638 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid155361.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-3rtjVi.smt2 : 601 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid164272.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-3wwoHp.smt2 : 3679 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid165643.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-44GWq9.smt2 : 569 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid166622.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-47h0ua.smt2 : 344 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_8//leipzig/term-4AzLVe.smt2 : 1541 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid178426.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-4d0iwO.smt2 : 3653 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid179525.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-4LNX6G.smt2 : 707 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_8//leipzig/term-4Th0Gp.smt2 : 548 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid181091.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-4UoYtH.smt2 : 289 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-5Luqnl.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-607QpU.smt2 : 4 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid189014.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-6k3pKM.smt2 : 3394 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid192484.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-6mYU5G.smt2 : 487 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid193948.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-6zE855.smt2 : 431 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid195076.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-71B6am.smt2 : 498 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+../QF_NIA_split/QF_NIA_8//leipzig/term-7DXK1v.smt2 : 500 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+../QF_NIA_split/QF_NIA_8//leipzig/term-7fXGzy.smt2 : 360 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid199167.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-7njo7V.smt2 : 277 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid202106.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-7zXPfO.smt2 : 1409 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid202835.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-87NL0Z.smt2 : 255 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid203770.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-8UXrgn.smt2 : 187 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-9AOvYh.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-9mUXbx.smt2 : 5 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid206655.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-9uFTFt.smt2 : 1543 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid211225.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-afghHl.smt2 : 1590 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid212663.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-AlRgl3.smt2 : 387 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid214085.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-Aon9bM.smt2 : 574 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid215488.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-AvoWGH.smt2 : 526 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid216853.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-AwuLMZ.smt2 : 499 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid218298.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-bEER96.smt2 : 445 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid221401.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-BjWYcv.smt2 : 1513 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid222472.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-BKc7xf.smt2 : 457 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid225878.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-bmKO7L.smt2 : 1277 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid235997.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-BpsRn7.smt2 : 3438 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid246290.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-brNnx4.smt2 : 3478 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+sat
++SOLUTION:
++ n0 = 1
++ n1 = 0
++ n2 = 0
++ n3 = 0
++ n4 = 1
++ n5 = 0
++ n6 = 0
++ n7 = 1
++ n8 = 0
++ n9 = 1
++ n10 = 0
++ n11 = 1
++ n12 = 0
++ n13 = 1
++ n14 = 0
++ n15 = 0
++ n16 = 0
++ n17 = 1
++ n18 = 0
++ n19 = 1
++ n20 = 0
++ n21 = 0
++ n22 = 0
++ n23 = 0
++ n24 = 0
++ n25 = 1
++ n26 = 0
++ n27 = 0
++ n28 = 0
++ n29 = 0
++ n30 = 0
++ n31 = 0
++ n32 = 1
++ n33 = 0
++ n34 = 0
++ n35 = 1
++ n36 = 0
++ n37 = 0
++ n38 = 1
++ n39 = 0
++ n40 = 0
++ n41 = 1
+-
+../QF_NIA_split/QF_NIA_8//leipzig/term-bV2aN3.smt2 : 2411 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid255334.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-BWHEfg.smt2 : 797 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_8//leipzig/term-CrNtep.smt2 : 1541 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid265684.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-cTfKvw.smt2 : 488 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid267809.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-ddoFAO.smt2 : 475 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+../QF_NIA_split/QF_NIA_8//leipzig/term-DtOD2C.smt2 : 12007 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid306203.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-dwsxAX.smt2 : 3642 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid307667.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-e0uxKl.smt2 : 497 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid310994.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-eBQlfQ.smt2 : 1425 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-EcNqkB.smt2 : 5 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid315582.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-f2cozZ.smt2 : 1382 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid334559.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-F85Fh4.smt2 : 7377 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid335405.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-fFoQCf.smt2 : 290 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_8//leipzig/term-fqVg3m.smt2 : 163 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid336657.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-fRkVkk.smt2 : 293 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid337221.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-fu8ErM.smt2 : 309 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid340395.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-G0osfI.smt2 : 1425 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid341174.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-gH1uAj.smt2 : 174 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid341691.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-gHq3ie.smt2 : 319 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-GPalmJ.smt2 : 7 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid351396.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-guQhb3.smt2 : 3442 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid355219.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-Gxx8TQ.smt2 : 1423 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid355894.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-gZE9f0.smt2 : 427 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid356815.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-H5JQ97.smt2 : 412 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+../QF_NIA_split/QF_NIA_8//leipzig/term-H9wl52.smt2 : 3415 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid375960.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-hCYJUH.smt2 : 3547 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid377872.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-HonGrM.smt2 : 563 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+../QF_NIA_split/QF_NIA_8//leipzig/term-iLy0I9.smt2 : 674 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid381852.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-iQK4Ty.smt2 : 790 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid383627.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-izcgso.smt2 : 648 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-jCge40.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-JpE7g8.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-jSSXi8.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-jWI18r.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-Jzxbf6.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-K0mzk0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-K5O3aH.smt2 : 3 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid385545.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-KEViid.smt2 : 567 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-kJn9CF.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-Kkefdl.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-KQpYCw.smt2 : 4 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+../QF_NIA_split/QF_NIA_8//leipzig/term-KVnOQn.smt2 : 514 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid405624.log
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+../QF_NIA_split/QF_NIA_8//leipzig/term-l6cqQI.smt2 : 14363 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid426537.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-lFYv5w.smt2 : 1472 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid430445.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-ljJt6X.smt2 : 1513 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid431227.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-ltKI40.smt2 : 453 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid434930.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-mGd00U.smt2 : 1302 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid435147.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-MImS6p.smt2 : 321 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid437953.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-MRIndM.smt2 : 1421 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid442160.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-mscE2P.smt2 : 1319 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid443253.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-MT0pqd.smt2 : 524 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid444356.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-MVylXc.smt2 : 415 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid445481.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-Mx5Up4.smt2 : 360 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid448863.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-mzEEAc.smt2 : 1382 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid450192.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-n2CwnV.smt2 : 433 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /tmp/hs_err_pid451009.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-n2YjEt.smt2 : 266 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid451834.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-N42Sjd.smt2 : 371 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid452713.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-nKoz7d.smt2 : 368 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid454151.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-NlTyt4.smt2 : 246 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid455068.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-NsXpL3.smt2 : 363 ms.
+--------------------------------------------------
+Exception in thread "main" java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at aprove.Strategies.Abortions.TimeRefresher.<clinit>(TimeRefresher.java:15)
+	at aprove.Strategies.Abortions.TrackThread.start(TrackThread.java:76)
+	at aprove.Strategies.Abortions.TrackerFactory.customThread(TrackerFactory.java:24)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.start(ProblemExecutor.java:106)
+	at aprove.CommandLineInterface.Generic.GenericMain.runProblem(GenericMain.java:120)
+	at aprove.CommandLineInterface.Generic.GenericMain.doMain(GenericMain.java:35)
+	at aprove.DiophantineSolver.DiophantineMain.main(DiophantineMain.java:15)
+	at aprove.Main.main(Main.java:64)
+Exception in thread "Problem executor thread" java.lang.NoClassDefFoundError: Could not initialize class aprove.Strategies.Abortions.TimeRefresher
+	at aprove.Strategies.Abortions.TrackProcess.start(TrackProcess.java:45)
+	at aprove.Strategies.Abortions.TrackerFactory.process(TrackerFactory.java:39)
+	at aprove.Framework.PropositionalLogic.SATCheckers.MiniSATFileChecker.solve(MiniSATFileChecker.java:285)
+	at aprove.Framework.PropositionalLogic.SATCheckers.MiniSATFileChecker.solve(MiniSATFileChecker.java:191)
+	at aprove.Framework.PropositionalLogic.SATCheckers.MiniSATFileChecker.solve(MiniSATFileChecker.java:140)
+	at aprove.Framework.Algebra.Polynomials.SatSearch.SatSearch.search(SatSearch.java:265)
+	at aprove.Framework.Algebra.Polynomials.SatSearch.SatSearch.search(SatSearch.java:226)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:112)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_8//leipzig/term-NxORIG.smt2 : 837 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_8//leipzig/term-oPCuPe.smt2 : 285 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-OWehGq.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-OwnULw.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-OxDFxz.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-p63KxS.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-p9MQp4.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-PGdOdF.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-PoKkYi.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-PUJvAS.smt2 : 4 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+Exception in thread "main" java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at aprove.Strategies.Abortions.TimeRefresher.<clinit>(TimeRefresher.java:15)
+	at aprove.Strategies.Abortions.TrackThread.start(TrackThread.java:76)
+	at aprove.Strategies.Abortions.TrackerFactory.customThread(TrackerFactory.java:24)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.start(ProblemExecutor.java:106)
+	at aprove.CommandLineInterface.Generic.GenericMain.runProblem(GenericMain.java:120)
+	at aprove.CommandLineInterface.Generic.GenericMain.doMain(GenericMain.java:35)
+	at aprove.DiophantineSolver.DiophantineMain.main(DiophantineMain.java:15)
+	at aprove.Main.main(Main.java:64)
+Exception in thread "Problem executor thread" java.lang.NoClassDefFoundError: Could not initialize class aprove.Strategies.Abortions.TimeRefresher
+	at aprove.Strategies.Abortions.TrackProcess.start(TrackProcess.java:45)
+	at aprove.Strategies.Abortions.TrackerFactory.process(TrackerFactory.java:39)
+	at aprove.Framework.PropositionalLogic.SATCheckers.MiniSATFileChecker.solve(MiniSATFileChecker.java:285)
+	at aprove.Framework.PropositionalLogic.SATCheckers.MiniSATFileChecker.solve(MiniSATFileChecker.java:191)
+	at aprove.Framework.PropositionalLogic.SATCheckers.MiniSATFileChecker.solve(MiniSATFileChecker.java:140)
+	at aprove.Framework.Algebra.Polynomials.SatSearch.SatSearch.search(SatSearch.java:265)
+	at aprove.Framework.Algebra.Polynomials.SatSearch.SatSearch.search(SatSearch.java:226)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:112)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_8//leipzig/term-QA7c8U.smt2 : 2997 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid9985.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-qAUj8f.smt2 : 392 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid14978.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-qp5mTw.smt2 : 1303 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-qpmP2a.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-qVa1BT.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-QW6yIL.smt2 : 3 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid16057.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-Qx6y98.smt2 : 328 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+../QF_NIA_split/QF_NIA_8//leipzig/term-qxG9KS.smt2 : 12008 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid53521.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-ReJksi.smt2 : 3364 ms.
+--------------------------------------------------
+Exception in thread "main" java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.start(ProblemExecutor.java:105)
+	at aprove.CommandLineInterface.Generic.GenericMain.runProblem(GenericMain.java:120)
+	at aprove.CommandLineInterface.Generic.GenericMain.doMain(GenericMain.java:35)
+	at aprove.DiophantineSolver.DiophantineMain.main(DiophantineMain.java:15)
+	at aprove.Main.main(Main.java:64)
+../QF_NIA_split/QF_NIA_8//leipzig/term-rGohwx.smt2 : 635 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid58505.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-rIVs0x.smt2 : 1601 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid59741.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-RYAv9d.smt2 : 589 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid60706.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-tEmpby.smt2 : 609 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid61548.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-tHV3De.smt2 : 330 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid62467.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-U3qtcQ.smt2 : 333 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid83815.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-ubDExd.smt2 : 7315 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid84517.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-UCZhjg.smt2 : 309 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid92789.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-uI6QEr.smt2 : 3320 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid93393.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-uiHa9g.smt2 : 243 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid94322.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-ULo1kJ.smt2 : 195 ms.
+--------------------------------------------------
+Exception in thread "main" java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.start(ProblemExecutor.java:105)
+	at aprove.CommandLineInterface.Generic.GenericMain.runProblem(GenericMain.java:120)
+	at aprove.CommandLineInterface.Generic.GenericMain.doMain(GenericMain.java:35)
+	at aprove.DiophantineSolver.DiophantineMain.main(DiophantineMain.java:15)
+	at aprove.Main.main(Main.java:64)
+../QF_NIA_split/QF_NIA_8//leipzig/term-uLZTRN.smt2 : 299 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid95534.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-unsat-01.smt2 : 212 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+../QF_NIA_split/QF_NIA_8//leipzig/term-unsat-02.smt2 : 1379 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-unsat-03.smt2 : 5 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid121066.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-unsat-04.smt2 : 7248 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+../QF_NIA_split/QF_NIA_8//leipzig/term-unsat-05.smt2 : 11005 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /tmp/hs_err_pid146006.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-uxNAu4.smt2 : 229 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+../QF_NIA_split/QF_NIA_8//leipzig/term-uyuSEz.smt2 : 1312 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /tmp/hs_err_pid153500.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-V7zYuz.smt2 : 1521 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid154907.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-vd4nMl.smt2 : 634 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+../QF_NIA_split/QF_NIA_8//leipzig/term-VdS5DK.smt2 : 509 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid158525.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-VKcdAi.smt2 : 542 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid160098.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-vmxeK5.smt2 : 521 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid161449.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-vNKPi7.smt2 : 418 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid165798.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-VvvOL1.smt2 : 1311 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid169236.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-VzZ1SP.smt2 : 1488 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid173315.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-WG086A.smt2 : 1419 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid174420.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-wIaXCN.smt2 : 283 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid175378.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-WRsGm0.smt2 : 269 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /tmp/hs_err_pid178463.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-Wvoafx.smt2 : 1382 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid178961.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-X2tjiE.smt2 : 158 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-x3m7eh.smt2 : 5 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid184283.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-x876Jc.smt2 : 1316 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid185320.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-XbWQfu.smt2 : 257 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid185958.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-xNepZV.smt2 : 269 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid186366.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-XoKPE3.smt2 : 235 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid186573.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-xpOcFG.smt2 : 173 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid186824.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-XxBfs0.smt2 : 186 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+../QF_NIA_split/QF_NIA_8//leipzig/term-y6bI5p.smt2 : 1257 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /tmp/hs_err_pid191648.log
+../QF_NIA_split/QF_NIA_8//leipzig/term-YAnutr.smt2 : 193 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-YdLBHK.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-ye1ece.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-YFqomz.smt2 : 2 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-Yi0Ihn.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-yQHKkv.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-yzpVx9.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_8//leipzig/term-zUp1s3.smt2 : 6 ms.

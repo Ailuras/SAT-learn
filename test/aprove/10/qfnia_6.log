@@ -1,0 +1,565 @@
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid139696.log
+./run.sh: fork: retry: No child processes
+../QF_NIA_split/QF_NIA_6//LassoRanker/4NestedWith3Variables_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 2949 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/aaron3_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 4 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+Exception in thread "main" java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.start(ProblemExecutor.java:105)
+	at aprove.CommandLineInterface.Generic.GenericMain.runProblem(GenericMain.java:120)
+	at aprove.CommandLineInterface.Generic.GenericMain.doMain(GenericMain.java:35)
+	at aprove.DiophantineSolver.DiophantineMain.main(DiophantineMain.java:15)
+	at aprove.Main.main(Main.java:64)
+../QF_NIA_split/QF_NIA_6//LassoRanker/Ackermann01_true-termination.c_Iteration9_Loop+nonterminationTemplate_0.smt2 : 768 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_6//LassoRanker/AliasDarteFeautrierGonnord-SAS2010-aaron3_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 1469 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid159199.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/AliasDarteFeautrierGonnord-SAS2010-exmini_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 603 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/AliasDarteFeautrierGonnord-SAS2010-nestedLoop_true-termination.c_Iteration8_Loop+nonterminationTemplate_0.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/AliasDarteFeautrierGonnord-SAS2010-nestedLoop_true-termination.c_Iteration9_Loop+nonterminationTemplate_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/AliasDarteFeautrierGonnord-SAS2010-rsd_true-termination.c_Iteration4_Loop+nonterminationTemplate_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/AliasDarteFeautrierGonnord-SAS2010-terminate_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/b.04_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/Benghazi_nondet_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/BradleyMannaSipma-ICALP2005-Fig1_true-termination.c_Iteration4_Lasso+nonterminationTemplate_0.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChawdharyCookGulwaniSagivYang-ESOP2008-aaron12_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 4 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Finalizer.<clinit>(Finalizer.java:233)
+
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChawdharyCookGulwaniSagivYang-ESOP2008-aaron12_true-termination.c_Iteration2_Loop+nonterminationTemplate_0.smt2 : 1559 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /tmp/hs_err_pid179576.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChawdharyCookGulwaniSagivYang-ESOP2008-aaron12_true-termination.c_Iteration3_Loop+nonterminationTemplate_0.smt2 : 7652 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChawdharyCookGulwaniSagivYang-ESOP2008-aaron4_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex2.06_false-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex2.06_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 4 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid182644.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex2.07_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 1508 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex2.11_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 277 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex2.13_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 1294 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid189372.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex2.19_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 1247 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid190016.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex3.01_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 268 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid190881.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex3.04_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 393 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid191940.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex3.05_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 479 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid193118.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex3.08_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 479 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex3.09_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex3.10_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 3 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex4.01_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 321 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChooseLife_false-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 3 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_6//LassoRanker/Collatz_unknown-termination.c_Iteration4_Lasso+nonterminationTemplate_0.smt2 : 1228 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid206329.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/ColonSipma-TACAS2001-Fig1_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 1638 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid208081.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/Copenhagen_disj_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 617 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et1_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 11026 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid239348.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et1_true_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 508 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et4_false-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 560 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et4_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et4_true_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et4_true_true-termination.c_Iteration2_Loop+nonterminationTemplate_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et4_true_true-termination.c_Iteration3_Loop+nonterminationTemplate_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et4_true_true-termination.c_Iteration4_Loop+nonterminationTemplate_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/EvenOdd01_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/GCD4_true-termination.c_Iteration2_Loop+nonterminationTemplate_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/Gothenburg_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/Gothenburg_v2_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 4 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid243028.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/Hanoi_plus_false-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 465 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_6//LassoRanker/Hanoi_plus_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 275 ms.
+--------------------------------------------------
+Exception in thread "main" java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.start(ProblemExecutor.java:105)
+	at aprove.CommandLineInterface.Generic.GenericMain.runProblem(GenericMain.java:120)
+	at aprove.CommandLineInterface.Generic.GenericMain.doMain(GenericMain.java:35)
+	at aprove.DiophantineSolver.DiophantineMain.main(DiophantineMain.java:15)
+	at aprove.Main.main(Main.java:64)
+../QF_NIA_split/QF_NIA_6//LassoRanker/HarrisLalNoriRajamani-SAS2010-Fig1_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 534 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+../QF_NIA_split/QF_NIA_6//LassoRanker/HarrisLalNoriRajamani-SAS2010-Fig1_true-termination.c_Iteration2_Lasso+nonterminationTemplate_0.smt2 : 511 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_6//LassoRanker/HeizmannHoenickeLeikePodelski-ATVA2013-Fig2_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 467 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/LarrazOliverasRodriguez-CarbonellRubio-FMCAD2013-Fig1_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+../QF_NIA_split/QF_NIA_6//LassoRanker/LarrazOliverasRodriguez-CarbonellRubio-FMCAD2013-Fig1_true-termination.c_Iteration3_Loop+nonterminationTemplate_0.smt2 : 3006 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+../QF_NIA_split/QF_NIA_6//LassoRanker/LarrazOliverasRodriguez-CarbonellRubio-FMCAD2013-Fig1_true-termination.c_Iteration6_Loop+nonterminationTemplate_0.smt2 : 1521 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid268327.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/LeeJonesBen-Amram-POPL2001-Ex2_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 1587 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid269786.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/LeeJonesBen-Amram-POPL2001-Ex2_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 717 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+../QF_NIA_split/QF_NIA_6//LassoRanker/LeikeHeizmann-WST2014-Ex5_false-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 650 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_6//LassoRanker/McCarthy91_Recursion_true-termination.c_Iteration2_Loop+nonterminationTemplate_0.smt2 : 470 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid274413.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/McCarthy91_Recursion_true-termination.c_Iteration5_Loop+nonterminationTemplate_0.smt2 : 808 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /tmp/hs_err_pid276530.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/min_rf_true-termination.c_Iteration8_Loop+nonterminationTemplate_0.smt2 : 580 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid280605.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/MinusBuiltIn_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 1565 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /tmp/hs_err_pid284313.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/MutualRecursion_1a_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 1480 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid285113.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/MutualRecursion_1b_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 642 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid288653.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/MutualRecursion_1b_true-termination.c_Iteration3_Loop+nonterminationTemplate_0.smt2 : 1529 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid289119.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/MutualRecursion_1b_true-termination.c_Iteration6_Loop+nonterminationTemplate_0.smt2 : 368 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+../QF_NIA_split/QF_NIA_6//LassoRanker/Mysore_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 339 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid333207.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/Parts_true-termination.c_Iteration22_Loop+nonterminationTemplate_0.smt2 : 1366 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid334169.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/PastaA6_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 386 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/PastaB4_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/PastaC7_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 3 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration10_Loop+nonterminationTemplate_0.smt2 : 1288 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid340581.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration11_Loop+nonterminationTemplate_0.smt2 : 1421 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration12_Loop+nonterminationTemplate_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration3_Loop+nonterminationTemplate_0.smt2 : 3 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid341544.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration4_Loop+nonterminationTemplate_0.smt2 : 306 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid342719.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration5_Loop+nonterminationTemplate_0.smt2 : 416 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration6_Loop+nonterminationTemplate_0.smt2 : 4 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid354822.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration7_Loop+nonterminationTemplate_0.smt2 : 4426 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration8_Loop+nonterminationTemplate_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration9_Loop+nonterminationTemplate_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration10_Loop+nonterminationTemplate_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration11_Loop+nonterminationTemplate_0.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration12_Loop+nonterminationTemplate_0.smt2 : 6 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration13_Loop+nonterminationTemplate_0.smt2 : 6 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid355696.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration2_Loop+nonterminationTemplate_0.smt2 : 410 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid356393.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration3_Loop+nonterminationTemplate_0.smt2 : 187 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /tmp/hs_err_pid357301.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration4_Loop+nonterminationTemplate_0.smt2 : 317 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid361164.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration6_Loop+nonterminationTemplate_0.smt2 : 1453 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid362420.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration7_Loop+nonterminationTemplate_0.smt2 : 423 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid363752.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration9_Loop+nonterminationTemplate_0.smt2 : 492 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration2_Loop+nonterminationTemplate_0.smt2 : 6 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration3_Loop+nonterminationTemplate_0.smt2 : 6 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration4_Loop+nonterminationTemplate_0.smt2 : 12 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid375957.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration5_Loop+nonterminationTemplate_0.smt2 : 4531 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid386296.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration6_Loop+nonterminationTemplate_0.smt2 : 3698 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid395687.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration7_Loop+nonterminationTemplate_0.smt2 : 3472 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid397113.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration8_Loop+nonterminationTemplate_0.smt2 : 350 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/Pure3Phase_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 6 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/Pure3Phase_true-termination.c_Iteration4_Loop+nonterminationTemplate_0.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/Pure3Phase_true-termination.c_Iteration5_Loop+nonterminationTemplate_0.smt2 : 3 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid400987.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/Pure3Phase_true-termination.c_Iteration6_Loop+nonterminationTemplate_0.smt2 : 1507 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid403969.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/Pure3Phase_true-termination.c_Iteration7_Loop+nonterminationTemplate_0.smt2 : 1472 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid404799.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/Pure3Phase_true-termination.c_Iteration8_Loop+nonterminationTemplate_0.smt2 : 410 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid408121.log
+../QF_NIA_split/QF_NIA_6//LassoRanker/Stockholm_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 1281 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/Swingers_false-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_6//LassoRanker/Swingers_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 3 ms.

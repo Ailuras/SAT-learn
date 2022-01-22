@@ -1,0 +1,19 @@
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_10//UltimateAutomizer/gauss_sum_true-unreach-call.i.smt2 : 12853 ms.
+--------------------------------------------------
+./run.sh: line 3: 392632 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_10//UltimateAutomizer/linear_sea.ch_true-unreach-call.i_162.smt2 : 1200687 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_10//UltimateAutomizer/linear_sea.ch_true-unreach-call.i_163.smt2 : 1201006 ms.
+--------------------------------------------------
+./run.sh: line 3: 398896 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_10//UltimateAutomizer/linear_sea.ch_true-unreach-call.i_164.smt2 : 1200936 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_10//UltimateAutomizer/linear_sea.ch_true-unreach-call.i_75.smt2 : 1201007 ms.
+--------------------------------------------------
+./run.sh: line 3: 403521 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_10//UltimateAutomizer/linear_sea.ch_true-unreach-call.i_76.smt2 : 1200145 ms.
+--------------------------------------------------
+./run.sh: line 3: 406077 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_10//UltimateAutomizer/linear_sea.ch_true-unreach-call.i_77.smt2 : 1200929 ms.

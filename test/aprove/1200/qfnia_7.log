@@ -1,0 +1,16 @@
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid26046.log
+../QF_NIA_split/QF_NIA_7//LCTES/digital-stopwatch.locals.nosummaries.smt2 : 1679 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid35366.log
+../QF_NIA_split/QF_NIA_7//LCTES/digital-stopwatch.locals.smt2 : 3351 ms.

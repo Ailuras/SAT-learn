@@ -1,0 +1,22 @@
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+./run.sh: line 9: 424493 Killed                  java -Xmx20000m -jar aprove.jar -d diologic -m smtlib ../../$1
+../QF_NIA_split/QF_NIA_2_25//20170427-VeryMax/ITS/From_T2__fast_poll.t2_fixed__term_unfeasibility_0_0.smt2 : 53765 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)

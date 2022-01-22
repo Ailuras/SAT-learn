@@ -1,0 +1,53 @@
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid211075.log
+../QF_NIA_split/QF_NIA_10//UltimateAutomizer/gauss_sum_true-unreach-call.i.smt2 : 1482 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid214744.log
+../QF_NIA_split/QF_NIA_10//UltimateAutomizer/linear_sea.ch_true-unreach-call.i_162.smt2 : 856 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /tmp/hs_err_pid217311.log
+../QF_NIA_split/QF_NIA_10//UltimateAutomizer/linear_sea.ch_true-unreach-call.i_163.smt2 : 288 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid218593.log
+../QF_NIA_split/QF_NIA_10//UltimateAutomizer/linear_sea.ch_true-unreach-call.i_164.smt2 : 269 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid225024.log
+../QF_NIA_split/QF_NIA_10//UltimateAutomizer/linear_sea.ch_true-unreach-call.i_75.smt2 : 1382 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid226308.log
+../QF_NIA_split/QF_NIA_10//UltimateAutomizer/linear_sea.ch_true-unreach-call.i_76.smt2 : 222 ms.
+--------------------------------------------------
+Exception in thread "main" java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.start(ProblemExecutor.java:105)
+	at aprove.CommandLineInterface.Generic.GenericMain.runProblem(GenericMain.java:120)
+	at aprove.CommandLineInterface.Generic.GenericMain.doMain(GenericMain.java:35)
+	at aprove.DiophantineSolver.DiophantineMain.main(DiophantineMain.java:15)
+	at aprove.Main.main(Main.java:64)
+../QF_NIA_split/QF_NIA_10//UltimateAutomizer/linear_sea.ch_true-unreach-call.i_77.smt2 : 269 ms.

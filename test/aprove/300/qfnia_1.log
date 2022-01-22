@@ -1,0 +1,78 @@
+--------------------------------------------------
+line 0:0 null
+Identifier 'x' is not declared.
+line 0:0 null
+Identifier 'y' is not declared.
+java.lang.NullPointerException
+	at aprove.InputModules.Programs.SMTLIB.Sorts.VariadicFunctionSort.checkSort(VariadicFunctionSort.java:53)
+	at aprove.InputModules.Programs.SMTLIB.Terms.AbstractFunctionWrapper.apply(AbstractFunctionWrapper.java:35)
+	at aprove.InputModules.Programs.SMTLIB.Terms.SMTTermFactory.create(SMTTermFactory.java:138)
+	at aprove.InputModules.Generated.SMTLIB.SMTBenchmarkParser.term(SMTBenchmarkParser.java:1215)
+	at aprove.InputModules.Generated.SMTLIB.SMTBenchmarkParser.terms(SMTBenchmarkParser.java:1122)
+	at aprove.InputModules.Generated.SMTLIB.SMTBenchmarkParser.term(SMTBenchmarkParser.java:1210)
+	at aprove.InputModules.Generated.SMTLIB.SMTBenchmarkParser.command(SMTBenchmarkParser.java:2512)
+	at aprove.InputModules.Generated.SMTLIB.SMTBenchmarkParser.script(SMTBenchmarkParser.java:252)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.parse(FormulaDiophantineSolver.java:152)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:40)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+ERROR: Unknown exception trying to parse input file; aborting
+-
+unknown
++NO solution
+../QF_NIA_split/QF_NIA_1//2019-ezsmt/car/inst1.ez.smt2 : 2462 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid282436.log
+../QF_NIA_split/QF_NIA_1//2019-ezsmt/car/inst2.ez.smt2 : 2163 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid283959.log
+../QF_NIA_split/QF_NIA_1//2019-ezsmt/car/inst3.ez.smt2 : 1204 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid284935.log
+../QF_NIA_split/QF_NIA_1//2019-ezsmt/car/inst4.ez.smt2 : 793 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid289515.log
+../QF_NIA_split/QF_NIA_1//2019-ezsmt/car/inst5.ez.smt2 : 3538 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid294150.log
+../QF_NIA_split/QF_NIA_1//2019-ezsmt/car/inst6.ez.smt2 : 3581 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid295041.log
+../QF_NIA_split/QF_NIA_1//2019-ezsmt/car/inst7.ez.smt2 : 785 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Finalizer.<clinit>(Finalizer.java:233)
+
+../QF_NIA_split/QF_NIA_1//2019-ezsmt/car/inst8.ez.smt2 : 815 ms.

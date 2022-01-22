@@ -1,0 +1,8 @@
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+../QF_NIA_split/QF_NIA_2_17//20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateContainsAll.jar-obl-11__p9682_terminationG_0.smt2 : 407 ms.
+--------------------------------------------------
+./run.sh: line 9: 429433 Killed                  java -Xmx20000m -jar aprove.jar -d diologic -m smtlib ../../$1
+../QF_NIA_split/QF_NIA_2_17//20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateContainsAll.jar-obl-11__p9683_terminationG_0.smt2 : 53623 ms.
+--------------------------------------------------

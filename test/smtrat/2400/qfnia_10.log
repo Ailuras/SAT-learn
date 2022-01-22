@@ -1,0 +1,16 @@
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_10//UltimateAutomizer/gauss_sum_true-unreach-call.i.smt2 : 15290 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_10//UltimateAutomizer/linear_sea.ch_true-unreach-call.i_162.smt2 : 2401005 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_10//UltimateAutomizer/linear_sea.ch_true-unreach-call.i_163.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_10//UltimateAutomizer/linear_sea.ch_true-unreach-call.i_164.smt2 : 2401006 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_10//UltimateAutomizer/linear_sea.ch_true-unreach-call.i_75.smt2 : 2401006 ms.
+--------------------------------------------------
+./run.sh: line 3: 308271 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_10//UltimateAutomizer/linear_sea.ch_true-unreach-call.i_76.smt2 : 2400198 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_10//UltimateAutomizer/linear_sea.ch_true-unreach-call.i_77.smt2 : 2401005 ms.

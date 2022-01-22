@@ -1,0 +1,578 @@
+--------------------------------------------------
+Exception in thread "main" java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.start(ProblemExecutor.java:105)
+	at aprove.CommandLineInterface.Generic.GenericMain.runProblem(GenericMain.java:120)
+	at aprove.CommandLineInterface.Generic.GenericMain.doMain(GenericMain.java:35)
+	at aprove.DiophantineSolver.DiophantineMain.main(DiophantineMain.java:15)
+	at aprove.Main.main(Main.java:64)
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Flip2.c__p22917_terminationG_0.smt2 : 1621 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid141591.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Flip2.c__p22918_terminationG_0.smt2 : 941 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid144106.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Flip2.c__p22927_terminationG_0.smt2 : 917 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid146026.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Flip2.c__p22933_terminationG_0.smt2 : 747 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid147908.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Flip2.c__p22937_terminationG_0.smt2 : 686 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Flip2.c__p22938_terminationG_0.smt2 : 571 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid153459.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Flip2.c__p22942_edge_closing_0.smt2 : 1816 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid155414.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Flip2.c__p22953_edge_closing_0.smt2 : 654 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid157614.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Flip2.c__p22954_edge_closing_0.smt2 : 629 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid161344.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Flip2.c__p22955_edge_closing_0.smt2 : 1551 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid162636.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Flip.c__p22994_terminationG_0.smt2 : 609 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Flip.c__p23021_terminationG_0.smt2 : 7 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+Exception in thread "Problem executor thread" java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.util.concurrent.ThreadPoolExecutor.addWorker(ThreadPoolExecutor.java:957)
+	at java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1378)
+	at java.lang.UNIXProcess.initStreams(UNIXProcess.java:288)
+	at java.lang.UNIXProcess.lambda$new$2(UNIXProcess.java:258)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:257)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029)
+	at java.lang.Runtime.exec(Runtime.java:621)
+	at java.lang.Runtime.exec(Runtime.java:486)
+	at aprove.Framework.PropositionalLogic.SATCheckers.MiniSATFileChecker.solve(MiniSATFileChecker.java:262)
+	at aprove.Framework.PropositionalLogic.SATCheckers.MiniSATFileChecker.solve(MiniSATFileChecker.java:191)
+	at aprove.Framework.PropositionalLogic.SATCheckers.MiniSATFileChecker.solve(MiniSATFileChecker.java:140)
+	at aprove.Framework.Algebra.Polynomials.SatSearch.SatSearch.search(SatSearch.java:265)
+	at aprove.Framework.Algebra.Polynomials.SatSearch.SatSearch.search(SatSearch.java:226)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:112)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Flip.c__p23022_terminationG_0.smt2 : 11006 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid187314.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Flip.c__p23033_edge_closing_0.smt2 : 298 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Flip.c__p23038_edge_closing_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Flip.c__p23039_edge_closing_0.smt2 : 4 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid190888.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Gauss.c__p23050_terminationG_0.smt2 : 1414 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid194893.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Gauss.c__p23054_terminationG_0.smt2 : 1455 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid196114.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Gauss.c__p23055_terminationG_0.smt2 : 488 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Gauss.c__p23056_terminationG_0.smt2 : 1313 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid201001.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Gauss.c__p23059_terminationG_0.smt2 : 387 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid201854.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Gauss.c__p23060_terminationG_0.smt2 : 357 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid202479.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Gauss.c__p23061_terminationG_0.smt2 : 186 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid205650.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Gauss.c__p23064_terminationG_0.smt2 : 1256 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Finalizer.<clinit>(Finalizer.java:233)
+
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Gauss.c__p23065_terminationG_0.smt2 : 1440 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Gauss.c__p23066_terminationG_0.smt2 : 584 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Gauss.c__p23069_terminationG_0.smt2 : 5 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid212375.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Gauss.c__p23070_terminationG_0.smt2 : 559 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid213804.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Gauss.c__p23071_terminationG_0.smt2 : 612 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid218161.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Gauss.c__p23074_terminationG_0.smt2 : 1467 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid221239.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Gauss.c__p23075_terminationG_0.smt2 : 1387 ms.
+--------------------------------------------------
+Exception in thread "main" java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.start(ProblemExecutor.java:105)
+	at aprove.CommandLineInterface.Generic.GenericMain.runProblem(GenericMain.java:120)
+	at aprove.CommandLineInterface.Generic.GenericMain.doMain(GenericMain.java:35)
+	at aprove.DiophantineSolver.DiophantineMain.main(DiophantineMain.java:15)
+	at aprove.Main.main(Main.java:64)
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Gauss.c__p23076_terminationG_0.smt2 : 360 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Gauss.c__p23080_edge_closing_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__Gauss.c__p23084_edge_closing_0.smt2 : 4 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD2.c__p23102_terminationG_0.smt2 : 312 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD2.c__p23106_terminationG_0.smt2 : 5 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid229147.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD2.c__p23107_terminationG_0.smt2 : 1538 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid230620.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD2.c__p23110_terminationG_0.smt2 : 350 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD2.c__p23111_terminationG_0.smt2 : 1376 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid236393.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD2.c__p23112_terminationG_0.smt2 : 585 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid240389.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD2.c__p23116_terminationG_0.smt2 : 1387 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid263974.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD2.c__p23117_terminationG_0.smt2 : 7564 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid265600.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD2.c__p23120_terminationG_0.smt2 : 470 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD2.c__p23121_terminationG_0.smt2 : 475 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid269315.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD2.c__p23122_terminationG_0.smt2 : 750 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid270633.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD2.c__p23125_edge_closing_0.smt2 : 419 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid274703.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD2.c__p23126_edge_closing_0.smt2 : 1933 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid276871.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD2.c__p23132_edge_closing_0.smt2 : 567 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid278586.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD2.c__p23133_edge_closing_0.smt2 : 613 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD.c__p23156_terminationG_0.smt2 : 3514 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid287508.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD.c__p23157_terminationG_0.smt2 : 513 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid290733.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD.c__p23158_terminationG_0.smt2 : 1411 ms.
+--------------------------------------------------
+sat
++SOLUTION:
++ Nl2main_x1 = 1
++ Nl2main_y1 = 0
++ Nl2main_tmp1 = 0
++ Nl2main_xtmp1 = 0
++ Nl2main_x2 = 0
++ Nl2main_y2 = 1
++ Nl2main_tmp2 = 0
++ Nl2main_xtmp2 = 0
++ lam0n0 = 1
++ lam0n1 = 0
++ lam0n2 = 0
++ lam0n3 = 0
++ lam0n4 = 0
++ Nl2CT1 = 0
++ Nl2CT2 = 0
++ lam1n0 = 0
++ lam1n1 = 1
++ lam1n2 = 0
++ lam1n3 = 0
++ lam1n4 = 0
++ lam2n0 = 0
++ lam2n1 = 0
++ lam2n2 = 0
++ lam2n3 = 1
++ lam2n4 = 0
++ lam3n0 = 0
++ lam3n1 = 0
++ lam3n2 = 0
++ lam3n3 = 0
++ lam3n4 = 0
++ lam4n0 = 0
++ lam4n1 = 0
++ lam4n2 = 0
++ lam4n3 = 0
++ lam4n4 = 1
++ lam5n0 = 0
++ lam5n1 = 0
++ lam5n2 = 0
++ lam5n3 = 1
++ lam5n4 = 0
++ lam6n0 = 0
++ lam6n1 = 1
++ lam6n2 = 0
++ lam6n3 = 0
++ lam6n4 = 0
++ lam7n0 = 0
++ lam7n1 = 0
++ lam7n2 = 0
++ lam7n3 = 0
++ lam7n4 = 1
++ lam8n0 = 1
++ lam8n1 = 0
++ lam8n2 = 0
++ lam8n3 = 0
++ lam8n4 = 0
++ main_x = 0
++ undef3 = 0
++ main_y = 0
++ undef4 = 0
++ main_tmp = 0
++ main_xtmp = 0
++ lam14n0 = 0
++ lam14n1 = 0
++ lam14n2 = 0
++ lam14n3 = 0
++ lam14n4 = 0
++ RFN1_main_x = 0
++ RFN1_main_xtmp = 0
++ RFN1_main_y = 0
++ RFN1_main_tmp = 0
++ lam18n0 = 1
++ lam18n1 = 0
++ lam18n2 = 0
++ lam18n3 = 1
++ lam18n4 = 0
++ lam22n0 = 0
++ lam22n1 = 0
++ lam22n2 = 0
++ lam22n3 = 0
++ lam22n4 = 0
++ lam12n0 = 0
++ lam12n1 = 0
++ lam12n2 = 0
++ lam12n3 = 1
++ lam12n4 = 0
++ RFN1_CT = 0
++ lam13n0 = 0
++ lam13n1 = 0
++ lam13n2 = 0
++ lam13n3 = 0
++ lam13n4 = 0
++ lam16n0 = 0
++ lam16n1 = 0
++ lam16n2 = 0
++ lam16n3 = 0
++ lam16n4 = 0
++ lam17n0 = 1
++ lam17n1 = 0
++ lam17n2 = 0
++ lam17n3 = 1
++ lam17n4 = 0
++ lam20n0 = 0
++ lam20n1 = 0
++ lam20n2 = 0
++ lam20n3 = 0
++ lam20n4 = 1
++ lam21n0 = 0
++ lam21n1 = 0
++ lam21n2 = 0
++ lam21n3 = 0
++ lam21n4 = 0
++ lam11n0 = 1
++ lam11n1 = 0
++ lam11n2 = 0
++ lam11n3 = 1
++ lam11n4 = 1
++ lam15n0 = 0
++ lam15n1 = 0
++ lam15n2 = 0
++ lam15n3 = 0
++ lam15n4 = 0
++ lam19n0 = 0
++ lam19n1 = 1
++ lam19n2 = 1
++ lam19n3 = 0
++ lam19n4 = 0
+-
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD.c__p23167_terminationG_0.smt2 : 1312 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid295259.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD.c__p23168_terminationG_0.smt2 : 524 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD.c__p23171_terminationG_0.smt2 : 260 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD.c__p23172_terminationG_0.smt2 : 1404 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid301782.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD.c__p23173_terminationG_0.smt2 : 511 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid303208.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD.c__p23178_terminationG_0.smt2 : 547 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid304189.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD.c__p23179_terminationG_0.smt2 : 410 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD.c__p23180_terminationG_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD.c__p23183_terminationG_0.smt2 : 3 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid305664.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD.c__p23184_terminationG_0.smt2 : 481 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid308961.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD.c__p23185_terminationG_0.smt2 : 1503 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid309644.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD.c__p23188_terminationG_0.smt2 : 313 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD.c__p23189_terminationG_0.smt2 : 1180 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid316898.log
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD.c__p23190_terminationG_0.smt2 : 1296 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_2//20170427-VeryMax/CInteger/Stroeder_15__GCD.c__p23200_terminationG_0.smt2 : 5 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: Resource temporarily unavailable

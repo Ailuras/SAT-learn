@@ -1,0 +1,18 @@
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "mod" with arguments [2: x_DigitalStopwatch_P1.raw_count_modCount.0_, x_unnamed_49_]:
+	Arithmetic: mod should be called with an integer as second argument.
+	Bitvector: Invalid operator "mod".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "x_DigitalStopwatch_P1.raw_count_modCount.0_".
+	Uninterpreted: Invalid operator "mod".
+(unknown)
+../QF_NIA_split/QF_NIA_7//LCTES/digital-stopwatch.locals.nosummaries.smt2 : 52 ms.
+--------------------------------------------------
+ERROR smtrat.parser: Failed to call "mod" with arguments [2: x_DigitalStopwatch_P1.raw_count_modCount.0_, x_unnamed_49_]:
+	Arithmetic: mod should be called with an integer as second argument.
+	Bitvector: Invalid operator "mod".
+	BooleanEncoding: Functions are not supported.
+	Core: Arguments are expected to be formulas, but argument 1 is not: "x_DigitalStopwatch_P1.raw_count_modCount.0_".
+	Uninterpreted: Invalid operator "mod".
+(unknown)
+../QF_NIA_split/QF_NIA_7//LCTES/digital-stopwatch.locals.smt2 : 53 ms.

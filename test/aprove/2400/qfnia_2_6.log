@@ -1,0 +1,1529 @@
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/100.smt2 : 2401010 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/101.smt2 : 2401018 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/102.smt2 : 2401019 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/103.smt2 : 2401011 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/104.smt2 : 2401025 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/105.smt2 : 2401018 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/106.smt2 : 2401124 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/107.smt2 : 2401011 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/108.smt2 : 2401016 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/109.smt2 : 2401020 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/10.smt2 : 2401019 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/110.smt2 : 2401017 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/111.smt2 : 2401017 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/112.smt2 : 2401019 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/113.smt2 : 2401039 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/114.smt2 : 2401008 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/115.smt2 : 2401020 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/116.smt2 : 2401119 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/117.smt2 : 2401010 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/118.smt2 : 2401011 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/119.smt2 : 2401014 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/11.smt2 : 2401010 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/120.smt2 : 2401018 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/121.smt2 : 2401011 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/122.smt2 : 2401016 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/123.smt2 : 2401011 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/124.smt2 : 2401021 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/125.smt2 : 2401011 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/126.smt2 : 2401016 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/127.smt2 : 2401014 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/128.smt2 : 2401017 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/129.smt2 : 2401014 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/12.smt2 : 2401013 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/130.smt2 : 2401021 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/131.smt2 : 2401017 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/132.smt2 : 2401018 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/133.smt2 : 2401013 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/134.smt2 : 2401018 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/135.smt2 : 2401014 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/136.smt2 : 2401012 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/137.smt2 : 2401015 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/138.smt2 : 2401007 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/139.smt2 : 2401013 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/13.smt2 : 2401016 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/140.smt2 : 2401014 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/141.smt2 : 2401008 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/142.smt2 : 2401009 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/143.smt2 : 2401011 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/144.smt2 : 2401040 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/145.smt2 : 2401015 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/146.smt2 : 2401011 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/147.smt2 : 2401012 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/148.smt2 : 2401017 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/149.smt2 : 2401012 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/14.smt2 : 2401016 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/150.smt2 : 2401017 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/151.smt2 : 2401017 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/152.smt2 : 2401017 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/153.smt2 : 2401022 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/154.smt2 : 2401015 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/155.smt2 : 2401019 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/156.smt2 : 2401011 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/157.smt2 : 2401015 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/158.smt2 : 2401009 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/159.smt2 : 2401015 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/15.smt2 : 2401012 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/160.smt2 : 2401009 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/161.smt2 : 2401010 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/162.smt2 : 2401008 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/163.smt2 : 2401015 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/164.smt2 : 14371865 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/165.smt2 : 2401012 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/166.smt2 : 2401011 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/167.smt2 : 2401283 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/168.smt2 : 2401017 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/169.smt2 : 2401016 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/16.smt2 : 2401019 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/170.smt2 : 2401018 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/171.smt2 : 2401019 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/172.smt2 : 2401010 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/173.smt2 : 2401017 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/174.smt2 : 2401014 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/175.smt2 : 2401011 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/176.smt2 : 2401011 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/177.smt2 : 2401017 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/178.smt2 : 2401018 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/179.smt2 : 2401025 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/17.smt2 : 2401015 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/180.smt2 : 2401017 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/181.smt2 : 2401022 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/182.smt2 : 2401016 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/183.smt2 : 2401016 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/184.smt2 : 2401018 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/185.smt2 : 2401016 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/186.smt2 : 2401019 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/187.smt2 : 2401018 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/188.smt2 : 2401017 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/189.smt2 : 2401013 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/18.smt2 : 2401012 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/190.smt2 : 2401014 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/191.smt2 : 2401043 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/192.smt2 : 2401016 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/193.smt2 : 2401044 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/194.smt2 : 2401011 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/195.smt2 : 2401019 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/196.smt2 : 2401014 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/197.smt2 : 2401010 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/198.smt2 : 2401012 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/199.smt2 : 2401012 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/19.smt2 : 2401023 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/1.smt2 : 2401009 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/200.smt2 : 2401015 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/201.smt2 : 2401013 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/202.smt2 : 2401009 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/203.smt2 : 2401013 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/204.smt2 : 2401016 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/205.smt2 : 2401016 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/206.smt2 : 2401010 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/207.smt2 : 2401014 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/208.smt2 : 2401016 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/209.smt2 : 2401020 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/20.smt2 : 2401022 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/210.smt2 : 2401008 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/211.smt2 : 2401017 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/212.smt2 : 2401034 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/213.smt2 : 2401012 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/214.smt2 : 2401014 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/215.smt2 : 2401015 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/216.smt2 : 2401016 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/217.smt2 : 2401016 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/218.smt2 : 2401016 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/219.smt2 : 2401019 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/21.smt2 : 2401019 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/220.smt2 : 2401013 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/221.smt2 : 2401015 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/222.smt2 : 2401015 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/223.smt2 : 2401020 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+../QF_NIA_split/QF_NIA_2_6//20170427-VeryMax/SAT14/224.smt2 : 2401009 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.NullPointerException
+	at aprove.Framework.Algebra.Polynomials.SimplePolynomial.toGENodePairForSearchBounds(SimplePolynomial.java:1115)
+	at aprove.Framework.Algebra.Polynomials.SimplePolyConstraint.toSearchBounds(SimplePolyConstraint.java:485)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.gatherKnowledge(DirectGlobalAnalyzer.java:51)
+	at aprove.DiophantineSolver.GlobalConstraintAnalyzers.DirectGlobalAnalyzer.analyze(DirectGlobalAnalyzer.java:24)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:77)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)
+./run.sh: line 9: 266340 Killed                  java -Xmx20000m -jar aprove.jar -d diologic -m smtlib ../../$1

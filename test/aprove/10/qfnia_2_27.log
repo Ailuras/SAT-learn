@@ -1,0 +1,50 @@
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid139648.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__p1730_terminationG_0.smt2 : 1982 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid145498.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__p1731_terminationG_0.smt2 : 1861 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__p1732_terminationG_0.smt2 : 4 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Reference.<clinit>(Reference.java:232)
+
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__p1735_terminationG_0.smt2 : 1611 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__p1736_terminationG_0.smt2 : 457 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__p1737_terminationG_0.smt2 : 545 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__p1740_terminationG_0.smt2 : 1658 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__p1741_terminationG_0.smt2 : 606 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: Resource temporarily unavailable

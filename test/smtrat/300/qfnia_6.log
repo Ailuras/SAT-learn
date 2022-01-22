@@ -1,0 +1,604 @@
+--------------------------------------------------
+./run.sh: line 3: 66363 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/4NestedWith3Variables_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 300148 ms.
+--------------------------------------------------
+./run.sh: line 3: 67587 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/aaron3_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 300172 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Ackermann01_true-termination.c_Iteration9_Loop+nonterminationTemplate_0.smt2 : 1108 ms.
+--------------------------------------------------
+./run.sh: line 3: 68557 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/AliasDarteFeautrierGonnord-SAS2010-aaron3_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 300156 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/AliasDarteFeautrierGonnord-SAS2010-exmini_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 137 ms.
+--------------------------------------------------
+./run.sh: line 3: 69266 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/AliasDarteFeautrierGonnord-SAS2010-nestedLoop_true-termination.c_Iteration8_Loop+nonterminationTemplate_0.smt2 : 300332 ms.
+--------------------------------------------------
+./run.sh: line 3: 70017 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/AliasDarteFeautrierGonnord-SAS2010-nestedLoop_true-termination.c_Iteration9_Loop+nonterminationTemplate_0.smt2 : 300335 ms.
+--------------------------------------------------
+./run.sh: line 3: 70880 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/AliasDarteFeautrierGonnord-SAS2010-rsd_true-termination.c_Iteration4_Loop+nonterminationTemplate_0.smt2 : 300079 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/AliasDarteFeautrierGonnord-SAS2010-terminate_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 117 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/b.04_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 458 ms.
+--------------------------------------------------
+./run.sh: line 3: 71714 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Benghazi_nondet_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 300149 ms.
+--------------------------------------------------
+./run.sh: line 3: 72595 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/BradleyMannaSipma-ICALP2005-Fig1_true-termination.c_Iteration4_Lasso+nonterminationTemplate_0.smt2 : 300094 ms.
+--------------------------------------------------
+./run.sh: line 3: 73095 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChawdharyCookGulwaniSagivYang-ESOP2008-aaron12_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 300120 ms.
+--------------------------------------------------
+./run.sh: line 3: 74007 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChawdharyCookGulwaniSagivYang-ESOP2008-aaron12_true-termination.c_Iteration2_Loop+nonterminationTemplate_0.smt2 : 300177 ms.
+--------------------------------------------------
+./run.sh: line 3: 74618 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChawdharyCookGulwaniSagivYang-ESOP2008-aaron12_true-termination.c_Iteration3_Loop+nonterminationTemplate_0.smt2 : 300126 ms.
+--------------------------------------------------
+./run.sh: line 3: 75311 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChawdharyCookGulwaniSagivYang-ESOP2008-aaron4_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 300237 ms.
+--------------------------------------------------
+./run.sh: line 3: 75992 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex2.06_false-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 300088 ms.
+--------------------------------------------------
+./run.sh: line 3: 76640 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex2.06_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 300094 ms.
+--------------------------------------------------
+./run.sh: line 3: 77526 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex2.07_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 300220 ms.
+--------------------------------------------------
+./run.sh: line 3: 78264 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex2.11_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 300090 ms.
+--------------------------------------------------
+./run.sh: line 3: 78844 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex2.13_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 300136 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex2.19_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 66 ms.
+--------------------------------------------------
+./run.sh: line 3: 79602 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex3.01_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 300192 ms.
+--------------------------------------------------
+./run.sh: line 3: 80385 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex3.04_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 300225 ms.
+--------------------------------------------------
+./run.sh: line 3: 81036 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex3.05_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 300162 ms.
+--------------------------------------------------
+./run.sh: line 3: 81656 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex3.08_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 300047 ms.
+--------------------------------------------------
+./run.sh: line 3: 82373 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex3.09_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 300315 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex3.10_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 70 ms.
+--------------------------------------------------
+./run.sh: line 3: 83261 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChenFlurMukhopadhyay-SAS2012-Ex4.01_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 300224 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/ChooseLife_false-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 109 ms.
+--------------------------------------------------
+./run.sh: line 3: 83963 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Collatz_unknown-termination.c_Iteration4_Lasso+nonterminationTemplate_0.smt2 : 300108 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/ColonSipma-TACAS2001-Fig1_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 113 ms.
+--------------------------------------------------
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+./run.sh: line 3: 84474 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Copenhagen_disj_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 300133 ms.
+--------------------------------------------------
+./run.sh: line 3: 85195 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et1_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 300123 ms.
+--------------------------------------------------
+./run.sh: line 3: 85696 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et1_true_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 300191 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et4_false-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 2106 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et4_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 1883 ms.
+--------------------------------------------------
+./run.sh: line 3: 86478 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et4_true_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 300253 ms.
+--------------------------------------------------
+./run.sh: line 3: 87120 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et4_true_true-termination.c_Iteration2_Loop+nonterminationTemplate_0.smt2 : 300203 ms.
+--------------------------------------------------
+./run.sh: line 3: 87742 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et4_true_true-termination.c_Iteration3_Loop+nonterminationTemplate_0.smt2 : 300207 ms.
+--------------------------------------------------
+./run.sh: line 3: 88450 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Et4_true_true-termination.c_Iteration4_Loop+nonterminationTemplate_0.smt2 : 300272 ms.
+--------------------------------------------------
+./run.sh: line 3: 89093 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/EvenOdd01_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 300122 ms.
+--------------------------------------------------
+./run.sh: line 3: 89718 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/GCD4_true-termination.c_Iteration2_Loop+nonterminationTemplate_0.smt2 : 300173 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Gothenburg_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 1029 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Gothenburg_v2_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 1071 ms.
+--------------------------------------------------
+./run.sh: line 3: 90450 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Hanoi_plus_false-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 300054 ms.
+--------------------------------------------------
+./run.sh: line 3: 91069 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Hanoi_plus_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 300137 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/HarrisLalNoriRajamani-SAS2010-Fig1_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 7932 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/HarrisLalNoriRajamani-SAS2010-Fig1_true-termination.c_Iteration2_Lasso+nonterminationTemplate_0.smt2 : 8090 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/HeizmannHoenickeLeikePodelski-ATVA2013-Fig2_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 81 ms.
+--------------------------------------------------
+./run.sh: line 3: 91909 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/LarrazOliverasRodriguez-CarbonellRubio-FMCAD2013-Fig1_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 300224 ms.
+--------------------------------------------------
+./run.sh: line 3: 92543 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/LarrazOliverasRodriguez-CarbonellRubio-FMCAD2013-Fig1_true-termination.c_Iteration3_Loop+nonterminationTemplate_0.smt2 : 300245 ms.
+--------------------------------------------------
+./run.sh: line 3: 93245 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/LarrazOliverasRodriguez-CarbonellRubio-FMCAD2013-Fig1_true-termination.c_Iteration6_Loop+nonterminationTemplate_0.smt2 : 300223 ms.
+--------------------------------------------------
+./run.sh: line 3: 93978 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/LeeJonesBen-Amram-POPL2001-Ex2_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 300073 ms.
+--------------------------------------------------
+./run.sh: line 3: 94608 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/LeeJonesBen-Amram-POPL2001-Ex2_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 300064 ms.
+--------------------------------------------------
+./run.sh: line 3: 95176 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/LeikeHeizmann-WST2014-Ex5_false-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 300069 ms.
+--------------------------------------------------
+./run.sh: line 3: 95871 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/McCarthy91_Recursion_true-termination.c_Iteration2_Loop+nonterminationTemplate_0.smt2 : 300188 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/McCarthy91_Recursion_true-termination.c_Iteration5_Loop+nonterminationTemplate_0.smt2 : 65014 ms.
+--------------------------------------------------
+./run.sh: line 3: 96634 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/min_rf_true-termination.c_Iteration8_Loop+nonterminationTemplate_0.smt2 : 300199 ms.
+--------------------------------------------------
+./run.sh: line 3: 97193 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/MinusBuiltIn_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 300025 ms.
+--------------------------------------------------
+./run.sh: line 3: 97981 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/MutualRecursion_1a_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 300079 ms.
+--------------------------------------------------
+./run.sh: line 3: 98912 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/MutualRecursion_1b_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 300190 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/MutualRecursion_1b_true-termination.c_Iteration3_Loop+nonterminationTemplate_0.smt2 : 3839 ms.
+--------------------------------------------------
+./run.sh: line 3: 99685 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/MutualRecursion_1b_true-termination.c_Iteration6_Loop+nonterminationTemplate_0.smt2 : 300345 ms.
+--------------------------------------------------
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+carl.fieldext: No factor is zero in assignment.
+./run.sh: line 3: 100331 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Mysore_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 300075 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Parts_true-termination.c_Iteration22_Loop+nonterminationTemplate_0.smt2 : 1121 ms.
+--------------------------------------------------
+./run.sh: line 3: 100993 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PastaA6_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 300348 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PastaB4_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 557 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PastaC7_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 105 ms.
+--------------------------------------------------
+./run.sh: line 3: 101780 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration10_Loop+nonterminationTemplate_0.smt2 : 300156 ms.
+--------------------------------------------------
+./run.sh: line 3: 102448 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration11_Loop+nonterminationTemplate_0.smt2 : 300143 ms.
+--------------------------------------------------
+./run.sh: line 3: 103139 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration12_Loop+nonterminationTemplate_0.smt2 : 300069 ms.
+--------------------------------------------------
+./run.sh: line 3: 103800 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration3_Loop+nonterminationTemplate_0.smt2 : 300096 ms.
+--------------------------------------------------
+./run.sh: line 3: 104541 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration4_Loop+nonterminationTemplate_0.smt2 : 300079 ms.
+--------------------------------------------------
+./run.sh: line 3: 105356 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration5_Loop+nonterminationTemplate_0.smt2 : 300089 ms.
+--------------------------------------------------
+./run.sh: line 3: 106232 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration6_Loop+nonterminationTemplate_0.smt2 : 300356 ms.
+--------------------------------------------------
+./run.sh: line 3: 106876 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration7_Loop+nonterminationTemplate_0.smt2 : 300219 ms.
+--------------------------------------------------
+./run.sh: line 3: 107665 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration8_Loop+nonterminationTemplate_0.smt2 : 300176 ms.
+--------------------------------------------------
+./run.sh: line 3: 108184 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2-TACAS2011-Fig3_true-termination.c_Iteration9_Loop+nonterminationTemplate_0.smt2 : 300073 ms.
+--------------------------------------------------
+./run.sh: line 3: 108815 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration10_Loop+nonterminationTemplate_0.smt2 : 300246 ms.
+--------------------------------------------------
+./run.sh: line 3: 109441 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration11_Loop+nonterminationTemplate_0.smt2 : 300205 ms.
+--------------------------------------------------
+./run.sh: line 3: 110190 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration12_Loop+nonterminationTemplate_0.smt2 : 300324 ms.
+--------------------------------------------------
+./run.sh: line 3: 110757 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration13_Loop+nonterminationTemplate_0.smt2 : 300152 ms.
+--------------------------------------------------
+./run.sh: line 3: 111482 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration2_Loop+nonterminationTemplate_0.smt2 : 300269 ms.
+--------------------------------------------------
+./run.sh: line 3: 112154 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration3_Loop+nonterminationTemplate_0.smt2 : 300175 ms.
+--------------------------------------------------
+./run.sh: line 3: 112933 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration4_Loop+nonterminationTemplate_0.smt2 : 300168 ms.
+--------------------------------------------------
+./run.sh: line 3: 113464 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration6_Loop+nonterminationTemplate_0.smt2 : 300088 ms.
+--------------------------------------------------
+./run.sh: line 3: 114283 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration7_Loop+nonterminationTemplate_0.smt2 : 300100 ms.
+--------------------------------------------------
+./run.sh: line 3: 114982 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-LICS2004-Fig2_true-termination.c_Iteration9_Loop+nonterminationTemplate_0.smt2 : 300157 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 931 ms.
+--------------------------------------------------
+./run.sh: line 3: 115719 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration2_Loop+nonterminationTemplate_0.smt2 : 300214 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration3_Loop+nonterminationTemplate_0.smt2 : 1005 ms.
+--------------------------------------------------
+./run.sh: line 3: 116350 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration4_Loop+nonterminationTemplate_0.smt2 : 300220 ms.
+--------------------------------------------------
+./run.sh: line 3: 117065 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration5_Loop+nonterminationTemplate_0.smt2 : 300186 ms.
+--------------------------------------------------
+./run.sh: line 3: 117683 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration6_Loop+nonterminationTemplate_0.smt2 : 300205 ms.
+--------------------------------------------------
+./run.sh: line 3: 118308 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration7_Loop+nonterminationTemplate_0.smt2 : 300239 ms.
+--------------------------------------------------
+./run.sh: line 3: 118903 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/PodelskiRybalchenko-VMCAI2004-Ex1_true-termination.c_Iteration8_Loop+nonterminationTemplate_0.smt2 : 300245 ms.
+--------------------------------------------------
+./run.sh: line 3: 119631 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Pure3Phase_true-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 300136 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_6//LassoRanker/Pure3Phase_true-termination.c_Iteration4_Loop+nonterminationTemplate_0.smt2 : 301008 ms.
+--------------------------------------------------
+../QF_NIA_split/QF_NIA_6//LassoRanker/Pure3Phase_true-termination.c_Iteration5_Loop+nonterminationTemplate_0.smt2 : 301006 ms.
+--------------------------------------------------
+./run.sh: line 3: 121777 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Pure3Phase_true-termination.c_Iteration6_Loop+nonterminationTemplate_0.smt2 : 300067 ms.
+--------------------------------------------------
+./run.sh: line 3: 122468 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Pure3Phase_true-termination.c_Iteration7_Loop+nonterminationTemplate_0.smt2 : 300085 ms.
+--------------------------------------------------
+./run.sh: line 3: 123095 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Pure3Phase_true-termination.c_Iteration8_Loop+nonterminationTemplate_0.smt2 : 300094 ms.
+--------------------------------------------------
+unsat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Stockholm_true-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 526 ms.
+--------------------------------------------------
+./run.sh: line 3: 123909 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_6//LassoRanker/Swingers_false-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 300214 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_6//LassoRanker/Swingers_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 85 ms.

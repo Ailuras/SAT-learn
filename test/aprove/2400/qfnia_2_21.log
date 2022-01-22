@@ -1,0 +1,51 @@
+--------------------------------------------------
+Exception in thread "main" java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.start(ProblemExecutor.java:105)
+	at aprove.CommandLineInterface.Generic.GenericMain.runProblem(GenericMain.java:120)
+	at aprove.CommandLineInterface.Generic.GenericMain.doMain(GenericMain.java:35)
+	at aprove.DiophantineSolver.DiophantineMain.main(DiophantineMain.java:15)
+	at aprove.Main.main(Main.java:64)
+../QF_NIA_split/QF_NIA_2_21//20170427-VeryMax/ITS/From_T2__bakery.t2__p17028_terminationG_0.smt2 : 499 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid429977.log
+../QF_NIA_split/QF_NIA_2_21//20170427-VeryMax/ITS/From_T2__bakery.t2__p17029_terminationG_0.smt2 : 218 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid433674.log
+../QF_NIA_split/QF_NIA_2_21//20170427-VeryMax/ITS/From_T2__bakery.t2__p17034_terminationG_0.smt2 : 1202 ms.
+--------------------------------------------------
+./run.sh: line 9: 434158 Killed                  java -Xmx20000m -jar aprove.jar -d diologic -m smtlib ../../$1
+../QF_NIA_split/QF_NIA_2_21//20170427-VeryMax/ITS/From_T2__bakery.t2__p17037_terminationG_0.smt2 : 51884 ms.
+--------------------------------------------------
+Exception in thread "Problem executor thread" java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.util.concurrent.ThreadPoolExecutor.addWorker(ThreadPoolExecutor.java:957)
+	at java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1378)
+	at java.lang.UNIXProcess.initStreams(UNIXProcess.java:288)
+	at java.lang.UNIXProcess.lambda$new$2(UNIXProcess.java:258)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:257)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029)
+	at java.lang.Runtime.exec(Runtime.java:621)
+	at java.lang.Runtime.exec(Runtime.java:486)
+	at aprove.Framework.PropositionalLogic.SATCheckers.MiniSATFileChecker.solve(MiniSATFileChecker.java:262)
+	at aprove.Framework.PropositionalLogic.SATCheckers.MiniSATFileChecker.solve(MiniSATFileChecker.java:191)
+	at aprove.Framework.PropositionalLogic.SATCheckers.MiniSATFileChecker.solve(MiniSATFileChecker.java:140)
+	at aprove.Framework.Algebra.Polynomials.SatSearch.SatSearch.search(SatSearch.java:265)
+	at aprove.Framework.Algebra.Polynomials.SatSearch.SatSearch.search(SatSearch.java:226)
+	at aprove.DiophantineSolver.FormulaDiophantineSolver.solve(FormulaDiophantineSolver.java:112)
+	at aprove.DiophantineSolver.DiologicExecutor.solve(DiologicExecutor.java:61)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.run(ProblemExecutor.java:111)
+	at java.lang.Thread.run(Thread.java:748)

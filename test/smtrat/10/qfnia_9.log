@@ -1,0 +1,562 @@
+--------------------------------------------------
+./run.sh: line 3: 79441 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/01.smt2 : 10099 ms.
+--------------------------------------------------
+./run.sh: line 3: 79880 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/02.smt2 : 10069 ms.
+--------------------------------------------------
+./run.sh: line 3: 80292 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/03.smt2 : 10067 ms.
+--------------------------------------------------
+./run.sh: line 3: 80918 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/04.smt2 : 10108 ms.
+--------------------------------------------------
+./run.sh: line 3: 81295 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/05.smt2 : 10080 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_9//mcm/06.smt2 : 3668 ms.
+--------------------------------------------------
+./run.sh: line 3: 81805 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/07.smt2 : 10054 ms.
+--------------------------------------------------
+./run.sh: line 3: 82131 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/08.smt2 : 10058 ms.
+--------------------------------------------------
+./run.sh: line 3: 82440 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/09.smt2 : 10070 ms.
+--------------------------------------------------
+./run.sh: line 3: 82766 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/100.smt2 : 10075 ms.
+--------------------------------------------------
+./run.sh: line 3: 83127 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/101.smt2 : 10065 ms.
+--------------------------------------------------
+./run.sh: line 3: 83407 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/102.smt2 : 10128 ms.
+--------------------------------------------------
+./run.sh: line 3: 83877 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/103.smt2 : 10093 ms.
+--------------------------------------------------
+./run.sh: line 3: 84176 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/104.smt2 : 10105 ms.
+--------------------------------------------------
+./run.sh: line 3: 103692 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/105.smt2 : 10093 ms.
+--------------------------------------------------
+./run.sh: line 3: 124108 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/106.smt2 : 10206 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+sat
+../QF_NIA_split/QF_NIA_9//mcm/107.smt2 : 9929 ms.
+--------------------------------------------------
+./run.sh: line 3: 167831 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/108.smt2 : 10125 ms.
+--------------------------------------------------
+./run.sh: line 3: 193832 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/109.smt2 : 10156 ms.
+--------------------------------------------------
+./run.sh: line 3: 222296 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/10.smt2 : 10212 ms.
+--------------------------------------------------
+./run.sh: line 3: 260521 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/110.smt2 : 10179 ms.
+--------------------------------------------------
+./run.sh: line 3: 283374 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/111.smt2 : 10201 ms.
+--------------------------------------------------
+./run.sh: line 3: 286074 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/112.smt2 : 10144 ms.
+--------------------------------------------------
+./run.sh: line 3: 300688 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/113.smt2 : 10218 ms.
+--------------------------------------------------
+./run.sh: line 3: 323736 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/114.smt2 : 10251 ms.
+--------------------------------------------------
+./run.sh: line 3: 340738 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/115.smt2 : 10346 ms.
+--------------------------------------------------
+./run.sh: line 3: 362316 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/116.smt2 : 10065 ms.
+--------------------------------------------------
+sat
+../QF_NIA_split/QF_NIA_9//mcm/117.smt2 : 9378 ms.
+--------------------------------------------------
+sat
+./run.sh: line 3: 402660 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/118.smt2 : 10242 ms.
+--------------------------------------------------
+./run.sh: line 3: 425106 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/119.smt2 : 10092 ms.
+--------------------------------------------------
+./run.sh: line 3: 449706 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/11.smt2 : 10219 ms.
+--------------------------------------------------
+./run.sh: line 3:  9467 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/120.smt2 : 10177 ms.
+--------------------------------------------------
+./run.sh: line 3: 29299 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/121.smt2 : 10587 ms.
+--------------------------------------------------
+./run.sh: line 3: 56989 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/122.smt2 : 10068 ms.
+--------------------------------------------------
+./run.sh: line 3: 74308 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/123.smt2 : 10277 ms.
+--------------------------------------------------
+./run.sh: line 3: 94525 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/124.smt2 : 10282 ms.
+--------------------------------------------------
+./run.sh: line 3: 116423 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/125.smt2 : 10182 ms.
+--------------------------------------------------
+./run.sh: line 3: 140501 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/126.smt2 : 10046 ms.
+--------------------------------------------------
+./run.sh: line 3: 157221 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/127.smt2 : 10075 ms.
+--------------------------------------------------
+./run.sh: line 3: 184283 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/128.smt2 : 10172 ms.
+--------------------------------------------------
+./run.sh: line 3: 213353 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/129.smt2 : 10119 ms.
+--------------------------------------------------
+./run.sh: line 3: 240780 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/12.smt2 : 10133 ms.
+--------------------------------------------------
+./run.sh: line 3: 266687 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/130.smt2 : 10121 ms.
+--------------------------------------------------
+./run.sh: line 3: 285450 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/131.smt2 : 10344 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+../QF_NIA_split/QF_NIA_9//mcm/132.smt2 : 11006 ms.
+--------------------------------------------------
+./run.sh: line 3: 348979 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/133.smt2 : 10154 ms.
+--------------------------------------------------
+./run.sh: line 3: 374768 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/134.smt2 : 10113 ms.
+--------------------------------------------------
+./run.sh: line 3: 395119 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/135.smt2 : 10133 ms.
+--------------------------------------------------
+./run.sh: line 3: 417491 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/136.smt2 : 10190 ms.
+--------------------------------------------------
+./run.sh: line 3: 441815 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/137.smt2 : 10113 ms.
+--------------------------------------------------
+./run.sh: line 3: 11791 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/138.smt2 : 10107 ms.
+--------------------------------------------------
+./run.sh: line 3: 35967 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/139.smt2 : 10339 ms.
+--------------------------------------------------
+./run.sh: line 3: 60993 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/13.smt2 : 10288 ms.
+--------------------------------------------------
+./run.sh: line 3: 85831 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/140.smt2 : 10151 ms.
+--------------------------------------------------
+./run.sh: line 3: 111260 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/141.smt2 : 10099 ms.
+--------------------------------------------------
+./run.sh: line 3: 132658 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/142.smt2 : 10048 ms.
+--------------------------------------------------
+./run.sh: line 3: 154680 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/143.smt2 : 10128 ms.
+--------------------------------------------------
+./run.sh: line 3: 178159 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/144.smt2 : 10152 ms.
+--------------------------------------------------
+./run.sh: line 3: 202459 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/145.smt2 : 10060 ms.
+--------------------------------------------------
+./run.sh: line 3: 223272 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/146.smt2 : 10101 ms.
+--------------------------------------------------
+./run.sh: line 3: 243269 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/147.smt2 : 10163 ms.
+--------------------------------------------------
+./run.sh: line 3: 268782 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/148.smt2 : 10175 ms.
+--------------------------------------------------
+./run.sh: line 3: 294191 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/149.smt2 : 10119 ms.
+--------------------------------------------------
+./run.sh: line 3: 318217 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/14.smt2 : 10248 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: line 3: 348708 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/150.smt2 : 11107 ms.
+--------------------------------------------------
+./run.sh: line 3: 377616 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/151.smt2 : 10048 ms.
+--------------------------------------------------
+./run.sh: line 3: 402801 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/152.smt2 : 10176 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_9//mcm/153.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_9//mcm/154.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_9//mcm/155.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_9//mcm/156.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_9//mcm/157.smt2 : 3 ms.
+--------------------------------------------------
+./run.sh: line 3: 430559 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/158.smt2 : 10155 ms.
+--------------------------------------------------
+./run.sh: line 3: 456896 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/159.smt2 : 10107 ms.
+--------------------------------------------------
+./run.sh: line 3: 26792 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/15.smt2 : 10250 ms.
+--------------------------------------------------
+./run.sh: line 3: 53042 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/160.smt2 : 10048 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: line 3: 81078 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/161.smt2 : 11368 ms.
+--------------------------------------------------
+./run.sh: line 3: 106968 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/162.smt2 : 10105 ms.
+--------------------------------------------------
+./run.sh: line 3: 139059 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/163.smt2 : 10086 ms.
+--------------------------------------------------
+./run.sh: line 3: 174164 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/164.smt2 : 10124 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_9//mcm/165.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_9//mcm/166.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_9//mcm/167.smt2 : 3 ms.
+--------------------------------------------------
+./run.sh: line 3: 198751 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/168.smt2 : 10070 ms.
+--------------------------------------------------
+./run.sh: line 3: 229764 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/169.smt2 : 10161 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+../QF_NIA_split/QF_NIA_9//mcm/16.smt2 : 11007 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_9//mcm/170.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_9//mcm/171.smt2 : 6 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_9//mcm/172.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_9//mcm/173.smt2 : 7 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_9//mcm/174.smt2 : 6 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_9//mcm/175.smt2 : 7 ms.
+--------------------------------------------------
+./run.sh: line 3: 282280 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/176.smt2 : 10073 ms.
+--------------------------------------------------
+./run.sh: line 3: 299255 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/177.smt2 : 10079 ms.
+--------------------------------------------------
+./run.sh: line 3: 316099 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/178.smt2 : 10070 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+../QF_NIA_split/QF_NIA_9//mcm/179.smt2 : 11007 ms.
+--------------------------------------------------
+./run.sh: line 3: 342840 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/17.smt2 : 10238 ms.
+--------------------------------------------------
+./run.sh: line 3: 344180 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/180.smt2 : 10066 ms.
+--------------------------------------------------
+./run.sh: line 3: 345564 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/181.smt2 : 10092 ms.
+--------------------------------------------------
+./run.sh: line 3: 346711 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/182.smt2 : 10076 ms.
+--------------------------------------------------
+./run.sh: line 3: 347879 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/183.smt2 : 10059 ms.
+--------------------------------------------------
+./run.sh: line 3: 349240 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/184.smt2 : 10070 ms.
+--------------------------------------------------
+./run.sh: line 3: 350800 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/185.smt2 : 10080 ms.
+--------------------------------------------------
+./run.sh: line 3: 351955 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/186.smt2 : 10106 ms.
+--------------------------------------------------
+./run.sh: line 3: 353497 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/18.smt2 : 10089 ms.
+--------------------------------------------------
+./run.sh: line 3: 355126 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/19.smt2 : 10094 ms.
+--------------------------------------------------
+./run.sh: line 3: 356266 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/20.smt2 : 10130 ms.
+--------------------------------------------------
+./run.sh: line 3: 357822 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/21.smt2 : 10189 ms.
+--------------------------------------------------
+./run.sh: line 3: 359209 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/22.smt2 : 10226 ms.
+--------------------------------------------------
+./run.sh: line 3: 360556 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/23.smt2 : 10147 ms.
+--------------------------------------------------
+./run.sh: line 3: 361863 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/24.smt2 : 10105 ms.
+--------------------------------------------------
+./run.sh: line 3: 363034 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/25.smt2 : 10106 ms.
+--------------------------------------------------
+./run.sh: line 3: 364390 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/26.smt2 : 10093 ms.
+--------------------------------------------------
+./run.sh: line 3: 365528 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/27.smt2 : 10097 ms.
+--------------------------------------------------
+./run.sh: line 3: 366670 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/28.smt2 : 10076 ms.
+--------------------------------------------------
+./run.sh: line 3: 367839 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/29.smt2 : 10076 ms.
+--------------------------------------------------
+./run.sh: line 3: 369033 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/30.smt2 : 10074 ms.
+--------------------------------------------------
+./run.sh: line 3: 370194 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/31.smt2 : 10126 ms.
+--------------------------------------------------
+./run.sh: line 3: 371336 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/32.smt2 : 10086 ms.
+--------------------------------------------------
+./run.sh: line 3: 372250 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/33.smt2 : 10074 ms.
+--------------------------------------------------
+./run.sh: line 3: 372940 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/34.smt2 : 10083 ms.
+--------------------------------------------------
+./run.sh: line 3: 373858 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/35.smt2 : 10092 ms.
+--------------------------------------------------
+./run.sh: line 3: 375174 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/36.smt2 : 10089 ms.
+--------------------------------------------------
+./run.sh: line 3: 375905 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/37.smt2 : 10141 ms.
+--------------------------------------------------
+./run.sh: line 3: 376337 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/38.smt2 : 10079 ms.
+--------------------------------------------------
+./run.sh: line 3: 376889 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/39.smt2 : 10126 ms.
+--------------------------------------------------
+./run.sh: line 3: 378003 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/40.smt2 : 10096 ms.
+--------------------------------------------------
+./run.sh: line 3: 378736 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/41.smt2 : 10058 ms.
+--------------------------------------------------
+./run.sh: line 3: 379625 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/42.smt2 : 10050 ms.
+--------------------------------------------------
+./run.sh: line 3: 380371 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/43.smt2 : 10066 ms.
+--------------------------------------------------
+./run.sh: line 3: 381074 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/44.smt2 : 10075 ms.
+--------------------------------------------------
+./run.sh: line 3: 382026 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/45.smt2 : 10054 ms.
+--------------------------------------------------
+./run.sh: line 3: 382918 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/46.smt2 : 10167 ms.
+--------------------------------------------------
+./run.sh: line 3: 383574 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/47.smt2 : 10088 ms.
+--------------------------------------------------
+./run.sh: line 3: 384126 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/48.smt2 : 10188 ms.
+--------------------------------------------------
+./run.sh: line 3: 384984 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/49.smt2 : 10133 ms.
+--------------------------------------------------
+./run.sh: line 3: 385286 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/50.smt2 : 10183 ms.
+--------------------------------------------------
+./run.sh: line 3: 386035 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/51.smt2 : 10146 ms.
+--------------------------------------------------
+./run.sh: line 3: 386803 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/52.smt2 : 10176 ms.
+--------------------------------------------------
+./run.sh: line 3: 387304 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/53.smt2 : 10178 ms.
+--------------------------------------------------
+./run.sh: line 3: 387791 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/54.smt2 : 10130 ms.
+--------------------------------------------------
+./run.sh: line 3: 388272 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/55.smt2 : 10138 ms.
+--------------------------------------------------
+./run.sh: line 3: 388710 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/56.smt2 : 10209 ms.
+--------------------------------------------------
+./run.sh: line 3: 389266 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/57.smt2 : 10174 ms.
+--------------------------------------------------
+./run.sh: line 3: 389757 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/58.smt2 : 10173 ms.
+--------------------------------------------------
+./run.sh: line 3: 390251 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/59.smt2 : 10170 ms.
+--------------------------------------------------
+./run.sh: line 3: 390740 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/60.smt2 : 10121 ms.
+--------------------------------------------------
+./run.sh: line 3: 391236 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/61.smt2 : 10126 ms.
+--------------------------------------------------
+./run.sh: line 3: 391664 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/62.smt2 : 10110 ms.
+--------------------------------------------------
+./run.sh: line 3: 391954 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/63.smt2 : 10104 ms.
+--------------------------------------------------
+./run.sh: line 3: 392479 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/64.smt2 : 10141 ms.
+--------------------------------------------------
+./run.sh: line 3: 392955 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/65.smt2 : 10120 ms.
+--------------------------------------------------
+./run.sh: line 3: 393450 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/66.smt2 : 10140 ms.
+--------------------------------------------------
+./run.sh: line 3: 393953 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/67.smt2 : 10097 ms.
+--------------------------------------------------
+./run.sh: line 3: 394422 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/68.smt2 : 10117 ms.
+--------------------------------------------------
+./run.sh: line 3: 394953 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/69.smt2 : 10085 ms.
+--------------------------------------------------
+./run.sh: line 3: 395388 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/70.smt2 : 10129 ms.
+--------------------------------------------------
+./run.sh: line 3: 395892 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/71.smt2 : 10067 ms.
+--------------------------------------------------
+./run.sh: line 3: 396399 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/72.smt2 : 10076 ms.
+--------------------------------------------------
+./run.sh: line 3: 396856 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/73.smt2 : 10091 ms.
+--------------------------------------------------
+./run.sh: line 3: 397318 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/74.smt2 : 10196 ms.
+--------------------------------------------------
+./run.sh: line 3: 397588 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/75.smt2 : 10070 ms.
+--------------------------------------------------
+./run.sh: line 3: 398024 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/76.smt2 : 10088 ms.
+--------------------------------------------------
+./run.sh: line 3: 398929 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/77.smt2 : 10081 ms.
+--------------------------------------------------
+./run.sh: line 3: 399408 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/78.smt2 : 10098 ms.
+--------------------------------------------------
+./run.sh: line 3: 399855 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/79.smt2 : 10080 ms.
+--------------------------------------------------
+./run.sh: line 3: 400350 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/80.smt2 : 10145 ms.
+--------------------------------------------------
+./run.sh: line 3: 400846 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/81.smt2 : 10190 ms.
+--------------------------------------------------
+./run.sh: line 3: 401306 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/82.smt2 : 10174 ms.
+--------------------------------------------------
+./run.sh: line 3: 401779 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/83.smt2 : 10080 ms.
+--------------------------------------------------
+./run.sh: line 3: 402097 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/84.smt2 : 10124 ms.
+--------------------------------------------------
+./run.sh: line 3: 402554 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/85.smt2 : 10061 ms.
+--------------------------------------------------
+./run.sh: line 3: 403063 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/86.smt2 : 10146 ms.
+--------------------------------------------------
+./run.sh: line 3: 403496 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/87.smt2 : 10058 ms.
+--------------------------------------------------
+./run.sh: line 3: 403947 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/88.smt2 : 10090 ms.
+--------------------------------------------------
+./run.sh: line 3: 404390 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/89.smt2 : 10254 ms.
+--------------------------------------------------
+./run.sh: line 3: 404873 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/90.smt2 : 10220 ms.
+--------------------------------------------------
+./run.sh: line 3: 405387 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/91.smt2 : 10129 ms.
+--------------------------------------------------
+./run.sh: line 3: 405875 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/92.smt2 : 10062 ms.
+--------------------------------------------------
+./run.sh: line 3: 406362 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/93.smt2 : 10096 ms.
+--------------------------------------------------
+./run.sh: line 3: 406802 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/94.smt2 : 10122 ms.
+--------------------------------------------------
+./run.sh: line 3: 407318 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/95.smt2 : 10102 ms.
+--------------------------------------------------
+./run.sh: line 3: 407820 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/96.smt2 : 10113 ms.
+--------------------------------------------------
+./run.sh: line 3: 408087 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/97.smt2 : 10091 ms.
+--------------------------------------------------
+./run.sh: line 3: 408528 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/98.smt2 : 10099 ms.
+--------------------------------------------------
+./run.sh: line 3: 408984 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1
+../QF_NIA_split/QF_NIA_9//mcm/99.smt2 : 10109 ms.

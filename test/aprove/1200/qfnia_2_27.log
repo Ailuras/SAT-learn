@@ -1,0 +1,987 @@
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /tmp/hs_err_pid25835.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__p1730_terminationG_0.smt2 : 924 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid26409.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__p1731_terminationG_0.smt2 : 884 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__p1732_terminationG_0.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__p1735_terminationG_0.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__p1736_terminationG_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__p1737_terminationG_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__p1740_terminationG_0.smt2 : 4 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid27256.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__p1741_terminationG_0.smt2 : 513 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.lang.ref.Finalizer.<clinit>(Finalizer.java:233)
+
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__p1742_terminationG_0.smt2 : 187 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid37422.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__p1750_edge_closing_0.smt2 : 3217 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid37928.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__p1751_edge_closing_0.smt2 : 190 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid38778.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__p1752_edge_closing_0.smt2 : 242 ms.
+--------------------------------------------------
+Exception in thread "main" java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at aprove.CommandLineInterface.Generic.ProblemExecutor.start(ProblemExecutor.java:105)
+	at aprove.CommandLineInterface.Generic.GenericMain.runProblem(GenericMain.java:120)
+	at aprove.CommandLineInterface.Generic.GenericMain.doMain(GenericMain.java:35)
+	at aprove.DiophantineSolver.DiophantineMain.main(DiophantineMain.java:15)
+	at aprove.Main.main(Main.java:64)
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__p1754_edge_closing_0.smt2 : 317 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid40167.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__p1755_edge_closing_0.smt2 : 312 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid41034.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__p1756_edge_closing_0.smt2 : 228 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_18_0.smt2 : 3006 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid53062.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_19_0.smt2 : 1226 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_20_0.smt2 : 6 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid53817.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_21_0.smt2 : 227 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /tmp/hs_err_pid54370.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_22_0.smt2 : 186 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid54822.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_23_0.smt2 : 112 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid55474.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_24_0.smt2 : 297 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid56284.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_25_0.smt2 : 192 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid66575.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_26_0.smt2 : 3255 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid76596.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_27_0.smt2 : 3195 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_28_0.smt2 : 151 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid77887.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_30_0.smt2 : 151 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /tmp/hs_err_pid78356.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_31_0.smt2 : 163 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid78944.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_32_0.smt2 : 179 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /tmp/hs_err_pid79473.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_33_0.smt2 : 109 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_34_0.smt2 : 144 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid95302.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_35_0.smt2 : 7198 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid95800.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_36_0.smt2 : 153 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_37_0.smt2 : 7 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /tmp/hs_err_pid110857.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_38_0.smt2 : 8124 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid111086.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_39_0.smt2 : 154 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid111461.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_40_0.smt2 : 166 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid111673.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_4_0.smt2 : 201 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid112032.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_41_0.smt2 : 175 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /tmp/hs_err_pid112257.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_42_0.smt2 : 100 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid112474.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_43_0.smt2 : 176 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid112718.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_44_0.smt2 : 166 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /tmp/hs_err_pid113047.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_45_0.smt2 : 112 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+java.lang.OutOfMemoryError: unable to create new native thread
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_46_0.smt2 : 169 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid113594.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_47_0.smt2 : 156 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid113816.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_48_0.smt2 : 144 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid114016.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_49_0.smt2 : 197 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_50_0.smt2 : 6 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_51_0.smt2 : 6 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_52_0.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_53_0.smt2 : 5 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /tmp/hs_err_pid116314.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_54_0.smt2 : 111 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid118406.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_55_0.smt2 : 1326 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /tmp/hs_err_pid118805.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_56_0.smt2 : 125 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid119041.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_57_0.smt2 : 266 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid126115.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_58_0.smt2 : 3172 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid126335.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_59_0.smt2 : 286 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid126645.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__terminationS_60_0.smt2 : 229 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid127177.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2_fixed__term_unfeasibility_1_0.smt2 : 224 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid127431.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationQ_0_0.smt2 : 267 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_11_0.smt2 : 157 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid127896.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_18_0.smt2 : 168 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid128142.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_19_0.smt2 : 231 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid128570.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_20_0.smt2 : 174 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid134129.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_21_0.smt2 : 3171 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /tmp/hs_err_pid136177.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_22_0.smt2 : 1111 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /tmp/hs_err_pid141811.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_23_0.smt2 : 3107 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid141964.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_24_0.smt2 : 240 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid142420.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_25_0.smt2 : 317 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid144418.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_26_0.smt2 : 1237 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid146790.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_27_0.smt2 : 1136 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid147032.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_28_0.smt2 : 169 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid147247.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_29_0.smt2 : 201 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /tmp/hs_err_pid147479.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_30_0.smt2 : 118 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_31_0.smt2 : 132 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_32_0.smt2 : 139 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid148110.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_33_0.smt2 : 152 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_34_0.smt2 : 115 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_35_0.smt2 : 125 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid154345.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_36_0.smt2 : 3185 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid154770.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_37_0.smt2 : 185 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_38_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_39_0.smt2 : 4 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid155249.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_40_0.smt2 : 146 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_41_0.smt2 : 6 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_42_0.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_43_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_44_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_45_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_46_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_47_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_48_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_49_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_50_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_51_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_52_0.smt2 : 4 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid157529.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_53_0.smt2 : 1221 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_54_0.smt2 : 4 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_55_0.smt2 : 6 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid165359.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_56_0.smt2 : 222 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid167434.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_57_0.smt2 : 1204 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /tmp/hs_err_pid168028.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_58_0.smt2 : 113 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_59_0.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_60_0.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_61_0.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_62_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_63_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_64_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_65_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_66_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_67_0.smt2 : 4 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid168307.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_68_0.smt2 : 151 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_69_0.smt2 : 1144 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid170618.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_70_0.smt2 : 162 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid170850.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_71_0.smt2 : 194 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid171227.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__hqr.t2__terminationS_72_0.smt2 : 151 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__insertsort.t2_fixed__p1839_terminationG_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__insertsort.t2_fixed__p1840_terminationG_0.smt2 : 6 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__insertsort.t2_fixed__p1846_terminationG_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__insertsort.t2_fixed__p1853_terminationG_0.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+./run.sh: fork: retry: No child processes
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__insertsort.t2_fixed__p1857_terminationG_0.smt2 : 1004 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid173411.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__insertsort.t2_fixed__terminationQ_1_0.smt2 : 219 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid175112.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__insertsort.t2__p1882_terminationG_0.smt2 : 1198 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /tmp/hs_err_pid175504.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__insertsort.t2__p1883_terminationG_0.smt2 : 100 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+./run.sh: fork: retry: No child processes
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__insertsort.t2__p1893_terminationG_0.smt2 : 1106 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid177836.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__insertsort.t2__p1894_terminationG_0.smt2 : 157 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid178077.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__intSqRoot.t2__p1918_terminationG_0.smt2 : 155 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /tmp/hs_err_pid178317.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__intSqRoot.t2__p1922_terminationG_0.smt2 : 121 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid178705.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__intSqRoot.t2__p1926_edge_closing_0.smt2 : 261 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid180826.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2_fixed__p1992_terminationG_0.smt2 : 1251 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2_fixed__p1994_terminationG_0.smt2 : 5 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid181268.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2_fixed__p1996_terminationG_0.smt2 : 250 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid181526.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2_fixed__p2000_terminationG_0.smt2 : 253 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid194430.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2_fixed__p2001_terminationG_0.smt2 : 7221 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid199882.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2_fixed__p2003_terminationG_0.smt2 : 3209 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid201977.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2_fixed__p2006_edge_closing_0.smt2 : 1168 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /tmp/hs_err_pid202259.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2_fixed__p2008_edge_closing_0.smt2 : 106 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid204825.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2_fixed__p2009_edge_closing_0.smt2 : 1113 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid206977.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2_fixed__p2011_edge_closing_0.smt2 : 1245 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid207460.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2_fixed__terminationQ_1_0.smt2 : 184 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid209480.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2_fixed__terminationS_1_0.smt2 : 1219 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid209744.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2_fixed__terminationS_2_0.smt2 : 226 ms.
+--------------------------------------------------
+Error occurred during initialization of VM
+Cannot create VM thread. Out of system resources.
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2_fixed__terminationS_3_0.smt2 : 137 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid210578.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2_fixed__term_unfeasibility_0_0.smt2 : 227 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid210842.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2019_terminationG_0.smt2 : 138 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2020_terminationG_0.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2021_terminationG_0.smt2 : 5 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid216156.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2024_terminationG_0.smt2 : 3186 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid216529.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2025_terminationG_0.smt2 : 167 ms.
+--------------------------------------------------
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Cannot create GC thread. Out of system resources.
+# An error report file with more information is saved as:
+# /pub/data/vapour/SMT/test/aprove/aprove/bin/hs_err_pid216793.log
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2026_terminationG_0.smt2 : 169 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2029_terminationG_0.smt2 : 7008 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2030_terminationG_0.smt2 : 5 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2031_terminationG_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2034_terminationG_0.smt2 : 4 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2035_terminationG_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2036_terminationG_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2039_terminationG_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2040_terminationG_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2041_terminationG_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2044_terminationG_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2047_terminationG_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2051_terminationG_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2084_terminationG_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2085_terminationG_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2089_terminationG_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2094_terminationG_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2096_terminationG_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2099_terminationG_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2104_terminationG_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2106_terminationG_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2108_terminationG_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2113_terminationG_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2116_terminationG_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2117_terminationG_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2126_terminationG_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2127_terminationG_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2128_terminationG_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2132_terminationG_0.smt2 : 3 ms.
+--------------------------------------------------
+timeout: fork system call failed: Resource temporarily unavailable
+../QF_NIA_split/QF_NIA_2_27//20170427-VeryMax/ITS/From_T2__janne_complex.t2__p2135_terminationG_0.smt2 : 3 ms.
+--------------------------------------------------
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: retry: No child processes
+./run.sh: fork: Resource temporarily unavailable
