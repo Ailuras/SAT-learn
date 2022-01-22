@@ -1,0 +1,5 @@
+--------------------------------------------------
+sat
+../New_SAT_split/QF_NIA_2_53/20170427-VeryMax/SAT14/701.smt2 : 642945 ms.
+--------------------------------------------------
+./run.sh: line 3: 266075 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1 2> /dev/null

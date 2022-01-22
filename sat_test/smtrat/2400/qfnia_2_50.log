@@ -1,0 +1,20 @@
+--------------------------------------------------
+sat
+../New_SAT_split/QF_NIA_2_50/20170427-VeryMax/ITS/From_T2__small10.t2__p23639_terminationG_0.smt2 : 11804 ms.
+--------------------------------------------------
+sat
+../New_SAT_split/QF_NIA_2_50/20170427-VeryMax/ITS/From_T2__small14.t2__p23675_terminationG_0.smt2 : 14015 ms.
+--------------------------------------------------
+sat
+../New_SAT_split/QF_NIA_2_50/20170427-VeryMax/ITS/From_T2__small14.t2__p23676_terminationG_0.smt2 : 112203 ms.
+--------------------------------------------------
+sat
+../New_SAT_split/QF_NIA_2_50/20170427-VeryMax/ITS/From_T2__small15.t2__p23717_terminationG_0.smt2 : 2374 ms.
+--------------------------------------------------
+sat
+../New_SAT_split/QF_NIA_2_50/20170427-VeryMax/ITS/From_T2__small15.t2__p23732_terminationG_0.smt2 : 3251 ms.
+--------------------------------------------------
+sat
+../New_SAT_split/QF_NIA_2_50/20170427-VeryMax/ITS/From_T2__small15.t2__p23737_terminationG_0.smt2 : 7070 ms.
+--------------------------------------------------
+./run.sh: line 3: 254542 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1 2> /dev/null

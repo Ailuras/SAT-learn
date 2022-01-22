@@ -1,0 +1,8 @@
+--------------------------------------------------
+sat
+../New_SAT_split/QF_NIA_6/LassoRanker/Et4_false-termination.c_Iteration1_Lasso+nonterminationTemplate_0.smt2 : 2089 ms.
+--------------------------------------------------
+sat
+../New_SAT_split/QF_NIA_6/LassoRanker/Et4_false-termination.c_Iteration1_Loop+nonterminationTemplate_0.smt2 : 2311 ms.
+--------------------------------------------------
+./run.sh: line 3: 249341 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1 2> /dev/null

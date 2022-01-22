@@ -1,0 +1,11 @@
+--------------------------------------------------
+sat
+../New_SAT_split/QF_NIA_2_44/20170427-VeryMax/ITS/From_AProVE_2014__Test11.jar-obl-8__p12654_terminationG_0.smt2 : 171666 ms.
+--------------------------------------------------
+sat
+../New_SAT_split/QF_NIA_2_44/20170427-VeryMax/ITS/From_AProVE_2014__Test11.jar-obl-8__p12655_terminationG_0.smt2 : 593367 ms.
+--------------------------------------------------
+sat
+../New_SAT_split/QF_NIA_2_44/20170427-VeryMax/ITS/From_AProVE_2014__Test12.jar-obl-8__p12664_terminationG_0.smt2 : 74692 ms.
+--------------------------------------------------
+./run.sh: line 3: 267031 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1 2> /dev/null

@@ -1,0 +1,2 @@
+--------------------------------------------------
+./run.sh: line 3: 249031 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1 2> /dev/null
