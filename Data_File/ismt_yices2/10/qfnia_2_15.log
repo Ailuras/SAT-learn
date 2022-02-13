@@ -2776,18 +2776,12 @@ final yices2: sat
 ../../QF_NIA_split/QF_NIA_2_15//20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p9267_safety_0.smt2 : 3021 ms.
 --------------------------------------------------
 First to ismt, cur time 0 ismt: sat (2 bits).
-../../QF_NIA_sfinal yices2: sat
-../../QF_NIA_split/QF_NIA_2_15//20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p9268_safety_0.smt2 : 11017 ms.
-------------------------------------------------Final to yices2, cur time 120 s.
 final yices2: sat
-../../QF_NIAfinal yices2: sat
+../../QF_NIA_split/QF_NIA_2_15//20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p9268_safety_0.smt2 : 11017 ms.
+------------------------------------------------
+Final to yices2, cur time 120 s.
+final yices2: sat
 ../../QF_NIA_split/QF_NIA_2_15//20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p9269_safety_0.smt2 : 138215 ms.
---------------------------------------------------ismt: sat (4 bits).
-../../QF_NIA_split/QF_NIA_2_15//20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p9313_safety_0.smt2 : 60545 ms.
---------------------------------------------------
-First to ismt, cur time 0 s.
-ismt: sat (2 bits).
-../../QF_NIA_split/QF_NIA_2_15//20170427-VeryMax/ITS/From_AProVE_2014../../QF_NIA_split/QF_NIA_2_15//20170427-VeryMax/ITS/From_AProVE_2014__juLinkedListCreateAddAllAt.jar-obl-17__p9271_safety_0.smt2 : 1200026 ms.
 --------------------------------------------------
 First to ismt, cur time 0 s.
 Final to yices2, cur time 0 s.
