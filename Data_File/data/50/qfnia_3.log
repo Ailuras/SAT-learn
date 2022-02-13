@@ -1,0 +1,2040 @@
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 600 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/25_stack_longer-1-O0.smt2 : 1200054 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 600 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/25_stack_longer-2-O0.smt2 : 1200053 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 601 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/25_stack_longest-1-O0.smt2 : 1200055 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 592 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/25_stack_longest-2-O0.smt2 : 1200050 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 601 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/26_stack_cas_longer-1-O0.smt2 : 1200040 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 600 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/26_stack_cas_longer-2-O0.smt2 : 1200041 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 601 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/26_stack_cas_longest-1-O0.smt2 : 1200055 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 569 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/26_stack_cas_longest-2-O0.smt2 : 1200053 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 5 s.
+final yices2: sat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/28-race_reach_45-escape_racing-O0.smt2 : 1067538 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 5 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/28-race_reach_46-escape_racefree-O0.smt2 : 1200055 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 8 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/36_stack_cas_p0_vs_concur-O0.smt2 : 1200054 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 9 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/37_stack_lock_p0_vs_concur-O0.smt2 : 1200036 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 13 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/pthread-demo-datarace-1-O0.smt2 : 24356 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 48 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/pthread-demo-datarace-2-O0.smt2 : 107332 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 6 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/race-2_1-container_of-O0.smt2 : 1200047 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 6 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/race-2_2-container_of-O0.smt2 : 1200043 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 7 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/race-2_3-container_of-O0.smt2 : 1200050 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 8 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/race-2_4-container_of-O0.smt2 : 1200056 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 8 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/race-2_5-container_of-O0.smt2 : 1200043 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 7 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/race-3_1-container_of-global-O0.smt2 : 1200059 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 7 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/race-3_2-container_of-global-O0.smt2 : 1200040 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 601 s.
+unknown
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/scull-O0.smt2 : 1199967 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 600 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/singleton-O0.smt2 : 1200059 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 526 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ConcurrencySafety-Main/singleton_with-uninit-problems-O0.smt2 : 528768 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 620 s.
+Out of memory
+unknown
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array_1-1-O0.smt2 : 888102 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 621 s.
+Out of memory
+unknown
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array_1-2-O0.smt2 : 894688 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 601 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array-1-O0.smt2 : 1200038 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 620 s.
+Out of memory
+unknown
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array_2-1-O0.smt2 : 902810 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 625 s.
+Out of memory
+unknown
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array_2-2-O0.smt2 : 902050 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+ismt: sat (4 bits).
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array-2-O0.smt2 : 190522 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+Final to yices2, cur time 602 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array_3-1-O0.smt2 : 1200053 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+Final to yices2, cur time 602 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array_3-2-O0.smt2 : 1200049 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+Final to yices2, cur time 601 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/array_4-O0.smt2 : 1200041 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 124 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/benchmark52_polynomial-O0.smt2 : 1200050 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 293 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll-O0.smt2 : 831793 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 151 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_unwindbound100-O0.smt2 : 618611 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 159 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_unwindbound10-O0.smt2 : 647567 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 162 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_unwindbound1-O0.smt2 : 648226 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 161 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_unwindbound20-O0.smt2 : 651412 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 162 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_unwindbound2-O0.smt2 : 651194 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 158 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_unwindbound50-O0.smt2 : 642973 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 155 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_unwindbound5-O0.smt2 : 632681 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 29 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_valuebound100-O0.smt2 : 179487 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 27 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_valuebound10-O0.smt2 : 181204 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 26 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_valuebound1-O0.smt2 : 184618 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 26 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_valuebound20-O0.smt2 : 185383 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 26 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_valuebound2-O0.smt2 : 180228 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 26 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_valuebound50-O0.smt2 : 179089 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 26 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/bresenham-ll_valuebound5-O0.smt2 : 179743 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+c found falsified original clause
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+unexpected error after calling ismt!
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll-O0.smt2 : 15467 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 44 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_unwindbound100-O0.smt2 : 372192 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 44 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_unwindbound10-O0.smt2 : 370403 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 46 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_unwindbound1-O0.smt2 : 375399 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 45 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_unwindbound20-O0.smt2 : 374257 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 45 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_unwindbound2-O0.smt2 : 370269 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 46 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_unwindbound50-O0.smt2 : 376226 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 43 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_unwindbound5-O0.smt2 : 374214 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 24 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_valuebound100-O0.smt2 : 168759 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 22 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_valuebound10-O0.smt2 : 163727 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 23 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_valuebound1-O0.smt2 : 160842 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 23 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_valuebound20-O0.smt2 : 163137 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 22 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_valuebound2-O0.smt2 : 160985 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 25 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_valuebound50-O0.smt2 : 155647 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 23 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohencu-ll_valuebound5-O0.smt2 : 162268 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 32 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll-O0.smt2 : 220143 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 32 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_unwindbound100-O0.smt2 : 223129 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 31 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_unwindbound10-O0.smt2 : 220793 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 31 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_unwindbound1-O0.smt2 : 192935 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 34 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_unwindbound20-O0.smt2 : 230296 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 32 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_unwindbound2-O0.smt2 : 227086 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 31 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_unwindbound50-O0.smt2 : 221930 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 29 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_unwindbound5-O0.smt2 : 245858 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 27 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_valuebound100-O0.smt2 : 263175 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 30 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_valuebound10-O0.smt2 : 250132 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 24 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_valuebound1-O0.smt2 : 220746 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 27 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_valuebound20-O0.smt2 : 237862 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 27 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_valuebound2-O0.smt2 : 244946 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 32 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_valuebound50-O0.smt2 : 352376 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 35 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/cohendiv-ll_valuebound5-O0.smt2 : 254121 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 268 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll-O0.smt2 : 414663 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 282 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_unwindbound100-O0.smt2 : 440829 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 307 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_unwindbound10-O0.smt2 : 474712 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 67 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_unwindbound1-O0.smt2 : 225742 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 406 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_unwindbound20-O0.smt2 : 589179 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 417 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_unwindbound2-O0.smt2 : 589685 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 429 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_unwindbound50-O0.smt2 : 613525 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 600 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_unwindbound5-O0.smt2 : 891641 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 98 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_valuebound100-O0.smt2 : 302015 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 66 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_valuebound10-O0.smt2 : 264262 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 66 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_valuebound1-O0.smt2 : 261551 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 72 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_valuebound20-O0.smt2 : 254917 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 40 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_valuebound2-O0.smt2 : 234025 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 66 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_valuebound50-O0.smt2 : 275506 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 54 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd2-ll_valuebound5-O0.smt2 : 255204 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 37 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll-O0.smt2 : 236313 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 47 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_unwindbound100-O0.smt2 : 220901 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 44 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_unwindbound10-O0.smt2 : 218849 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 38 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_unwindbound1-O0.smt2 : 150952 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 49 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_unwindbound20-O0.smt2 : 267723 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 50 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_unwindbound2-O0.smt2 : 178661 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 45 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_unwindbound50-O0.smt2 : 229679 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 40 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_unwindbound5-O0.smt2 : 172250 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 31 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_valuebound100-O0.smt2 : 244688 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 41 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_valuebound10-O0.smt2 : 216042 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 33 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_valuebound1-O0.smt2 : 176119 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 45 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_valuebound20-O0.smt2 : 268251 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 37 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_valuebound2-O0.smt2 : 200023 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 39 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_valuebound50-O0.smt2 : 212307 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 44 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd3-ll_valuebound5-O0.smt2 : 217300 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 63 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll-O0.smt2 : 217828 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 53 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_unwindbound100-O0.smt2 : 192922 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 52 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_unwindbound10-O0.smt2 : 194445 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 71 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_unwindbound1-O0.smt2 : 219960 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 68 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_unwindbound20-O0.smt2 : 221346 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 55 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_unwindbound2-O0.smt2 : 224383 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 71 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_unwindbound50-O0.smt2 : 211969 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 66 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_unwindbound5-O0.smt2 : 219026 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 66 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_valuebound100-O0.smt2 : 252272 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 58 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_valuebound10-O0.smt2 : 304623 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 56 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_valuebound1-O0.smt2 : 242473 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 60 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_valuebound20-O0.smt2 : 252194 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 66 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_valuebound2-O0.smt2 : 309281 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 58 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_valuebound50-O0.smt2 : 232404 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 50 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/egcd-ll_valuebound5-O0.smt2 : 338974 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 43 s.
+timeout: the monitored command dumped core
+unknown
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/eureka_01-1-O0.smt2 : 95374 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 49 s.
+timeout: the monitored command dumped core
+unknown
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/eureka_01-2-O0.smt2 : 113655 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 16 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/eureka_05-O0.smt2 : 37351 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 226 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/gauss_sum.i.p+cfa-reducer-O0.smt2 : 1200055 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 190 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/gauss_sum.i.p+lhb-reducer-O0.smt2 : 1155049 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 230 s.
+unknown
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/gauss_sum.i.v+cfa-reducer-O0.smt2 : 1199635 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 49 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/gauss_sum-O0.smt2 : 214868 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 43 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll-O0.smt2 : 154462 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 33 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_unwindbound100-O0.smt2 : 188674 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 37 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_unwindbound10-O0.smt2 : 201360 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 35 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_unwindbound1-O0.smt2 : 184319 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 35 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_unwindbound20-O0.smt2 : 187853 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 38 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_unwindbound2-O0.smt2 : 203830 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 28 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_unwindbound50-O0.smt2 : 176325 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 39 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_unwindbound5-O0.smt2 : 163076 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 58 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_valuebound100-O0.smt2 : 204862 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 71 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_valuebound10-O0.smt2 : 221140 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 27 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_valuebound1-O0.smt2 : 195246 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 33 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_valuebound20-O0.smt2 : 161886 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 32 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_valuebound2-O0.smt2 : 175045 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 28 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_valuebound50-O0.smt2 : 181520 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 65 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-ll_valuebound5-O0.smt2 : 266188 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 145 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u-O0.smt2 : 445256 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 162 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_unwindbound100-O0.smt2 : 518025 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 159 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_unwindbound10-O0.smt2 : 456703 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 34 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_unwindbound1-O0.smt2 : 309236 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 48 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_unwindbound20-O0.smt2 : 351301 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 58 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_unwindbound2-O0.smt2 : 350833 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 63 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_unwindbound50-O0.smt2 : 347456 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 195 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_unwindbound5-O0.smt2 : 461739 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 27 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_valuebound100-O0.smt2 : 154553 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 20 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_valuebound10-O0.smt2 : 121452 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 22 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_valuebound1-O0.smt2 : 126277 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 16 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_valuebound20-O0.smt2 : 109823 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 20 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_valuebound2-O0.smt2 : 142110 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 25 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_valuebound50-O0.smt2 : 161516 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 24 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo1-u_valuebound5-O0.smt2 : 188821 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 48 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll-O0.smt2 : 527177 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 110 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_unwindbound100-O0.smt2 : 508977 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 169 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_unwindbound10-O0.smt2 : 575036 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 168 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_unwindbound1-O0.smt2 : 665368 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 184 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_unwindbound20-O0.smt2 : 657792 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 139 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_unwindbound2-O0.smt2 : 553376 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 65 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_unwindbound50-O0.smt2 : 512123 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 103 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_unwindbound5-O0.smt2 : 545646 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 48 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_valuebound100-O0.smt2 : 238504 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 96 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_valuebound10-O0.smt2 : 283838 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 72 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_valuebound1-O0.smt2 : 274621 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 37 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_valuebound20-O0.smt2 : 213175 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 36 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_valuebound2-O0.smt2 : 171561 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 37 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_valuebound50-O0.smt2 : 198929 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 38 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo2-ll_valuebound5-O0.smt2 : 229709 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 604 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll-O0.smt2 : 1200034 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 601 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_unwindbound100-O0.smt2 : 1107684 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 601 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_unwindbound10-O0.smt2 : 1024308 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 601 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_unwindbound1-O0.smt2 : 1183613 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 601 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_unwindbound20-O0.smt2 : 1200055 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 601 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_unwindbound2-O0.smt2 : 1049251 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 600 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_unwindbound50-O0.smt2 : 1049414 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 614 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_unwindbound5-O0.smt2 : 1172626 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 607 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_valuebound100-O0.smt2 : 876221 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 74 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_valuebound10-O0.smt2 : 291331 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 69 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_valuebound1-O0.smt2 : 315065 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 122 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_valuebound20-O0.smt2 : 312792 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 65 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_valuebound2-O0.smt2 : 246370 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 457 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_valuebound50-O0.smt2 : 612506 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 23 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/geo3-ll_valuebound5-O0.smt2 : 143755 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 7 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/half_2-O0.smt2 : 611273 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 11 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2-O0.smt2 : 1208304 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 62 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound100-O0.smt2 : 1207202 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 10 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound10-O0.smt2 : 1200062 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+ismt: sat (4 bits).
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound1-O0.smt2 : 40548 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 10 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound20-O0.smt2 : 1201075 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+ismt: sat (4 bits).
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound2-O0.smt2 : 44217 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 10 s.
+unknown
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound50-O0.smt2 : 1199716 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 12 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_unwindbound5-O0.smt2 : 1200043 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 6 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_valuebound100-O0.smt2 : 1200069 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 23 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_valuebound10-O0.smt2 : 1200054 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 96 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_valuebound1-O0.smt2 : 277773 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 10 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_valuebound20-O0.smt2 : 1200049 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 12 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_valuebound2-O0.smt2 : 1162433 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 7 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_valuebound50-O0.smt2 : 1202646 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 39 s.
+unknown
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard2_valuebound5-O0.smt2 : 1200019 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 8 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll-O0.smt2 : 1200058 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 10 s.
+unknown
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound100-O0.smt2 : 1200013 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 10 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound10-O0.smt2 : 1200038 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+ismt: sat (4 bits).
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound1-O0.smt2 : 29343 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 10 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound20-O0.smt2 : 1200043 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+ismt: sat (8 bits).
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound2-O0.smt2 : 61476 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 9 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound50-O0.smt2 : 1200025 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 9 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_unwindbound5-O0.smt2 : 1200046 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 10 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_valuebound100-O0.smt2 : 1200047 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 8 s.
+unknown
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_valuebound10-O0.smt2 : 1199858 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 114 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_valuebound1-O0.smt2 : 366529 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 8 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_valuebound20-O0.smt2 : 1200055 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 111 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_valuebound2-O0.smt2 : 488952 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 11 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_valuebound50-O0.smt2 : 1200060 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+timeout: the monitored command dumped core
+Final to yices2, cur time 13 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/hard-ll_valuebound5-O0.smt2 : 1200061 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 601 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/heapsort-O0.smt2 : 1201645 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+ismt: sat (4 bits).
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/id_trans-O0.smt2 : 12003 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+ismt: sat (8 bits).
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/invert_string-1-O0.smt2 : 235515 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 600 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1-O0.smt2 : 773695 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 619 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_unwindbound100-O0.smt2 : 788178 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 606 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_unwindbound10-O0.smt2 : 737432 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 600 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_unwindbound1-O0.smt2 : 683113 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 600 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_unwindbound20-O0.smt2 : 692836 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 601 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_unwindbound2-O0.smt2 : 709138 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 600 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_unwindbound50-O0.smt2 : 694529 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 600 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_unwindbound5-O0.smt2 : 691380 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 367 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_valuebound100-O0.smt2 : 494140 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 61 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_valuebound10-O0.smt2 : 245659 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 34 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_valuebound1-O0.smt2 : 148003 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 106 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_valuebound20-O0.smt2 : 249773 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 84 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_valuebound2-O0.smt2 : 235355 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 361 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_valuebound50-O0.smt2 : 529354 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 37 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm1_valuebound5-O0.smt2 : 186283 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 600 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2-O0.smt2 : 734670 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 600 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_unwindbound100-O0.smt2 : 688672 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 600 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_unwindbound10-O0.smt2 : 721071 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 600 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_unwindbound1-O0.smt2 : 688157 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 600 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_unwindbound20-O0.smt2 : 745927 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 600 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_unwindbound2-O0.smt2 : 724402 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 606 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_unwindbound50-O0.smt2 : 709884 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 609 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_unwindbound5-O0.smt2 : 722918 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 289 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_valuebound100-O0.smt2 : 411298 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 38 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_valuebound10-O0.smt2 : 195378 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 34 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_valuebound1-O0.smt2 : 148120 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 52 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_valuebound20-O0.smt2 : 160751 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 32 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_valuebound2-O0.smt2 : 187507 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 162 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_valuebound50-O0.smt2 : 265855 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 36 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/lcm2_valuebound5-O0.smt2 : 197441 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 476 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/loopv3-O0.smt2 : 1110447 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 62 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv-O0.smt2 : 356442 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 142 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_unwindbound100-O0.smt2 : 354286 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 23 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_unwindbound10-O0.smt2 : 154257 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 19 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_unwindbound1-O0.smt2 : 140656 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 17 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_unwindbound20-O0.smt2 : 144931 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 17 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_unwindbound2-O0.smt2 : 139329 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 18 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_unwindbound50-O0.smt2 : 142881 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 40 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_unwindbound5-O0.smt2 : 195369 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 31 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_valuebound100-O0.smt2 : 235758 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 66 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_valuebound10-O0.smt2 : 250899 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 36 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_valuebound1-O0.smt2 : 228443 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 30 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_valuebound20-O0.smt2 : 213243 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 30 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_valuebound2-O0.smt2 : 214981 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 49 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_valuebound50-O0.smt2 : 250881 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 31 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/mannadiv_valuebound5-O0.smt2 : 224286 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 603 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/matrix-1-O0.smt2 : 608299 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 601 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/matrix-2-O0.smt2 : 1200041 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 166 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/n.c11-O0.smt2 : 865740 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 604 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/n.c40-O0.smt2 : 1220783 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+ismt: sat (2 bits).
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/nec11-O0.smt2 : 68756 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 600 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/nec40-O0.smt2 : 1200046 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 35 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll-O0.smt2 : 35700 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 43 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_unwindbound100-O0.smt2 : 438583 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 43 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_unwindbound10-O0.smt2 : 420869 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 78 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_unwindbound1-O0.smt2 : 398126 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 51 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_unwindbound20-O0.smt2 : 305544 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 42 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_unwindbound2-O0.smt2 : 334074 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 39 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_unwindbound50-O0.smt2 : 274450 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 52 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_unwindbound5-O0.smt2 : 310126 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 29 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_valuebound100-O0.smt2 : 134240 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 19 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_valuebound10-O0.smt2 : 140444 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 19 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_valuebound1-O0.smt2 : 155086 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 68 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_valuebound20-O0.smt2 : 189081 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 21 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_valuebound2-O0.smt2 : 125277 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 78 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_valuebound50-O0.smt2 : 167841 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 19 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps2-ll_valuebound5-O0.smt2 : 109962 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 42 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll-O0.smt2 : 43164 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 42 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_unwindbound100-O0.smt2 : 295812 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 43 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_unwindbound10-O0.smt2 : 269455 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 39 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_unwindbound1-O0.smt2 : 253761 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 49 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_unwindbound20-O0.smt2 : 273538 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 47 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_unwindbound2-O0.smt2 : 291451 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 41 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_unwindbound50-O0.smt2 : 267993 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 40 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_unwindbound5-O0.smt2 : 276975 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 14 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_valuebound100-O0.smt2 : 83004 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 15 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_valuebound10-O0.smt2 : 72101 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 15 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_valuebound1-O0.smt2 : 74872 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 14 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_valuebound20-O0.smt2 : 72903 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 15 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_valuebound2-O0.smt2 : 74717 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 14 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_valuebound50-O0.smt2 : 74880 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 14 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps3-ll_valuebound5-O0.smt2 : 77033 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 40 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll-O0.smt2 : 311520 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 44 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_unwindbound100-O0.smt2 : 397627 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 49 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_unwindbound10-O0.smt2 : 526005 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 50 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_unwindbound1-O0.smt2 : 408766 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 49 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_unwindbound20-O0.smt2 : 430466 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 37 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_unwindbound2-O0.smt2 : 400842 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 52 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_unwindbound50-O0.smt2 : 417347 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 40 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_unwindbound5-O0.smt2 : 390345 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 36 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_valuebound100-O0.smt2 : 124536 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 43 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_valuebound10-O0.smt2 : 174371 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 35 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_valuebound1-O0.smt2 : 130682 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 35 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_valuebound20-O0.smt2 : 129018 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 36 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_valuebound2-O0.smt2 : 141547 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 38 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_valuebound50-O0.smt2 : 161158 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 34 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps4-ll_valuebound5-O0.smt2 : 166925 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 32 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll-O0.smt2 : 167352 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 34 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_unwindbound100-O0.smt2 : 202898 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 35 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_unwindbound10-O0.smt2 : 182339 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 29 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_unwindbound1-O0.smt2 : 176846 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 36 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_unwindbound20-O0.smt2 : 146516 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 30 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_unwindbound2-O0.smt2 : 140495 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 35 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_unwindbound50-O0.smt2 : 143134 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 38 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_unwindbound5-O0.smt2 : 153324 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 51 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_valuebound100-O0.smt2 : 150222 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 43 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_valuebound10-O0.smt2 : 133333 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 43 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_valuebound1-O0.smt2 : 133801 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 47 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_valuebound20-O0.smt2 : 138479 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 43 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_valuebound2-O0.smt2 : 181275 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 42 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_valuebound50-O0.smt2 : 128430 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 42 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps5-ll_valuebound5-O0.smt2 : 145580 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 43 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll-O0.smt2 : 149834 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 32 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_unwindbound100-O0.smt2 : 116320 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 44 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_unwindbound10-O0.smt2 : 124629 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 67 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_unwindbound1-O0.smt2 : 178344 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 35 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_unwindbound20-O0.smt2 : 156124 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 38 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_unwindbound2-O0.smt2 : 109249 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 50 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_unwindbound50-O0.smt2 : 149541 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 28 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_unwindbound5-O0.smt2 : 115366 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 39 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_valuebound100-O0.smt2 : 130730 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 47 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_valuebound10-O0.smt2 : 171535 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 99 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_valuebound1-O0.smt2 : 231647 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 93 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_valuebound20-O0.smt2 : 232874 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 161 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_valuebound2-O0.smt2 : 294718 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 67 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_valuebound50-O0.smt2 : 177177 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 107 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/ps6-ll_valuebound5-O0.smt2 : 249219 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 49 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll-O0.smt2 : 502280 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 59 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_unwindbound100-O0.smt2 : 460537 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 41 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_unwindbound10-O0.smt2 : 391063 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 47 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_unwindbound1-O0.smt2 : 375863 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 42 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_unwindbound20-O0.smt2 : 395336 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 43 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_unwindbound2-O0.smt2 : 383547 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 46 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_unwindbound50-O0.smt2 : 381973 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 50 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_unwindbound5-O0.smt2 : 395450 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 28 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_valuebound100-O0.smt2 : 195252 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 21 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_valuebound10-O0.smt2 : 149216 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 22 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_valuebound1-O0.smt2 : 136741 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 23 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_valuebound20-O0.smt2 : 160756 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 26 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_valuebound2-O0.smt2 : 164744 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 31 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_valuebound50-O0.smt2 : 163095 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 101 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sqrt1-ll_valuebound5-O0.smt2 : 256348 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+c found falsified original clause
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+unexpected error after calling ismt!
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/string-1-O0.smt2 : 12888 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 600 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/sum_natnum-O0.smt2 : 769192 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 601 s.
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/veris.c_NetBSD-libc_loop-O0.smt2 : 1200076 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+Final to yices2, cur time 129 s.
+final yices2: unsat
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/veris.c_sendmail_tTflag_arr_one_loop-O0.smt2 : 130403 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+ismt: sat (8 bits).
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/verisec_NetBSD-libc_loop-O0.smt2 : 70809 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+c found falsified original clause
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+unexpected error after calling ismt!
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/vogal-1-O0.smt2 : 47072 ms.
+--------------------------------------------------
+First to ismt, cur time 0 s.
+c found falsified original clause
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+unexpected error after calling ismt!
+../../QF_NIA_split/QF_NIA_3//20210219-Dartagnan/ReachSafety-Loops/vogal-2-O0.smt2 : 64440 ms.
