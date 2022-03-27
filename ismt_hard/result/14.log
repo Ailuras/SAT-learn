@@ -3040,3 +3040,1071 @@ hardSample/From_AProVE_2014__Matrix.jar-obl-16__p10851_edge_closing_0.smt2 : 120
 --------------------------------------------------
 Number of variables: 1956268
 Number of clauses: 11257242
+hardSample/From_AProVE_2014__Matrix.jar-obl-16__p10854_edge_closing_0.smt2 : 1200182 ms.
+--------------------------------------------------
+Number of variables: 687929
+Number of clauses: 3972135
+hardSample/From_AProVE_2014__mirrorInterv_rec.jar-obl-8__p10917_terminationG_0.smt2 : 1200117 ms.
+--------------------------------------------------
+Number of variables: 400328
+Number of clauses: 2315128
+hardSample/From_AProVE_2014__mirrorInterv_rec.jar-obl-8__p10936_terminationG_0.smt2 : 1200058 ms.
+--------------------------------------------------
+Number of variables: 283082
+Number of clauses: 1629251
+unsat in 14 bits.
+hardSample/From_AProVE_2014__Test13Loops.jar-obl-10__p12698_edge_closing_0.smt2 : 1927 ms.
+--------------------------------------------------
+Number of variables: 463383
+Number of clauses: 2674091
+unsat in 14 bits.
+hardSample/From_AProVE_2014__Test13Loops.jar-obl-10__p12699_edge_closing_0.smt2 : 3362 ms.
+--------------------------------------------------
+Number of variables: 249242
+Number of clauses: 1434009
+unsat in 14 bits.
+hardSample/From_AProVE_2014__Test13Loops.jar-obl-10__p12704_edge_closing_0.smt2 : 1605 ms.
+--------------------------------------------------
+Number of variables: 413369
+Number of clauses: 2385419
+unsat in 14 bits.
+hardSample/From_AProVE_2014__Test13Loops.jar-obl-10__p12705_edge_closing_0.smt2 : 3443 ms.
+--------------------------------------------------
+Number of variables: 424844
+Number of clauses: 2453702
+unsat in 14 bits.
+hardSample/From_AProVE_2014__Test13Loops.jar-obl-10__p12717_edge_closing_0.smt2 : 3453 ms.
+--------------------------------------------------
+Number of variables: 12189725
+Number of clauses: 70200499
+hardSample/From_AProVE_2014__Test4.jar-obl-10__p12832_terminationG_0.smt2 : 1200886 ms.
+--------------------------------------------------
+Number of variables: 557918
+Number of clauses: 3233320
+unsat in 14 bits.
+hardSample/From_AProVE_2014__TriTas.jar-obl-12__p13048_edge_closing_0.smt2 : 4114 ms.
+--------------------------------------------------
+Number of variables: 676609
+Number of clauses: 3904295
+sat
+real sat
+hardSample/From_AProVE_2014__upAndDown_rec.jar-obl-8__p13138_terminationG_0.smt2 : 67700 ms.
+--------------------------------------------------
+Number of variables: 456556
+Number of clauses: 2638097
+hardSample/From_AProVE_2014__upAndDown_rec.jar-obl-8__p13167_edge_closing_0.smt2 : 1200064 ms.
+--------------------------------------------------
+Number of variables: 230493
+Number of clauses: 1334353
+unsat in 14 bits.
+hardSample/From_AProVE_2014__Velroyen08-ex04.jar-obl-8__p13663_edge_closing_0.smt2 : 1682 ms.
+--------------------------------------------------
+Number of variables: 687929
+Number of clauses: 3972135
+hardSample/From_AProVE_2014__Velroyen08-mirrorInterv.jar-obl-8__p14260_terminationG_0.smt2 : 1200087 ms.
+--------------------------------------------------
+Number of variables: 400328
+Number of clauses: 2315128
+hardSample/From_AProVE_2014__Velroyen08-mirrorInterv.jar-obl-8__p14279_terminationG_0.smt2 : 1200054 ms.
+--------------------------------------------------
+Number of variables: 1315703
+Number of clauses: 7601607
+hardSample/From_AProVE_2014__Velroyen08-narrowing.jar-obl-8__p14381_terminationG_0.smt2 : 1200123 ms.
+--------------------------------------------------
+Number of variables: 530430
+Number of clauses: 3085449
+unsat in 14 bits.
+hardSample/From_T2__afagp-fail.t2_fixed__p15445_edge_closing_0.smt2 : 5019 ms.
+--------------------------------------------------
+Number of variables: 1586335
+Number of clauses: 9335702
+unsat in 14 bits.
+hardSample/From_T2__afagp-fail.t2__p15515_edge_closing_0.smt2 : 12766 ms.
+--------------------------------------------------
+Number of variables: 2308341
+Number of clauses: 13552959
+unsat in 14 bits.
+hardSample/From_T2__afagp-fail.t2__p15516_edge_closing_0.smt2 : 18423 ms.
+--------------------------------------------------
+hardSample/From_T2__apchild-accepted-fail.t2_fixed__p15901_edge_closing_0.smt2 : 1215219 ms.
+--------------------------------------------------
+hardSample/From_T2__apchild-accepted-fail.t2_fixed__p15904_edge_closing_0.smt2 : 1213604 ms.
+--------------------------------------------------
+Number of variables: 16456205
+Number of clauses: 95057665
+hardSample/From_T2__apchild-accepted-fail.t2__p15979_terminationG_0.smt2 : 1201696 ms.
+--------------------------------------------------
+Number of variables: 16461360
+Number of clauses: 95089197
+hardSample/From_T2__apchild-accepted-fail.t2__p16001_terminationG_0.smt2 : 1201704 ms.
+--------------------------------------------------
+hardSample/From_T2__apchild-accepted.t2_fixed__p16179_edge_closing_0.smt2 : 1218809 ms.
+--------------------------------------------------
+hardSample/From_T2__apchild-accepted.t2_fixed__p16182_edge_closing_0.smt2 : 1217213 ms.
+--------------------------------------------------
+Number of variables: 16504120
+Number of clauses: 95362728
+hardSample/From_T2__apchild-accepted.t2__p16332_terminationG_0.smt2 : 1201534 ms.
+--------------------------------------------------
+Number of variables: 39342217
+Number of clauses: 229635662
+hardSample/From_T2__apchildlive-succeed.t2_fixed__p16397_edge_closing_0.smt2 : 1204609 ms.
+--------------------------------------------------
+Number of variables: 55589164
+Number of clauses: 325378507
+hardSample/From_T2__apchildlive-succeed.t2_fixed__p16400_edge_closing_0.smt2 : 1209308 ms.
+--------------------------------------------------
+Number of variables: 70453136
+Number of clauses: 411494498
+hardSample/From_T2__apchildlive-succeed.t2_fixed__p16401_edge_closing_0.smt2 : 1209532 ms.
+--------------------------------------------------
+Number of variables: 59681509
+Number of clauses: 349337538
+hardSample/From_T2__apchildlive-succeed.t2__p16459_edge_closing_0.smt2 : 1207962 ms.
+--------------------------------------------------
+Number of variables: 81925
+Number of clauses: 470538
+hardSample/From_T2__compress.t2_fixed__p17776_terminationG_0.smt2 : 1200020 ms.
+--------------------------------------------------
+Number of variables: 144349
+Number of clauses: 831789
+hardSample/From_T2__compress.t2_fixed__p17777_terminationG_0.smt2 : 1200050 ms.
+--------------------------------------------------
+Number of variables: 83891
+Number of clauses: 482769
+hardSample/From_T2__compress.t2_fixed__p17784_terminationG_0.smt2 : 1200024 ms.
+--------------------------------------------------
+Number of variables: 146331
+Number of clauses: 844148
+hardSample/From_T2__compress.t2_fixed__p17785_terminationG_0.smt2 : 1200035 ms.
+--------------------------------------------------
+Number of variables: 91100
+Number of clauses: 524964
+sat
+real sat
+hardSample/From_T2__consts2nt.t2_fixed__p18000_terminationG_0.smt2 : 8913 ms.
+--------------------------------------------------
+Number of variables: 93100
+Number of clauses: 537448
+sat
+real sat
+hardSample/From_T2__consts2nt.t2_fixed__p18005_terminationG_0.smt2 : 2014 ms.
+--------------------------------------------------
+Number of variables: 92410
+Number of clauses: 533504
+sat
+real sat
+hardSample/From_T2__consts4nt.t2_fixed__p18221_terminationG_0.smt2 : 9993 ms.
+--------------------------------------------------
+Number of variables: 96380
+Number of clauses: 557629
+sat
+real sat
+hardSample/From_T2__consts4nt.t2_fixed__p18226_terminationG_0.smt2 : 25481 ms.
+--------------------------------------------------
+Number of variables: 96260
+Number of clauses: 556789
+sat
+real sat
+hardSample/From_T2__consts4nt.t2_fixed__p18233_terminationG_0.smt2 : 91605 ms.
+--------------------------------------------------
+Number of variables: 95560
+Number of clauses: 551849
+sat
+real sat
+hardSample/From_T2__consts4nt.t2_fixed__p18242_terminationG_0.smt2 : 24427 ms.
+--------------------------------------------------
+Number of variables: 95540
+Number of clauses: 551539
+sat
+real sat
+hardSample/From_T2__consts4nt.t2_fixed__p18247_terminationG_0.smt2 : 87569 ms.
+--------------------------------------------------
+Number of variables: 95210
+Number of clauses: 549769
+sat
+real sat
+hardSample/From_T2__consts4nt.t2_fixed__p18254_terminationG_0.smt2 : 369877 ms.
+--------------------------------------------------
+Number of variables: 93090
+Number of clauses: 538614
+sat
+real sat
+hardSample/From_T2__consts5nt.t2_fixed__p18365_terminationG_0.smt2 : 8356 ms.
+--------------------------------------------------
+Number of variables: 97490
+Number of clauses: 565699
+sat
+real sat
+hardSample/From_T2__consts5nt.t2_fixed__p18372_terminationG_0.smt2 : 95050 ms.
+--------------------------------------------------
+Number of variables: 97750
+Number of clauses: 567403
+sat
+real sat
+hardSample/From_T2__consts5nt.t2_fixed__p18377_terminationG_0.smt2 : 11803 ms.
+--------------------------------------------------
+Number of variables: 80026503
+Number of clauses: 472261823
+hardSample/From_T2__curious4.t2__p18663_edge_closing_0.smt2 : 1205550 ms.
+--------------------------------------------------
+Number of variables: 41713149
+Number of clauses: 245416823
+hardSample/From_T2__curious4.t2__p18666_edge_closing_0.smt2 : 1204030 ms.
+--------------------------------------------------
+Number of variables: 98974499
+Number of clauses: 584851940
+hardSample/From_T2__db2.t2__p18741_edge_closing_0.smt2 : 1208034 ms.
+--------------------------------------------------
+Number of variables: 57438312
+Number of clauses: 340507987
+hardSample/From_T2__dumper.t2__p19136_edge_closing_0.smt2 : 1204862 ms.
+--------------------------------------------------
+Number of variables: 64287443
+Number of clauses: 380264001
+hardSample/From_T2__dumper.t2__p19137_edge_closing_0.smt2 : 1205158 ms.
+--------------------------------------------------
+Number of variables: 22945009
+Number of clauses: 135198387
+hardSample/From_T2__dumper.t2__p19141_edge_closing_0.smt2 : 1202401 ms.
+--------------------------------------------------
+Number of variables: 3597251
+Number of clauses: 20812138
+hardSample/From_T2__florian_sas2.t2__p32375_terminationG_0.smt2 : 1200429 ms.
+--------------------------------------------------
+Number of variables: 3601969
+Number of clauses: 20842355
+hardSample/From_T2__florian_sas2.t2__p32380_terminationG_0.smt2 : 1200340 ms.
+--------------------------------------------------
+Number of variables: 3608053
+Number of clauses: 20880380
+hardSample/From_T2__florian_sas2.t2__p32385_terminationG_0.smt2 : 1200345 ms.
+--------------------------------------------------
+Number of variables: 3626325
+Number of clauses: 20989780
+hardSample/From_T2__florian_sas2.t2__p32395_terminationG_0.smt2 : 1200351 ms.
+--------------------------------------------------
+Number of variables: 4658990
+Number of clauses: 27043400
+hardSample/From_T2__fun1b.t2_fixed__p553_terminationG_0.smt2 : 1200404 ms.
+--------------------------------------------------
+Number of variables: 4701549
+Number of clauses: 27338897
+hardSample/From_T2__fun1b.t2_fixed__p571_terminationG_0.smt2 : 1200526 ms.
+--------------------------------------------------
+Number of variables: 2581926
+Number of clauses: 14998909
+hardSample/From_T2__fun1b.t2_fixed__p578_terminationG_0.smt2 : 1200246 ms.
+--------------------------------------------------
+Number of variables: 4735466
+Number of clauses: 27566464
+hardSample/From_T2__fun1b.t2_fixed__p579_terminationG_0.smt2 : 1200436 ms.
+--------------------------------------------------
+Number of variables: 6507266
+Number of clauses: 37590968
+hardSample/From_T2__fun1b.t2__p590_terminationG_0.smt2 : 1200644 ms.
+--------------------------------------------------
+Number of variables: 6995169
+Number of clauses: 40293684
+hardSample/From_T2__fun1b.t2__p597_terminationG_0.smt2 : 1200709 ms.
+--------------------------------------------------
+Number of variables: 11100492
+Number of clauses: 64119119
+hardSample/From_T2__fun1b.t2__p598_terminationG_0.smt2 : 1200887 ms.
+--------------------------------------------------
+Number of variables: 6591266
+Number of clauses: 38120787
+hardSample/From_T2__fun1b.t2__p603_terminationG_0.smt2 : 1200772 ms.
+--------------------------------------------------
+Number of variables: 3746018
+Number of clauses: 21495190
+hardSample/From_T2__fun1b.t2__p610_terminationG_0.smt2 : 1200384 ms.
+--------------------------------------------------
+Number of variables: 7047810
+Number of clauses: 40628319
+hardSample/From_T2__fun1b.t2__p611_terminationG_0.smt2 : 1200692 ms.
+--------------------------------------------------
+Number of variables: 11162442
+Number of clauses: 64512324
+hardSample/From_T2__fun1b.t2__p612_terminationG_0.smt2 : 1201067 ms.
+--------------------------------------------------
+Number of variables: 6596800
+Number of clauses: 38160608
+hardSample/From_T2__fun1b.t2__p617_terminationG_0.smt2 : 1200691 ms.
+--------------------------------------------------
+Number of variables: 7137533
+Number of clauses: 41184885
+hardSample/From_T2__fun1b.t2__p625_terminationG_0.smt2 : 1200869 ms.
+--------------------------------------------------
+Number of variables: 11259315
+Number of clauses: 65113996
+hardSample/From_T2__fun1b.t2__p626_terminationG_0.smt2 : 1201003 ms.
+--------------------------------------------------
+Number of variables: 11433102
+Number of clauses: 66220319
+hardSample/From_T2__fun1b.t2__p639_terminationG_0.smt2 : 1201219 ms.
+--------------------------------------------------
+Number of variables: 6731200
+Number of clauses: 39005042
+hardSample/From_T2__fun1b.t2__p645_terminationG_0.smt2 : 1200687 ms.
+--------------------------------------------------
+Number of variables: 7297647
+Number of clauses: 42200179
+hardSample/From_T2__fun1b.t2__p654_terminationG_0.smt2 : 1200570 ms.
+--------------------------------------------------
+Number of variables: 11433213
+Number of clauses: 66218057
+hardSample/From_T2__fun1b.t2__p655_terminationG_0.smt2 : 1201777 ms.
+--------------------------------------------------
+Number of variables: 6731311
+Number of clauses: 39003824
+hardSample/From_T2__fun1b.t2__p660_terminationG_0.smt2 : 1200687 ms.
+--------------------------------------------------
+Number of variables: 6232041
+Number of clauses: 36025612
+hardSample/From_T2__fun1b.t2__p667_terminationG_0.smt2 : 1200597 ms.
+--------------------------------------------------
+Number of variables: 9980751
+Number of clauses: 57805598
+hardSample/From_T2__fun1b.t2__p668_terminationG_0.smt2 : 1201031 ms.
+--------------------------------------------------
+Number of variables: 6788209
+Number of clauses: 39351966
+hardSample/From_T2__fun1b.t2__p673_terminationG_0.smt2 : 1200547 ms.
+--------------------------------------------------
+Number of variables: 4326061
+Number of clauses: 25177321
+hardSample/From_T2__fun1b.t2__p679_terminationG_0.smt2 : 1200372 ms.
+--------------------------------------------------
+Number of variables: 7682641
+Number of clauses: 44661181
+hardSample/From_T2__fun1b.t2__p680_terminationG_0.smt2 : 1200919 ms.
+--------------------------------------------------
+Number of variables: 11852740
+Number of clauses: 68901855
+hardSample/From_T2__fun1b.t2__p681_terminationG_0.smt2 : 1200797 ms.
+--------------------------------------------------
+Number of variables: 4029805
+Number of clauses: 23389114
+hardSample/From_T2__fun1b.t2__p685_terminationG_0.smt2 : 1200360 ms.
+--------------------------------------------------
+Number of variables: 6943526
+Number of clauses: 40354441
+hardSample/From_T2__fun1b.t2__p686_terminationG_0.smt2 : 1200710 ms.
+--------------------------------------------------
+Number of variables: 4589589
+Number of clauses: 26602220
+hardSample/From_T2__fun1.t2_fixed__p738_terminationG_0.smt2 : 1200399 ms.
+--------------------------------------------------
+Number of variables: 4650110
+Number of clauses: 26998961
+hardSample/From_T2__fun1.t2_fixed__p746_terminationG_0.smt2 : 1200529 ms.
+--------------------------------------------------
+Number of variables: 4701549
+Number of clauses: 27338897
+hardSample/From_T2__fun1.t2_fixed__p772_terminationG_0.smt2 : 1200643 ms.
+--------------------------------------------------
+Number of variables: 2581926
+Number of clauses: 14998909
+hardSample/From_T2__fun1.t2_fixed__p785_terminationG_0.smt2 : 1200613 ms.
+--------------------------------------------------
+Number of variables: 4735466
+Number of clauses: 27566464
+hardSample/From_T2__fun1.t2_fixed__p786_terminationG_0.smt2 : 1200461 ms.
+--------------------------------------------------
+Number of variables: 6507266
+Number of clauses: 37590968
+hardSample/From_T2__fun1.t2__p798_terminationG_0.smt2 : 1200548 ms.
+--------------------------------------------------
+Number of variables: 6995169
+Number of clauses: 40293684
+hardSample/From_T2__fun1.t2__p805_terminationG_0.smt2 : 1200595 ms.
+--------------------------------------------------
+Number of variables: 11100492
+Number of clauses: 64119119
+hardSample/From_T2__fun1.t2__p806_terminationG_0.smt2 : 1200854 ms.
+--------------------------------------------------
+Number of variables: 6557698
+Number of clauses: 37917098
+hardSample/From_T2__fun1.t2__p811_terminationG_0.smt2 : 1200657 ms.
+--------------------------------------------------
+Number of variables: 6025151
+Number of clauses: 34717738
+hardSample/From_T2__fun1.t2__p819_terminationG_0.smt2 : 1200569 ms.
+--------------------------------------------------
+Number of variables: 9749484
+Number of clauses: 56341839
+hardSample/From_T2__fun1.t2__p820_terminationG_0.smt2 : 1200866 ms.
+--------------------------------------------------
+Number of variables: 6613864
+Number of clauses: 38261273
+hardSample/From_T2__fun1.t2__p825_terminationG_0.smt2 : 1200704 ms.
+--------------------------------------------------
+Number of variables: 5766173
+Number of clauses: 33337793
+hardSample/From_T2__fun5.t2_fixed__p1007_terminationG_0.smt2 : 1200521 ms.
+--------------------------------------------------
+Number of variables: 398961
+Number of clauses: 2263271
+sat
+real sat
+hardSample/From_T2__fun9.t2__p1441_edge_closing_0.smt2 : 574018 ms.
+--------------------------------------------------
+Number of variables: 27664206
+Number of clauses: 159331851
+hardSample/From_T2__hqr.c.i.hqr.pl.t2.fixed.t2_fixed__p1608_terminationG_0.smt2 : 1201875 ms.
+--------------------------------------------------
+Number of variables: 31831069
+Number of clauses: 184381366
+hardSample/From_T2__hqr.c.i.hqr.pl.t2.fixed.t2__p1654_edge_closing_0.smt2 : 1202657 ms.
+--------------------------------------------------
+Number of variables: 2692316
+Number of clauses: 15600539
+hardSample/From_T2__mc91test.t2__p3101_terminationG_0.smt2 : 1200260 ms.
+--------------------------------------------------
+Number of variables: 649115
+Number of clauses: 3880285
+unsat in 14 bits.
+hardSample/From_T2__n-40.t2__p4322_edge_closing_0.smt2 : 4412 ms.
+--------------------------------------------------
+Number of variables: 1409247
+Number of clauses: 8289929
+unsat in 14 bits.
+hardSample/From_T2__n-40.t2__p4324_edge_closing_0.smt2 : 10524 ms.
+--------------------------------------------------
+Number of variables: 635207
+Number of clauses: 3759557
+unsat in 14 bits.
+hardSample/From_T2__n-40.t2__p4326_edge_closing_0.smt2 : 5656 ms.
+--------------------------------------------------
+Number of variables: 556074
+Number of clauses: 3266052
+unsat in 14 bits.
+hardSample/From_T2__n-40.t2__p4330_edge_closing_0.smt2 : 4221 ms.
+--------------------------------------------------
+Number of variables: 285340
+Number of clauses: 1678866
+unsat in 14 bits.
+hardSample/From_T2__n-40.t2__p4332_edge_closing_0.smt2 : 2421 ms.
+--------------------------------------------------
+Number of variables: 427376
+Number of clauses: 2508561
+unsat in 14 bits.
+hardSample/From_T2__n-40.t2__p4333_edge_closing_0.smt2 : 3596 ms.
+--------------------------------------------------
+Number of variables: 572102
+Number of clauses: 3296215
+sat
+real sat
+hardSample/From_T2__n-5.t2_fixed__p4580_terminationG_0.smt2 : 274475 ms.
+--------------------------------------------------
+Number of variables: 578322
+Number of clauses: 3335144
+sat
+real sat
+hardSample/From_T2__n-5.t2_fixed__p4585_terminationG_0.smt2 : 1125024 ms.
+--------------------------------------------------
+Number of variables: 584166
+Number of clauses: 3371113
+sat
+real sat
+hardSample/From_T2__n-5.t2_fixed__p4590_terminationG_0.smt2 : 1042354 ms.
+--------------------------------------------------
+Number of variables: 434192
+Number of clauses: 2501845
+sat
+real sat
+hardSample/From_T2__n-5.t2_fixed__p4595_terminationG_0.smt2 : 907417 ms.
+--------------------------------------------------
+Number of variables: 664358
+Number of clauses: 3827262
+sat
+real sat
+hardSample/From_T2__n-5.t2__p4667_terminationG_0.smt2 : 396071 ms.
+--------------------------------------------------
+Number of variables: 670566
+Number of clauses: 3866095
+hardSample/From_T2__n-5.t2__p4672_terminationG_0.smt2 : 1200083 ms.
+--------------------------------------------------
+Number of variables: 677454
+Number of clauses: 3907952
+sat
+real sat
+hardSample/From_T2__n-5.t2__p4677_terminationG_0.smt2 : 1085642 ms.
+--------------------------------------------------
+Number of variables: 502664
+Number of clauses: 2895557
+hardSample/From_T2__n-5.t2__p4682_terminationG_0.smt2 : 1200100 ms.
+--------------------------------------------------
+Number of variables: 6543417
+Number of clauses: 37807152
+hardSample/From_T2__nakata.t2__p5311_terminationG_0.smt2 : 1200564 ms.
+--------------------------------------------------
+Number of variables: 23761595
+Number of clauses: 137864104
+hardSample/From_T2__nakata.t2__p5353_edge_closing_0.smt2 : 1202476 ms.
+--------------------------------------------------
+Number of variables: 20364948
+Number of clauses: 116974558
+hardSample/From_T2__pgarch.t2_fixed__p7213_terminationG_0.smt2 : 1202003 ms.
+--------------------------------------------------
+Number of variables: 37296728
+Number of clauses: 215188356
+hardSample/From_T2__pgarch.t2_fixed__p7214_terminationG_0.smt2 : 1204507 ms.
+--------------------------------------------------
+Number of variables: 36904440
+Number of clauses: 211817503
+hardSample/From_T2__pgarch.t2__p7299_edge_closing_0.smt2 : 1203786 ms.
+--------------------------------------------------
+Number of variables: 913360
+Number of clauses: 5404264
+unsat in 14 bits.
+hardSample/From_T2__ppblock.t2__p7745_edge_closing_0.smt2 : 7277 ms.
+--------------------------------------------------
+Number of variables: 1256366
+Number of clauses: 7396928
+unsat in 14 bits.
+hardSample/From_T2__ppblock.t2__p7746_edge_closing_0.smt2 : 9804 ms.
+--------------------------------------------------
+Number of variables: 347993
+Number of clauses: 2074387
+unsat in 14 bits.
+hardSample/From_T2__ppblock.t2__p7747_edge_closing_0.smt2 : 2777 ms.
+--------------------------------------------------
+Number of variables: 762394
+Number of clauses: 4486259
+unsat in 14 bits.
+hardSample/From_T2__ppblock.t2__p7749_edge_closing_0.smt2 : 6335 ms.
+--------------------------------------------------
+Number of variables: 257100
+Number of clauses: 1509624
+unsat in 14 bits.
+hardSample/From_T2__ppblock.t2__p7758_edge_closing_0.smt2 : 2405 ms.
+--------------------------------------------------
+Number of variables: 377953
+Number of clauses: 2217433
+unsat in 14 bits.
+hardSample/From_T2__ppblock.t2__p7759_edge_closing_0.smt2 : 2661 ms.
+--------------------------------------------------
+Number of variables: 913360
+Number of clauses: 5404264
+unsat in 14 bits.
+hardSample/From_T2__ppblocktermbug.t2__p7825_edge_closing_0.smt2 : 7120 ms.
+--------------------------------------------------
+Number of variables: 1256366
+Number of clauses: 7396928
+unsat in 14 bits.
+hardSample/From_T2__ppblocktermbug.t2__p7826_edge_closing_0.smt2 : 9129 ms.
+--------------------------------------------------
+Number of variables: 347993
+Number of clauses: 2074387
+unsat in 14 bits.
+hardSample/From_T2__ppblocktermbug.t2__p7827_edge_closing_0.smt2 : 2803 ms.
+--------------------------------------------------
+Number of variables: 762394
+Number of clauses: 4486259
+unsat in 14 bits.
+hardSample/From_T2__ppblocktermbug.t2__p7829_edge_closing_0.smt2 : 6061 ms.
+--------------------------------------------------
+Number of variables: 377953
+Number of clauses: 2217433
+unsat in 14 bits.
+hardSample/From_T2__ppblocktermbug.t2__p7838_edge_closing_0.smt2 : 3018 ms.
+--------------------------------------------------
+Number of variables: 913360
+Number of clauses: 5404264
+unsat in 14 bits.
+hardSample/From_T2__ppblockterm.t2__p7904_edge_closing_0.smt2 : 7387 ms.
+--------------------------------------------------
+Number of variables: 1256366
+Number of clauses: 7396928
+unsat in 14 bits.
+hardSample/From_T2__ppblockterm.t2__p7905_edge_closing_0.smt2 : 9664 ms.
+--------------------------------------------------
+Number of variables: 347993
+Number of clauses: 2074387
+unsat in 14 bits.
+hardSample/From_T2__ppblockterm.t2__p7906_edge_closing_0.smt2 : 2328 ms.
+--------------------------------------------------
+Number of variables: 257100
+Number of clauses: 1509624
+unsat in 14 bits.
+hardSample/From_T2__ppblockterm.t2__p7916_edge_closing_0.smt2 : 1715 ms.
+--------------------------------------------------
+Number of variables: 377953
+Number of clauses: 2217433
+unsat in 14 bits.
+hardSample/From_T2__ppblockterm.t2__p7917_edge_closing_0.smt2 : 2471 ms.
+--------------------------------------------------
+Number of variables: 3222630
+Number of clauses: 18902265
+unsat in 14 bits.
+hardSample/From_T2__ruslan-benchmarks_misc_n-38.t2__p9253_edge_closing_0.smt2 : 24122 ms.
+--------------------------------------------------
+Number of variables: 4453055
+Number of clauses: 26091796
+unsat in 14 bits.
+hardSample/From_T2__ruslan-benchmarks_misc_n-38.t2__p9254_edge_closing_0.smt2 : 34818 ms.
+--------------------------------------------------
+Number of variables: 3877529
+Number of clauses: 22731111
+unsat in 14 bits.
+hardSample/From_T2__ruslan-benchmarks_misc_n-38.t2__p9262_edge_closing_0.smt2 : 30054 ms.
+--------------------------------------------------
+Number of variables: 2584060
+Number of clauses: 15151997
+unsat in 14 bits.
+hardSample/From_T2__ruslan-benchmarks_misc_n-38.t2__p9264_edge_closing_0.smt2 : 18915 ms.
+--------------------------------------------------
+Number of variables: 3564541
+Number of clauses: 20895987
+unsat in 14 bits.
+hardSample/From_T2__ruslan-benchmarks_misc_n-38.t2__p9265_edge_closing_0.smt2 : 27460 ms.
+--------------------------------------------------
+Number of variables: 1795050
+Number of clauses: 10526876
+unsat in 14 bits.
+hardSample/From_T2__ruslan-benchmarks_misc_n-38.t2__p9266_edge_closing_0.smt2 : 12586 ms.
+--------------------------------------------------
+Number of variables: 2478082
+Number of clauses: 14536985
+unsat in 14 bits.
+hardSample/From_T2__ruslan-benchmarks_misc_n-38.t2__p9267_edge_closing_0.smt2 : 19241 ms.
+--------------------------------------------------
+Number of variables: 3418135
+Number of clauses: 20049728
+unsat in 14 bits.
+hardSample/From_T2__ruslan-benchmarks_misc_n-38.t2__p9268_edge_closing_0.smt2 : 26535 ms.
+--------------------------------------------------
+Number of variables: 56796721
+Number of clauses: 331254549
+hardSample/From_T2__slayer-3-new.t2_fixed__p21863_edge_closing_0.smt2 : 1206554 ms.
+--------------------------------------------------
+Number of variables: 74064353
+Number of clauses: 433257231
+hardSample/From_T2__slayer-3.t2_fixed__p22168_edge_closing_0.smt2 : 1208147 ms.
+--------------------------------------------------
+Number of variables: 34732627
+Number of clauses: 199552916
+hardSample/From_T2__slayer-3.t2__p22405_edge_closing_0.smt2 : 1203902 ms.
+--------------------------------------------------
+Number of variables: 129454779
+Number of clauses: 762796034
+hardSample/From_T2__svdcmp.c.i.svdcmp.pl.t2.fixed.t2__p24903_edge_closing_0.smt2 : 1211935 ms.
+--------------------------------------------------
+Number of variables: 121887909
+Number of clauses: 718041969
+hardSample/From_T2__svdcmp.c.i.svdcmp.pl.t2.nor.t2.rlgfixed.t2__p24945_edge_closing_0.smt2 : 1212549 ms.
+--------------------------------------------------
+Number of variables: 18171404
+Number of clauses: 105186790
+hardSample/From_T2__tqli.c.i.tqli.pl.t2.fixed.t2__p25030_terminationG_0.smt2 : 1201480 ms.
+--------------------------------------------------
+Number of variables: 7420053
+Number of clauses: 43487164
+unsat in 14 bits.
+hardSample/From_T2__tqli.c.i.tqli.pl.t2.fixed.t2__p25045_edge_closing_0.smt2 : 244400 ms.
+--------------------------------------------------
+Number of variables: 9935169
+Number of clauses: 58105022
+unsat in 14 bits.
+hardSample/From_T2__tqli.c.i.tqli.pl.t2.fixed.t2__p25046_edge_closing_0.smt2 : 374324 ms.
+--------------------------------------------------
+Number of variables: 13602569
+Number of clauses: 79452824
+unsat in 14 bits.
+hardSample/From_T2__tqli.c.i.tqli.pl.t2.fixed.t2__p25047_edge_closing_0.smt2 : 652993 ms.
+--------------------------------------------------
+Number of variables: 7176482
+Number of clauses: 42030678
+unsat in 14 bits.
+hardSample/From_T2__tqli.c.i.tqli.pl.t2.fixed.t2__p25050_edge_closing_0.smt2 : 295517 ms.
+--------------------------------------------------
+Number of variables: 9573965
+Number of clauses: 55959743
+unsat in 14 bits.
+hardSample/From_T2__tqli.c.i.tqli.pl.t2.fixed.t2__p25051_edge_closing_0.smt2 : 120085 ms.
+--------------------------------------------------
+Number of variables: 12979996
+Number of clauses: 75779952
+unsat in 14 bits.
+hardSample/From_T2__tqli.c.i.tqli.pl.t2.fixed.t2__p25052_edge_closing_0.smt2 : 539820 ms.
+--------------------------------------------------
+Number of variables: 6627104
+Number of clauses: 38830296
+unsat in 14 bits.
+hardSample/From_T2__tqli.c.i.tqli.pl.t2.fixed.t2__p25053_edge_closing_0.smt2 : 97132 ms.
+--------------------------------------------------
+Number of variables: 8688947
+Number of clauses: 50810345
+unsat in 14 bits.
+hardSample/From_T2__tqli.c.i.tqli.pl.t2.fixed.t2__p25054_edge_closing_0.smt2 : 315029 ms.
+--------------------------------------------------
+Number of variables: 11615284
+Number of clauses: 67840390
+unsat in 14 bits.
+hardSample/From_T2__tqli.c.i.tqli.pl.t2.fixed.t2__p25055_edge_closing_0.smt2 : 129900 ms.
+--------------------------------------------------
+Number of variables: 6540540
+Number of clauses: 38334212
+unsat in 14 bits.
+hardSample/From_T2__tqli.c.i.tqli.pl.t2.fixed.t2__p25056_edge_closing_0.smt2 : 48091 ms.
+--------------------------------------------------
+Number of variables: 37788839
+Number of clauses: 221453270
+hardSample/From_T2__tqli.c.i.tqli.pl.t2.nor.t2.rlgfixed.t2__p25095_edge_closing_0.smt2 : 1204976 ms.
+--------------------------------------------------
+Number of variables: 7027717
+Number of clauses: 41159242
+unsat in 14 bits.
+hardSample/From_T2__tqli.c.i.tqli.pl.t2.nor.t2.rlgfixed.t2__p25097_edge_closing_0.smt2 : 78302 ms.
+--------------------------------------------------
+Number of variables: 9542733
+Number of clauses: 55785866
+unsat in 14 bits.
+hardSample/From_T2__tqli.c.i.tqli.pl.t2.nor.t2.rlgfixed.t2__p25098_edge_closing_0.smt2 : 377433 ms.
+--------------------------------------------------
+Number of variables: 13082689
+Number of clauses: 76399530
+unsat in 14 bits.
+hardSample/From_T2__tqli.c.i.tqli.pl.t2.nor.t2.rlgfixed.t2__p25099_edge_closing_0.smt2 : 158026 ms.
+--------------------------------------------------
+Number of variables: 6051357
+Number of clauses: 35466775
+unsat in 14 bits.
+hardSample/From_T2__tqli.c.i.tqli.pl.t2.nor.t2.rlgfixed.t2__p25100_edge_closing_0.smt2 : 47538 ms.
+--------------------------------------------------
+Number of variables: 8002801
+Number of clauses: 46820887
+unsat in 14 bits.
+hardSample/From_T2__tqli.c.i.tqli.pl.t2.nor.t2.rlgfixed.t2__p25101_edge_closing_0.smt2 : 55946 ms.
+--------------------------------------------------
+Number of variables: 10808115
+Number of clauses: 63162499
+unsat in 14 bits.
+hardSample/From_T2__tqli.c.i.tqli.pl.t2.nor.t2.rlgfixed.t2__p25102_edge_closing_0.smt2 : 98591 ms.
+--------------------------------------------------
+Number of variables: 5540473
+Number of clauses: 32502083
+unsat in 14 bits.
+hardSample/From_T2__tqli.c.i.tqli.pl.t2.nor.t2.rlgfixed.t2__p25105_edge_closing_0.smt2 : 40117 ms.
+--------------------------------------------------
+Number of variables: 7038507
+Number of clauses: 41218425
+unsat in 14 bits.
+hardSample/From_T2__tqli.c.i.tqli.pl.t2.nor.t2.rlgfixed.t2__p25106_edge_closing_0.smt2 : 48046 ms.
+--------------------------------------------------
+Number of variables: 9219395
+Number of clauses: 53922939
+unsat in 14 bits.
+hardSample/From_T2__tqli.c.i.tqli.pl.t2.nor.t2.rlgfixed.t2__p25107_edge_closing_0.smt2 : 345492 ms.
+--------------------------------------------------
+Number of variables: 5799830
+Number of clauses: 33999050
+unsat in 14 bits.
+hardSample/From_T2__tqli.c.i.tqli.pl.t2.nor.t2.rlgfixed.t2__p25108_edge_closing_0.smt2 : 43793 ms.
+--------------------------------------------------
+Number of variables: 7409399
+Number of clauses: 43363824
+unsat in 14 bits.
+hardSample/From_T2__tqli.c.i.tqli.pl.t2.nor.t2.rlgfixed.t2__p25109_edge_closing_0.smt2 : 57768 ms.
+--------------------------------------------------
+Number of variables: 9659444
+Number of clauses: 56469870
+unsat in 14 bits.
+hardSample/From_T2__tqli.c.i.tqli.pl.t2.nor.t2.rlgfixed.t2__p25110_edge_closing_0.smt2 : 368215 ms.
+--------------------------------------------------
+Number of variables: 6710329
+Number of clauses: 39321254
+unsat in 14 bits.
+hardSample/From_T2__tqli.t2_fixed__p25189_edge_closing_0.smt2 : 55269 ms.
+--------------------------------------------------
+Number of variables: 8958601
+Number of clauses: 52389458
+unsat in 14 bits.
+hardSample/From_T2__tqli.t2_fixed__p25190_edge_closing_0.smt2 : 144080 ms.
+--------------------------------------------------
+Number of variables: 12231111
+Number of clauses: 71439130
+unsat in 14 bits.
+hardSample/From_T2__tqli.t2_fixed__p25191_edge_closing_0.smt2 : 473754 ms.
+--------------------------------------------------
+Number of variables: 5904331
+Number of clauses: 34617371
+unsat in 14 bits.
+hardSample/From_T2__tqli.t2_fixed__p25196_edge_closing_0.smt2 : 41732 ms.
+--------------------------------------------------
+Number of variables: 7731625
+Number of clauses: 45241099
+unsat in 14 bits.
+hardSample/From_T2__tqli.t2_fixed__p25197_edge_closing_0.smt2 : 52116 ms.
+--------------------------------------------------
+Number of variables: 10412371
+Number of clauses: 60848939
+unsat in 14 bits.
+hardSample/From_T2__tqli.t2_fixed__p25198_edge_closing_0.smt2 : 74278 ms.
+--------------------------------------------------
+Number of variables: 6008538
+Number of clauses: 35201507
+unsat in 14 bits.
+hardSample/From_T2__tqli.t2_fixed__p25199_edge_closing_0.smt2 : 44799 ms.
+--------------------------------------------------
+Number of variables: 7854616
+Number of clauses: 45929743
+unsat in 14 bits.
+hardSample/From_T2__tqli.t2_fixed__p25200_edge_closing_0.smt2 : 58679 ms.
+--------------------------------------------------
+Number of variables: 10469105
+Number of clauses: 61145983
+unsat in 14 bits.
+hardSample/From_T2__tqli.t2_fixed__p25201_edge_closing_0.smt2 : 77688 ms.
+--------------------------------------------------
+Number of variables: 5729378
+Number of clauses: 33582016
+unsat in 14 bits.
+hardSample/From_T2__tqli.t2_fixed__p25202_edge_closing_0.smt2 : 37057 ms.
+--------------------------------------------------
+Number of variables: 12651250
+Number of clauses: 73328225
+hardSample/From_T2__tqli.t2__p25258_terminationG_0.smt2 : 1201575 ms.
+--------------------------------------------------
+Number of variables: 1947559
+Number of clauses: 11562752
+unsat in 14 bits.
+hardSample/From_T2__walk.t2__p25606_edge_closing_0.smt2 : 14882 ms.
+--------------------------------------------------
+Number of variables: 4440355
+Number of clauses: 25988442
+unsat in 14 bits.
+hardSample/From_T2__walk.t2__p25608_edge_closing_0.smt2 : 35672 ms.
+--------------------------------------------------
+Number of variables: 3590279
+Number of clauses: 20661888
+hardSample/From_T2__zeroconf.t2__p25764_terminationG_0.smt2 : 1200440 ms.
+--------------------------------------------------
+Number of variables: 6572046
+Number of clauses: 37959870
+hardSample/From_T2__zeroconf.t2__p25765_terminationG_0.smt2 : 1200683 ms.
+--------------------------------------------------
+Number of variables: 3607981
+Number of clauses: 20762718
+hardSample/From_T2__zeroconf.t2__p25769_terminationG_0.smt2 : 1200362 ms.
+--------------------------------------------------
+Number of variables: 6592510
+Number of clauses: 38076862
+hardSample/From_T2__zeroconf.t2__p25770_terminationG_0.smt2 : 1200668 ms.
+--------------------------------------------------
+Number of variables: 6407901
+Number of clauses: 37014238
+hardSample/From_T2__zeroconf.t2__p25775_terminationG_0.smt2 : 1200664 ms.
+--------------------------------------------------
+Number of variables: 542986
+Number of clauses: 3134958
+hardSample/Stroeder_15__4NestedWith3Variables_true-termination.c__p20212_terminationG_0.smt2 : 1200082 ms.
+--------------------------------------------------
+Number of variables: 916155
+Number of clauses: 5291378
+hardSample/Stroeder_15__4NestedWith3Variables_true-termination.c__p20228_terminationG_0.smt2 : 1200142 ms.
+--------------------------------------------------
+Number of variables: 845931
+Number of clauses: 4887751
+hardSample/Stroeder_15__4NestedWith3Variables_true-termination.c__p20233_terminationG_0.smt2 : 1200139 ms.
+--------------------------------------------------
+Number of variables: 776931
+Number of clauses: 4490472
+hardSample/Stroeder_15__4NestedWith3Variables_true-termination.c__p20239_terminationG_0.smt2 : 1200096 ms.
+--------------------------------------------------
+Number of variables: 547991
+Number of clauses: 3164546
+hardSample/Stroeder_15__4NestedWith3Variables_true-termination.c__p20247_terminationG_0.smt2 : 1200092 ms.
+--------------------------------------------------
+Number of variables: 549298
+Number of clauses: 3173151
+hardSample/Stroeder_15__4NestedWith3Variables_true-termination.c__p20255_terminationG_0.smt2 : 1200069 ms.
+--------------------------------------------------
+Number of variables: 416314
+Number of clauses: 2407725
+hardSample/Stroeder_15__4NestedWith3Variables_true-termination.c__p20260_terminationG_0.smt2 : 1200056 ms.
+--------------------------------------------------
+Number of variables: 783767
+Number of clauses: 4531713
+hardSample/Stroeder_15__4NestedWith3Variables_true-termination.c__p20281_terminationG_0.smt2 : 1200158 ms.
+--------------------------------------------------
+Number of variables: 586892
+Number of clauses: 3386495
+hardSample/Stroeder_15__4NestedWith3Variables_true-termination.c__p20306_terminationG_0.smt2 : 1200122 ms.
+--------------------------------------------------
+Number of variables: 1090957
+Number of clauses: 6313211
+hardSample/Stroeder_15__4NestedWith3Variables_true-termination.c__p20307_terminationG_0.smt2 : 1200183 ms.
+--------------------------------------------------
+Number of variables: 1019917
+Number of clauses: 5903212
+hardSample/Stroeder_15__4NestedWith3Variables_true-termination.c__p20314_terminationG_0.smt2 : 1200148 ms.
+--------------------------------------------------
+Number of variables: 784817
+Number of clauses: 4539573
+hardSample/Stroeder_15__4NestedWith3Variables_true-termination.c__p20326_terminationG_0.smt2 : 1200091 ms.
+--------------------------------------------------
+Number of variables: 137178
+Number of clauses: 789895
+unsat in 14 bits.
+hardSample/Stroeder_15__ChenFlurMukhopadhyay-SAS2012-Ex2.06_false-termination.c__p21144_edge_closing_0.smt2 : 1148 ms.
+--------------------------------------------------
+Number of variables: 235824
+Number of clauses: 1394684
+unsat in 14 bits.
+hardSample/Stroeder_15__ChenFlurMukhopadhyay-SAS2012-Ex2.11_false-termination.c__p21336_edge_closing_0.smt2 : 1725 ms.
+--------------------------------------------------
+Number of variables: 390925
+Number of clauses: 2293307
+unsat in 14 bits.
+hardSample/Stroeder_15__ChenFlurMukhopadhyay-SAS2012-Ex2.11_false-termination.c__p21337_edge_closing_0.smt2 : 3247 ms.
+--------------------------------------------------
+Number of variables: 562262
+Number of clauses: 3287124
+unsat in 14 bits.
+hardSample/Stroeder_15__ChenFlurMukhopadhyay-SAS2012-Ex2.11_false-termination.c__p21338_edge_closing_0.smt2 : 3864 ms.
+--------------------------------------------------
+Number of variables: 142996
+Number of clauses: 821569
+sat
+real sat
+hardSample/Stroeder_15__ChenFlurMukhopadhyay-SAS2012-Ex2.12_false-termination.c__p21387_terminationG_0.smt2 : 104571 ms.
+--------------------------------------------------
+Number of variables: 145872
+Number of clauses: 838940
+hardSample/Stroeder_15__ChenFlurMukhopadhyay-SAS2012-Ex2.12_false-termination.c__p21392_terminationG_0.smt2 : 1200029 ms.
+--------------------------------------------------
+Number of variables: 132971
+Number of clauses: 763878
+sat
+real sat
+hardSample/Stroeder_15__ChenFlurMukhopadhyay-SAS2012-Ex2.17_false-termination.c__p21544_terminationG_0.smt2 : 39643 ms.
+--------------------------------------------------
+Number of variables: 4868032
+Number of clauses: 29717141
+unsat in 14 bits.
+hardSample/Stroeder_15__ChenFlurMukhopadhyay-SAS2012-Ex3.06_false-termination.c__p22027_edge_closing_0.smt2 : 35504 ms.
+--------------------------------------------------
+Number of variables: 6855366
+Number of clauses: 41229108
+unsat in 14 bits.
+hardSample/Stroeder_15__ChenFlurMukhopadhyay-SAS2012-Ex3.06_false-termination.c__p22028_edge_closing_0.smt2 : 51759 ms.
+--------------------------------------------------
+Number of variables: 8867086
+Number of clauses: 52889979
+unsat in 14 bits.
+hardSample/Stroeder_15__ChenFlurMukhopadhyay-SAS2012-Ex3.06_false-termination.c__p22029_edge_closing_0.smt2 : 69448 ms.
+--------------------------------------------------
+Number of variables: 818915
+Number of clauses: 4709818
+hardSample/Stroeder_15__Narrowing.c__p24535_terminationG_0.smt2 : 1200113 ms.
+--------------------------------------------------
+Number of variables: 1561342
+Number of clauses: 9017507
+hardSample/Stroeder_15__Narrowing.c__p24536_terminationG_0.smt2 : 1200252 ms.
+--------------------------------------------------
+Number of variables: 164653
+Number of clauses: 950102
+unsat in 14 bits.
+hardSample/Stroeder_15__NonTermination2_false-termination.c__p24932_edge_closing_0.smt2 : 1098 ms.
+--------------------------------------------------
+Number of variables: 197580
+Number of clauses: 1140505
+unsat in 14 bits.
+hardSample/Stroeder_15__NonTermination2_false-termination.c__p24938_edge_closing_0.smt2 : 1366 ms.
+--------------------------------------------------
+Number of variables: 186459
+Number of clauses: 1074085
+sat
+real sat
+hardSample/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26790_terminationG_0.smt2 : 51789 ms.
+--------------------------------------------------
+Number of variables: 356644
+Number of clauses: 2059981
+sat
+real sat
+hardSample/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26799_terminationG_0.smt2 : 256245 ms.
+--------------------------------------------------
+Number of variables: 233846
+Number of clauses: 1346362
+sat
+real sat
+hardSample/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26807_terminationG_0.smt2 : 195843 ms.
+--------------------------------------------------
+Number of variables: 442632
+Number of clauses: 2557101
+sat
+real sat
+hardSample/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26808_terminationG_0.smt2 : 261286 ms.
+--------------------------------------------------
+Number of variables: 274606
+Number of clauses: 1583210
+sat
+real sat
+hardSample/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26818_terminationG_0.smt2 : 214789 ms.
+--------------------------------------------------
+Number of variables: 527595
+Number of clauses: 3051261
+sat
+real sat
+hardSample/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26819_terminationG_0.smt2 : 303208 ms.
+--------------------------------------------------
+Number of variables: 275090
+Number of clauses: 1586830
+hardSample/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26830_terminationG_0.smt2 : 1200079 ms.
+--------------------------------------------------
+Number of variables: 528251
+Number of clauses: 3056173
+hardSample/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26831_terminationG_0.smt2 : 1200087 ms.
+--------------------------------------------------
+Number of variables: 613062
+Number of clauses: 3548737
+hardSample/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26841_terminationG_0.smt2 : 1200111 ms.
+--------------------------------------------------
+Number of variables: 616934
+Number of clauses: 3573731
+hardSample/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26846_terminationG_0.smt2 : 1200091 ms.
+--------------------------------------------------
+Number of variables: 162570
+Number of clauses: 938657
+sat
+real sat
+hardSample/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26859_edge_closing_0.smt2 : 14853 ms.
+--------------------------------------------------
+Number of variables: 287914
+Number of clauses: 1665872
+sat
+real sat
+hardSample/Ton_Chanh_15__Copenhagen_disj_true-termination.c__p26860_edge_closing_0.smt2 : 206912 ms.
+--------------------------------------------------
+Number of variables: 1287627
+Number of clauses: 7741326
+unsat in 14 bits.
+hardSample/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p27038_edge_closing_0.smt2 : 10984 ms.
+--------------------------------------------------
+Number of variables: 1926710
+Number of clauses: 11440419
+unsat in 14 bits.
+hardSample/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p27039_edge_closing_0.smt2 : 15375 ms.
+--------------------------------------------------
+Number of variables: 2588099
+Number of clauses: 15271776
+unsat in 14 bits.
+hardSample/Ton_Chanh_15__Hanoi_3vars_false-termination.c__p27040_edge_closing_0.smt2 : 21725 ms.
+--------------------------------------------------
+Number of variables: 5275729
+Number of clauses: 32270538
+unsat in 14 bits.
+hardSample/Ton_Chanh_15__Hanoi_plus_false-termination.c__p27238_edge_closing_0.smt2 : 39927 ms.
+--------------------------------------------------
+Number of variables: 7203689
+Number of clauses: 43431715
+unsat in 14 bits.
+hardSample/Ton_Chanh_15__Hanoi_plus_false-termination.c__p27239_edge_closing_0.smt2 : 54812 ms.
+--------------------------------------------------
+Number of variables: 9155891
+Number of clauses: 54740644
+unsat in 14 bits.
+hardSample/Ton_Chanh_15__Hanoi_plus_false-termination.c__p27240_edge_closing_0.smt2 : 71857 ms.
