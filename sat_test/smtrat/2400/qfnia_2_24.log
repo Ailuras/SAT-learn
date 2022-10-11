@@ -1,5 +1,0 @@
---------------------------------------------------
-sat
-../New_SAT_split/QF_NIA_2_24/20170427-VeryMax/ITS/From_T2__tqli.t2_fixed__p25119_terminationG_0.smt2 : 60133 ms.
---------------------------------------------------
-./run.sh: line 3: 251740 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../../$1 2> /dev/null
